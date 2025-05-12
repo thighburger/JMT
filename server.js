@@ -137,14 +137,14 @@ app.get('/oauth/callback', async (req, res) => {
             console.log('새 사용자 저장:', user);
             req.session.user_id = user._id; // 세션에 사용자 ID 저장 
           
-            return res.redirect('http://localhost:5173/nickname'); // 닉네임 입력 페이지로 리디렉션
+            //return res.redirect('http://localhost:5173/nickname'); // 닉네임 입력 페이지로 리디렉션
         } 
         else {
             console.log('기존 사용자:', user);
             req.session.user_id = user._id; // 세션에 사용자 ID 저장
             // 메인 React 페이지로 이동
             
-            return res.redirect('http://localhost:5173/mainpage');
+            //return res.redirect('http://localhost:5173/mainpage');
         }
     } catch (err) {
         console.error('OAuth 처리 실패:', err);
@@ -172,6 +172,10 @@ app.get('/nickname', async (req, res) => {
         return res.status(404).send('사용자를 찾을 수 없습니다.');
     }
     res.json({ nickname: user.nickname }); // 닉네임 반환
+});
+
+app.get('/', async (req, res) => {
+    res.send(" aws배포 성공~" ); // 닉네임 반환
 });
 
 
