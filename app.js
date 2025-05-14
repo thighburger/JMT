@@ -31,7 +31,7 @@ connectDB(process.env.DB_URL);
 app.use('/oauth', authRoutes);
 app.use('/user', userRoutes);
 app.use('/stores', storeRoutes);
-app.use('/:menuId', menuRoutes);
+app.use('/menu', menuRoutes);
 //app.use('/reviews', reviewRoutes);
 
 // 기본 route
