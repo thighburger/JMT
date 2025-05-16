@@ -5,7 +5,7 @@ const cors = require('cors');
 const session = require('express-session');
 require('dotenv').config();
 
-
+const authenticateToken=require('./middleware/auth')
 const connectDB = require('./config/db');
 const authRoutes = require('./routes/authRoutes');
 const userRoutes = require('./routes/userRoutes');
@@ -39,6 +39,12 @@ app.get('/', (req, res) => {
     res.send('aws 배포 성공~');
 });
 
+app.get('/jwttest', authenticateToken, (req, res) => {
+    console.log('req:');
+    res.json({ message: 'JWT 인증 성공' });
+});
+
+
 // 서버 실행
-const PORT = 80;
-app.listen(PORT, '0.0.0.0', () => console.log(`Server running on port ${PORT}`));
+const PORT = 3000;
+app.listen(PORT,  () => console.log(`Server running on port ${PORT}`));

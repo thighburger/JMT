@@ -18,6 +18,8 @@ const { getMenu,likeMenu,unlikeMenu} = require('../controllers/menuController');
  *     responses:
  *       200:
  *         description: 메뉴 조회 성공
+ *     
+ *     
  */
 router.get('/:menuId', getMenu); // 특정 메뉴 조회
 

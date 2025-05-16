@@ -9,11 +9,19 @@ const { getAllStores, getMenusByStore } = require('../controllers/storeControlle
  *   get:
  *     summary: 가게 목록 조회
  *     description: 가게 목록을 조회합니다.
+ *     tags: [Stores]
  *     responses:
  *       200:
  *         description: 가게 목록 조회 성공
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: array
+ *               items:
+ *                 $ref: '#/components/schemas/Store'
  */
 router.get('/', getAllStores);
+
 
 /**
  * @swagger
@@ -21,6 +29,7 @@ router.get('/', getAllStores);
  *   get:
  *     summary: 특정 가게의 메뉴 조회
  *     description: 특정 가게의 메뉴를 조회합니다.
+ *     tags: [Stores]
  *     parameters:
  *       - name: storeId
  *         in: path
@@ -31,6 +40,12 @@ router.get('/', getAllStores);
  *     responses:
  *       200:
  *         description: 메뉴 조회 성공
+ *         content: 
+ *          application/json:
+ *           schema:
+ *             type: array
+ *             items:
+ *              $ref: '#/components/schemas/Menu'
  */
 router.get('/:storeId/menus', getMenusByStore); 
 

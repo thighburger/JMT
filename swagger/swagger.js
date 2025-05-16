@@ -1,5 +1,10 @@
 const swaggerUi = require("swagger-ui-express")
 const swaggereJsdoc = require("swagger-jsdoc")
+const User = require("../models/User")
+const Store = require("../models/Store")
+const Menu = require("../models/Menu")
+
+const mongooseToSwagger = require('mongoose-to-swagger');
 
 const options = {
   swaggerDefinition: {
@@ -12,10 +17,18 @@ const options = {
     },
     servers: [
       {
-        url: "http://52.79.206.198", // 요청 URL
+        url: "http://localhost:3000" // 요청 URL
       },
     ],
+    components: {
+      schemas: {
+        User: mongooseToSwagger(User),
+        Store: mongooseToSwagger(Store),
+        Menu: mongooseToSwagger(Menu),
+      },
+    },
   },
+
   apis: ["./routes/*.js"], //Swagger 파일 연동
 }
 const specs = swaggereJsdoc(options)
