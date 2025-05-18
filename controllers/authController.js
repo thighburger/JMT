@@ -64,7 +64,7 @@ const jwt = require('jsonwebtoken');
 // };
 
 const handleOAuthCallback = async (req, res) => {
-   const {access_token}=req.body;
+   const {accessToken}=req.body;
 
     try {
         // 2. 사용자 정보 요청
