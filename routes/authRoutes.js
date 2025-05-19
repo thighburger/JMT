@@ -5,7 +5,8 @@ const { handleOAuthCallback } = require('../controllers/authController');
 const authenticateToken = require('../middleware/auth');
 /**
  * @swagger
- * /oauth/callback:
+ * /auth/kakao:
+ *   description: 카카오톡 로그인
  *   get:
  *     summary: 카카오톡 로그인
  *     description: 
@@ -14,9 +15,23 @@ const authenticateToken = require('../middleware/auth');
  *         description: 로그인 처리 완료
  *     
  */
-router.get('/callback', handleOAuthCallback);
+router.get('/kakao', handleOAuthCallback);
 
-router.get('/auth/verify', authenticateToken, (req, res) => {
+/**
+ * @swagger
+ * /auth/verify:
+ *   get:
+ *     summary: JWT 토큰 검증
+ *     description: JWT 토큰의 유효성을 검증합니다.
+ *     responses:
+ *       200:
+ *         description: 토큰 유효함
+ *       401:
+ *         description: 토큰 없음
+ *       403:
+ *         description: 토큰 유효하지 않음
+ */
+router.get('/verify', authenticateToken, (req, res) => {
   // authenticateToken 미들웨어가 성공적으로 토큰 검증 완료한 후 이 함수가 실행됩니다.
   
   // req.user에 JWT payload가 들어있음

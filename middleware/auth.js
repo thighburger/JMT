@@ -4,7 +4,7 @@ const JWT_SECRET = process.env.JWT_SECRET;
 function authenticateToken(req, res, next) {
     const authHeader = req.headers['authorization'];
     const token = authHeader?.split(' ')[1]; // "Bearer <token>"
-  
+   
     if (!token) {
       return res.status(401).json({ message: '토큰 없음' });
     }

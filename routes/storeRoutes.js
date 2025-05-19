@@ -2,6 +2,7 @@
 const express = require('express');
 const router = express.Router();
 const { getAllStores, getMenusByStore } = require('../controllers/storeController');
+const authenticateToken = require('../middleware/auth');
 
 /**
  * @swagger
@@ -21,7 +22,6 @@ const { getAllStores, getMenusByStore } = require('../controllers/storeControlle
  *                 $ref: '#/components/schemas/Store'
  */
 router.get('/', getAllStores);
-
 
 /**
  * @swagger
@@ -47,6 +47,6 @@ router.get('/', getAllStores);
  *             items:
  *              $ref: '#/components/schemas/Menu'
  */
-router.get('/:storeId/menus', getMenusByStore); 
+router.get('/:storeId/menus',authenticateToken ,getMenusByStore); 
 
 module.exports = router;

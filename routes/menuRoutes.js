@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const { getMenu,likeMenu,unlikeMenu} = require('../controllers/menuController');
+const authenticateToken = require('../middleware/auth');
 
 /**
  * @swagger
@@ -40,12 +41,12 @@ router.get('/:menuId', getMenu); // 특정 메뉴 조회
  *       200:
  *         description: 메뉴 좋아요 성공
  */
-router.post('/:menuId/like', likeMenu); // 메뉴 좋아요
+router.post('/:menuId/like',authenticateToken, likeMenu); // 메뉴 좋아요
 
 /**
  * @swagger
  * /menu/{menuId}/unlike:
- *   post:
+ *   delete:
  *     summary: 특정 메뉴 좋아요취소
  *     description: 특정 메뉴를 좋아요를 취소합니다.
  *     parameters:
@@ -59,6 +60,6 @@ router.post('/:menuId/like', likeMenu); // 메뉴 좋아요
  *       200:
  *         description: 메뉴 좋아요 취소 성공
  */
-router.post('/:menuId/unlike', unlikeMenu); // 메뉴 좋아요 취소
+router.delete('/:menuId/unlike',authenticateToken, unlikeMenu); // 메뉴 좋아요 취소
 
 module.exports = router;

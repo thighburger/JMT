@@ -11,13 +11,12 @@ const options = {
     openapi: "3.0.0",
     info: {
       version: "1.0.0",
-      title: "최영현",
-      description:
-        "JMT Node.js Swaager swagger-jsdoc 방식 RestFul API 클라이언트 UI",
+      title: "JMT Node.js Swagger",
+      description: "JMT Node.js Swagger swagger-jsdoc 방식 RestFul API 클라이언트 UI",
     },
     servers: [
       {
-        url: "http://localhost:3000" // 요청 URL
+        url: "http://localhost:3000",
       },
     ],
     components: {
@@ -26,11 +25,23 @@ const options = {
         Store: mongooseToSwagger(Store),
         Menu: mongooseToSwagger(Menu),
       },
+      securitySchemes: {
+        bearerAuth: {
+          type: "http",
+          scheme: "bearer",
+          bearerFormat: "JWT",
+        },
+      },
     },
+    security: [
+      {
+        bearerAuth: [],
+      },
+    ],
   },
+  apis: ["./routes/*.js"],
+};
 
-  apis: ["./routes/*.js"], //Swagger 파일 연동
-}
 const specs = swaggereJsdoc(options)
 
 module.exports = { swaggerUi, specs }

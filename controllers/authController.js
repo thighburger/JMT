@@ -20,7 +20,7 @@ const jwt = require('jsonwebtoken');
 //             headers: { 'Content-Type': 'application/x-www-form-urlencoded;charset=utf-8' },
 //             body: params
 //         });
-        
+
 //         const data = await response.json();
 //         const accessToken = data.access_token;
 //         if (!accessToken) {
@@ -55,7 +55,7 @@ const jwt = require('jsonwebtoken');
 //         console.log('JWT Token:', jwtToken);
 //         // 5. JWT를 클라이언트에 전달
 //         res.json({ token: jwtToken });
-       
+
 
 //     } catch (err) {
 //         console.error('OAuth 처리 실패:', err);
@@ -64,7 +64,7 @@ const jwt = require('jsonwebtoken');
 // };
 
 const handleOAuthCallback = async (req, res) => {
-   const {accessToken}=req.body;
+    const { accessToken } = req.body;
 
     try {
         // 2. 사용자 정보 요청
@@ -87,15 +87,17 @@ const handleOAuthCallback = async (req, res) => {
 
         // 4. JWT 생성
         const jwtToken = jwt.sign(
-            {id: user._id} , 
-            JWT_SECRET, 
+            {
+                _id: user._id,
+                accessToken: accessToken
+            },
+            1234567890,
             { expiresIn: '7d' }
         );
 
-        console.log('JWT Token:', jwtToken);
         // 5. JWT를 클라이언트에 전달
         res.json({ token: jwtToken });
-       
+
 
     } catch (err) {
         console.error('OAuth 처리 실패:', err);

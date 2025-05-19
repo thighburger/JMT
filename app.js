@@ -28,7 +28,7 @@ app.use("/api-docs", swaggerUi.serve, swaggerUi.setup(specs))
 connectDB(process.env.DB_URL);
 
 // Routes
-app.use('/oauth', authRoutes);
+app.use('/auth', authRoutes);
 app.use('/user', userRoutes);
 app.use('/stores', storeRoutes);
 app.use('/menu', menuRoutes);

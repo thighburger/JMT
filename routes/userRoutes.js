@@ -23,16 +23,6 @@ const { updateNickname, getNickname } = require('../controllers/userController')
  *         description: 닉네임 업데이트 성공
  */
 router.post('/nickname', updateNickname);
-/**
- * @swagger
- * /user/nickname:
- *   get:
- *     summary: 사용자 닉네임 조회
- *     description: 사용자 닉네임을 조회합니다.
- *     responses:
- *       200:
- *         description: 닉네임 조회 성공
- */
-router.get('/nickname', getNickname);
+
 
 module.exports = router;

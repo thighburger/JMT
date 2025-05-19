@@ -8,6 +8,7 @@ const menuSchema = new Schema({
     description: { type: String },
     reviews: [{ type: Schema.Types.ObjectId, ref: 'Review' }],
     likeCount: { type: Number, default: 0 },
+    likedUsers: [{ type: Schema.Types.ObjectId, ref: 'User' }]
 });
 
 module.exports = mongoose.model('Menu', menuSchema);
