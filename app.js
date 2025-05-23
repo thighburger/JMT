@@ -36,6 +36,7 @@ app.use('/menu', menuRoutes);
 
 // 기본 route
 app.get('/', (req, res) => {
+    console.log('traffic');
     res.send('aws 배포 성공~');
 });
 
@@ -46,5 +47,5 @@ app.get('/jwttest', authenticateToken, (req, res) => {
 
 
 // 서버 실행
-const PORT = 3000;
+const PORT = 80;
 app.listen(PORT,  () => console.log(`Server running on port ${PORT}`));

@@ -7,7 +7,7 @@ const authenticateToken = require('../middleware/auth');
  * @swagger
  * /auth/kakao:
  *   description: 카카오톡 로그인
- *   get:
+ *   post:
  *     summary: 카카오톡 로그인
  *     description: 
  *     responses:
@@ -15,7 +15,7 @@ const authenticateToken = require('../middleware/auth');
  *         description: 로그인 처리 완료
  *     
  */
-router.get('/kakao', handleOAuthCallback);
+router.post('/kakao', handleOAuthCallback);
 
 /**
  * @swagger
