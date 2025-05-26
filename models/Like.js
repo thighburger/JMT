@@ -1,5 +1,7 @@
 const mongoose = require('mongoose');
 const { Schema } = mongoose;
+const Menu = require('./Menu');
+const Store = require('./Store');
 
 const likeSchema = new Schema({
   userId: {
@@ -17,6 +19,5 @@ const likeSchema = new Schema({
     default: Date.now,
   }
 });
-
 
 module.exports = mongoose.model('Like', likeSchema);

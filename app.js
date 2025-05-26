@@ -13,6 +13,7 @@ const storeRoutes = require('./routes/storeRoutes');
 const menuRoutes = require('./routes/menuRoutes');
 const reviewRoutes = require('./routes/reviewRoutes');
 
+
 const app = express();
 
 // Middlewares
@@ -36,7 +37,6 @@ app.use('/menu', menuRoutes);
 
 // 기본 route
 app.get('/', (req, res) => {
-    console.log('traffic');
     res.send('aws 배포 성공~');
 });
 

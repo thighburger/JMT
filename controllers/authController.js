@@ -64,7 +64,7 @@ const jwt = require('jsonwebtoken');
 
 const handleOAuthCallback = async (req, res) => {
     const { accessToken } = req.body;
-    console.log(accessToken);
+   
     try {
         // 2. 사용자 정보 요청
         const userResponse = await fetch('https://kapi.kakao.com/v2/user/me', {
@@ -90,14 +90,12 @@ const handleOAuthCallback = async (req, res) => {
                 _id: user._id,
                 accessToken: accessToken
             },
-            '1234567890',
-            { expiresIn: '7d' }
+            process.env.JWT_SECRET
         );
 
         // 5. JWT를 클라이언트에 전달
         res.json({ token: jwtToken });
-	console.log(jwtToken);
-
+	  
     } catch (err) {
         console.error('OAuth 처리 실패:', err);
         res.status(500).send('OAuth 처리 실패');

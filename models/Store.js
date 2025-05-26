@@ -19,7 +19,8 @@ const storeSchema = new Schema({
       required: true
     },
     menus: {
-      type: [String],
+      type: [mongoose.Schema.Types.ObjectId],
+      ref: 'Menu',
       default: []
     },
     image: {

@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const Store = require('./Store');
 const { Schema } = mongoose;
 
 // const menuSchema = new Schema({
@@ -25,12 +26,18 @@ const menuSchema = new Schema({
     required: true
   },
   reviews: {
-    type: [String],
+    type: [mongoose.Schema.Types.ObjectId],
+    ref: 'Review',
     default: []
   },
   likeCount: {
     type: Number,
-    default: 0
+    default: 0,
+  },
+  storeId: {
+    type: Schema.Types.ObjectId,
+    ref: 'Store',
+    required: true
   },
   heart: {
     type: Boolean,

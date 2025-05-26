@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const { getMenu,likeMenu,unlikeMenu} = require('../controllers/menuController');
+const { likeMenu,unlikeMenu} = require('../controllers/menuController');
 const authenticateToken = require('../middleware/auth');
 
 /**
@@ -22,7 +22,7 @@ const authenticateToken = require('../middleware/auth');
  *     
  *     
  */
-router.get('/:menuId', getMenu); // 특정 메뉴 조회
+//router.get('/:menuId', getMenu); // 특정 메뉴 조회
 
 /**
  * @swagger

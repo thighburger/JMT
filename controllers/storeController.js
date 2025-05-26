@@ -5,6 +5,8 @@ const Like = require('../models/Like');
 const getAllStores = async (req, res) => {
     try {
         const stores = await Store.find();
+        //likeSum을 기준으로 내림차순 정렬
+        stores.sort((a, b) => b.likeSum - a.likeSum);
         res.json(stores);
     } catch (err) {
         res.status(500).json({ error: '가게 데이터를 가져오는 데 실패했습니다.' });
@@ -30,14 +32,18 @@ const getMenusByStore = async (req, res) => {
       menu: { $in: menuIds }
     }).select('menu');
 
-    const likedMenuIdSet = new Set(likedMenus.map(like => like.menuId));
-
-    // 각 메뉴에 liked 필드 추가
-    const menusWithLiked = store.menus.map(menu => ({
-      menu,
-      liked: likedMenuIdSet.has(menu._id)
-    }));
-
+    const menusWithLiked = store.menus.map(menu => {
+      let heart = false;
+      if (likedMenus.some(like => like.menu.toString() === menu._id.toString())) {
+        heart = true;
+      }
+      return {
+        ...menu.toObject(),
+        heart: heart
+      };
+    });
+    //메뉴 좋아요 기준으로 내림차순 정렬
+    menusWithLiked.sort((a, b) => b.likeCount - a.likeCount);
     res.json(menusWithLiked);
   } catch (err) {
     res.status(500).json({ error: '메뉴 데이터를 가져오는 데 실패했습니다.' });

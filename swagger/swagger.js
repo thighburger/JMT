@@ -16,11 +16,11 @@ const options = {
     },
     servers: [
       {
-        url:'http://localhost:3000',
-    	description: 'Local 개발' 
+        url:'http://localhost:80',
+    	  description: 'Local 개발' 
       },
       {
-	url:'http://52.79.206.198',
+	      url:'http://52.79.206.198',
         description: 'aws 서버'
       }
     ],

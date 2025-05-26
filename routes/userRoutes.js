@@ -1,7 +1,8 @@
 // routes/userRoutes.js
 const express = require('express');
 const router = express.Router();
-const { updateNickname, getNickname } = require('../controllers/userController');
+const { updateNickname, deleteUser } = require('../controllers/userController');
+const authenticateToken = require('../middleware/auth');
 
 /**
  * @swagger
@@ -22,7 +23,22 @@ const { updateNickname, getNickname } = require('../controllers/userController')
  *       200:
  *         description: 닉네임 업데이트 성공
  */
-router.post('/nickname', updateNickname);
+// router.post('/nickname', updateNickname);
 
+/**
+ * @swagger
+ * /user/me:
+ *   delete:
+ *     summary: 사용자 삭제
+ *     description: 현재 사용자를 삭제합니다.
+ *     responses:
+ *       200:
+ *         description: 사용자 삭제 성공
+ *       404:
+ *         description: 사용자를 찾을 수 없음
+ *       500:
+ *         description: 서버 오류
+ */
+router.delete('/me',authenticateToken,deleteUser);
 
 module.exports = router;
