@@ -4,6 +4,8 @@ const router = express.Router();
 const { getAllStores, getMenusByStore } = require('../controllers/storeController');
 const authenticateToken = require('../middleware/auth');
 
+
+
 /**
  * @swagger
  * /stores:
@@ -40,12 +42,12 @@ router.get('/', getAllStores);
  *     responses:
  *       200:
  *         description: 메뉴 조회 성공
- *         content: 
- *          application/json:
- *           schema:
- *             type: array
- *             items:
- *              $ref: '#/components/schemas/Menu'
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: array
+ *               items:
+ *                 $ref: '#/components/schemas/Menu'
  */
 router.get('/:storeId/menus',authenticateToken ,getMenusByStore); 
 

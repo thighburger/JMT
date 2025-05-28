@@ -5,10 +5,18 @@ const authenticateToken = require('../middleware/auth');
 
 /**
  * @swagger
+ * tags:
+ *   name: Menus
+ *   description: 메뉴 관련 API
+ */
+
+/**
+ * @swagger
  * /menu/{menuId}:
  *   get:
  *     summary: 특정 메뉴 조회
  *     description: 특정 메뉴를 조회합니다.
+ *     tags: [Menus]
  *     parameters:
  *       - name: menuId
  *         in: path
@@ -19,8 +27,10 @@ const authenticateToken = require('../middleware/auth');
  *     responses:
  *       200:
  *         description: 메뉴 조회 성공
- *     
- *     
+ *         content:
+ *           application/json:
+ *             schema:
+ *               $ref: '#/components/schemas/Menu'
  */
 //router.get('/:menuId', getMenu); // 특정 메뉴 조회
 
@@ -30,6 +40,7 @@ const authenticateToken = require('../middleware/auth');
  *   post:
  *     summary: 특정 메뉴 좋아요
  *     description: 특정 메뉴를 좋아요 합니다.
+ *     tags: [Menus]
  *     parameters:
  *       - name: menuId
  *         in: path
@@ -47,8 +58,9 @@ router.post('/:menuId/like',authenticateToken, likeMenu); // 메뉴 좋아요
  * @swagger
  * /menu/{menuId}/unlike:
  *   delete:
- *     summary: 특정 메뉴 좋아요취소
- *     description: 특정 메뉴를 좋아요를 취소합니다.
+ *     summary: 특정 메뉴 좋아요 취소
+ *     description: 특정 메뉴의 좋아요를 취소합니다.
+ *     tags: [Menus]
  *     parameters:
  *       - name: menuId
  *         in: path

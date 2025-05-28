@@ -23,7 +23,7 @@ const menuSchema = new Schema({
   },
   image: {
     type: String,
-    required: true
+
   },
   reviews: {
     type: [mongoose.Schema.Types.ObjectId],

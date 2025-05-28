@@ -31,8 +31,10 @@ const likeMenu = async (req, res) => {
       { $inc: { likeSum: 1 } },
       { new: true }
     );
-    console.log(store);
 
+    menu.heart=true;
+    await menu.save();
+    
     res.status(200).json({
       message: '메뉴에 좋아요를 추가했습니다.',
     });
@@ -74,6 +76,10 @@ const unlikeMenu = async (req, res) => {
       { $inc: { likeSum: -1 } },
       { new: true }
     );
+    
+    menu.heart=false;
+    await menu.save();
+
     console.log(store);
     res.status(200).json({
       message: '메뉴 좋아요를 취소했습니다.',

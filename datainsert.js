@@ -4,13 +4,14 @@ const Store = require('./models/Store');
 const Menu = require('./models/Menu');
 const mongoose = require('mongoose'); // connectDB를 위해 mongoose 추가
 const connectDB = require('./config/db');
+const menuData = require('./menus/키노리 전남대점.json'); // JSON 파일 import
 
 
 
 const createStoreAndMenus = async function() {
   try {
     // 기존 데이터 확인
-    const existingStore = await Store.findOne({ name: '알촌' });
+    const existingStore = await Store.findOne({ name: 'gl' });
     if (existingStore) {
       console.log('이미 데이터가 존재합니다.');
       return;
@@ -18,42 +19,25 @@ const createStoreAndMenus = async function() {
 
     // 1. 가게 생성
     const store = await Store.create({
-      name: '알촌',
-      location: '서울 마포구 어딘가',
-      image: 'https://search.pstatic.net/common/?src=https%3A%2F%2Fldb-phinf.pstatic.net%2F20200522_277%2F1590127337990iktev_JPEG%2Fau4DD3tuOowYoPM7sMtjnza5.jpg',
-      likeSum: 25,
-      locationCategory: '홍대',
-      foodCategory: '한식',
+      name: '키노리',
+      location: '광주 북구 호동로 9-1 1층',
+      image: 'https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%ED%82%A4%EB%85%B8%EB%A6%AC+%EC%A0%84%EB%82%A8%EB%8C%80%EC%A0%90/%EB%8C%80%ED%91%9C%EC%82%AC%EC%A7%84.jpg',
+      locationCategory: '후문',
+      foodCategory: '일식',
       menus: []
     });
 
     // 2. 메뉴 생성
-    const menus = await Menu.insertMany([
-      {
-        name: '기본메뉴',
-        price: 5800,
-        image: 'http://file.smartbaedal.com/usr/menuitm/2013/6/20/201306201627_b01_1280.jpg',
-        likeCount: 13,
+    const menus = await Menu.insertMany(
+      menuData.map(menu => ({
+        name: menu.name,
+        price: parseInt(menu.price.replace(',', '')), // 문자열 가격을 숫자로 변환
+        image: menu.image || null,
+        likeCount: 0,
         heart: false,
         storeId: store._id
-      },
-      {
-        name: '치즈메뉴',
-        price: 6800,
-        image: 'http://imagefarm.baemin.com/smartmenuimage/image_library/20210422/r_437.jpg',
-        likeCount: 8,
-        heart: false,
-        storeId: store._id
-      },
-      {
-        name: '갈릭메뉴',
-        price: 6600,
-        image: 'http://file.smartbaedal.com/usr/menuitm/2017/11/16/715745_286_20171116094723.jpg',
-        likeCount: 6,
-        heart: false,
-        storeId: store._id
-      }
-    ]);
+      }))
+    );
 
     // 3. 가게에 메뉴 ID 저장
     store.menus = menus.map(menu => menu._id);
