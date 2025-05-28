@@ -35,17 +35,14 @@ const getMenusByStore = async (req, res) => {
     const menu = store.menus;
     console.log(likedMenuIds)
 
-    const menusWithLiked = menuIds.map(menuId => {
-      let isLiked = false;
-      if (likedMenuIds.includes(menuId)) {
-        isLiked = true; // 메뉴가 좋아요 목록에 있는 경우
-      }
+    const menusWithLiked = menu.map(menuItem => {
+      let isLiked = likedMenuIds.includes(menuItem._id); // 좋아요 여부 확인
       return {
-        ...menu.toObject(), // 메뉴 객체를 일반 객체로 변환
+        ...menuItem.toObject(), // 메뉴 객체를 일반 객체로 변환
         heart: isLiked, // 좋아요 여부 추가
       };
     });
-
+    console.log('menusWithLiked:', menusWithLiked); // 좋아요 여부가 추가된 메뉴 배열 출력
     //메뉴 좋아요 기준으로 내림차순 정렬
     menusWithLiked.sort((a, b) => b.likeCount - a.likeCount);
     res.json(menusWithLiked);
