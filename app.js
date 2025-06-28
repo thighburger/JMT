@@ -32,8 +32,13 @@ connectDB(process.env.DB_URL);
 app.use('/auth', authRoutes);
 app.use('/user', userRoutes);
 app.use('/stores', storeRoutes);
-app.use('/menu', menuRoutes);
-//app.use('/reviews', reviewRoutes);
+
+//app.use('/menus/:menuId/reviews', reviewRoutes);
+//이렇게하면 404오류뜬다 왜그런걸까 ㅠreq.params.menuId가 undefined로 뜬다
+app.use('/menu', reviewRoutes);
+app.use('/menus', menuRoutes);
+
+
 
 // 기본 route
 app.get('/', (req, res) => {

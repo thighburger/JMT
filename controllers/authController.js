@@ -92,7 +92,7 @@ const handleOAuthCallback = async (req, res) => {
             },
             process.env.JWT_SECRET
         );
-
+        
         // 5. JWT를 클라이언트에 전달
         res.json({ token: jwtToken });
 	  
@@ -101,6 +101,5 @@ const handleOAuthCallback = async (req, res) => {
         res.status(500).send('OAuth 처리 실패');
     }
 };
-
 
 module.exports = { handleOAuthCallback };

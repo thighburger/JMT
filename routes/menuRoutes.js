@@ -12,7 +12,7 @@ const authenticateToken = require('../middleware/auth');
 
 /**
  * @swagger
- * /menu/{menuId}:
+ * /menus/{menuId}:
  *   get:
  *     summary: 특정 메뉴 조회
  *     description: 특정 메뉴를 조회합니다.
@@ -36,7 +36,7 @@ const authenticateToken = require('../middleware/auth');
 
 /**
  * @swagger
- * /menu/{menuId}/like:
+ * /menus/{menuId}/like:
  *   post:
  *     summary: 특정 메뉴 좋아요
  *     description: 특정 메뉴를 좋아요 합니다.
@@ -56,7 +56,7 @@ router.post('/:menuId/like',authenticateToken, likeMenu); // 메뉴 좋아요
 
 /**
  * @swagger
- * /menu/{menuId}/unlike:
+ * /menus/{menuId}/unlike:
  *   delete:
  *     summary: 특정 메뉴 좋아요 취소
  *     description: 특정 메뉴의 좋아요를 취소합니다.
