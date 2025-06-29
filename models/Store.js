@@ -25,7 +25,6 @@ const storeSchema = new Schema({
     },
     image: {
       type: String,
-      required: true
     },
     likeSum: {
       type: Number,
@@ -37,7 +36,7 @@ const storeSchema = new Schema({
     },
     foodCategory: {
       type: String,
-      required: true
+      default: '기타' 
     }
   });
 
