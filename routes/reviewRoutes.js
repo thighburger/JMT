@@ -67,7 +67,30 @@ router.get('/:menuId/reviews', getReviewsByMenu);
 // 특정 메뉴에 리뷰 작성
 router.post('/:menuId/reviews', authenticateToken, createReview);
 
+/**
+ * @swagger
+ * /menu/reviews/{reviewId}:
+ *   delete:
+ *     summary: 특정 리뷰 삭제
+ *     tags: [Reviews]
+ *     parameters:
+ *       - in: path
+ *         name: reviewId
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: 리뷰 ID
+ *     responses:
+ *       200:
+ *         description: 리뷰가 삭제되었습니다.
+ *       404:
+ *         description: 리뷰를 찾을 수 없습니다.
+ *       500:
+ *         description: 서버 에러
+ */
 // 특정 리뷰 삭제
-//router.delete('/reviews/:reviewId', deleteReview);
+router.delete('/reviews/:reviewId',authenticateToken,deleteReview);
+
+
 
 module.exports = router;
