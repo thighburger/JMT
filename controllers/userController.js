@@ -2,6 +2,7 @@
 const User = require('../models/User');
 const Like = require('../models/Like');
 const Review = require('../models/Review');
+const Menu = require('../models/Menu'); // Menu 모델 추가
 
 const updateNickname = async (req, res) => {
     const { nickname } = req.body;
