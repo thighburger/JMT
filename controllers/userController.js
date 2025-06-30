@@ -1,6 +1,7 @@
 // controllers/userController.js
 const User = require('../models/User');
 const Like = require('../models/Like');
+const Review = require('../models/Review');
 
 const updateNickname = async (req, res) => {
     const { nickname } = req.body;
@@ -29,6 +30,7 @@ const deleteUser = async (req, res) => {
 
         // 관련 데이터 삭제
         await Like.deleteMany({ userId: userId });
+        await Review.deleteMany({ authorId: userId });
 
         // 사용자 삭제
         await User.findByIdAndDelete(userId);

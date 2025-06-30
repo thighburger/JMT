@@ -33,7 +33,7 @@ const createReview = async (req, res) => {
             $push: { reviews: newReview._id }
         });
 
-        res.status(201).json(newReview);
+        res.status(201).json({message: '리뷰가 성공적으로 생성되었습니다.'});
     } catch (err) {
         console.error('리뷰 생성 실패:', err);
         res.status(500).json({ error: '리뷰 생성 중 오류가 발생했습니다.' });
