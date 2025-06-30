@@ -30,10 +30,20 @@ const deleteUser = async (req, res) => {
 
         // 관련 데이터 삭제
         await Like.deleteMany({ userId: userId });
+        const reviews = await Review.find({ authorId: userId });
+        const reviewIds = reviews.map(review => review._id);
+        // 모든 메뉴에서 해당 리뷰 ID를 $pull로 제거
+        await Menu.updateMany(
+            { reviews: { $in: reviewIds } },
+            { $pull: { reviews: { $in: reviewIds } } }
+        );
+        // 리뷰 삭제
         await Review.deleteMany({ authorId: userId });
-
+        
         // 사용자 삭제
         await User.findByIdAndDelete(userId);
+
+
 
         console.log('사용자 및 관련 데이터 삭제 완료:', user);
         res.json({ message: '사용자가 삭제되었습니다.' });
