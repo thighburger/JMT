@@ -17,6 +17,15 @@ const reviewSchema = new mongoose.Schema({
     //닉네임변경하면 author의 nickname도 변경되야함
 });
 
+reviewSchema.post('findOneAndDelete', async function(doc) {
+  if (doc && doc.menuId) {
+    const Menu = require('./Menu');
+    await Menu.findByIdAndUpdate(doc.menuId, {
+      $pull: { reviews: doc._id }
+    });
+  }
+});
+
 
 
 module.exports = mongoose.model('Review', reviewSchema);
