@@ -12,6 +12,7 @@ const userRoutes = require('./routes/userRoutes');
 const storeRoutes = require('./routes/storeRoutes');
 const menuRoutes = require('./routes/menuRoutes');
 const reviewRoutes = require('./routes/reviewRoutes');
+const recommendRoutes=require('./routes/recommendRoutes');
 
 
 const app = express();
@@ -37,7 +38,7 @@ app.use('/stores', storeRoutes);
 //이렇게하면 404오류뜬다 왜그런걸까 ㅠreq.params.menuId가 undefined로 뜬다
 app.use('/menu', reviewRoutes);
 app.use('/menus', menuRoutes);
-
+app.use('/recommend',recommendRoutes); 
 
 
 // 기본 route
