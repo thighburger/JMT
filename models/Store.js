@@ -2,12 +2,6 @@
 const mongoose = require('mongoose');
 const { Schema } = mongoose;
 
-// const storeSchema = new Schema({
-//     name: { type: String, required: true },
-//     location: { type: String, required: true },
-//     menus: [{ type: Schema.Types.ObjectId, ref: 'Menu' }], // 배열로 수정
-//     image: { type: String }
-// });
 
 const storeSchema = new Schema({
     name: {
@@ -25,6 +19,10 @@ const storeSchema = new Schema({
     },
     image: {
       type: String,
+    },
+    isAllowed: {
+      type: Boolean,
+      default: false // 기본적으로 사진 허락을 받지 않았다고 가정
     },
     likeSum: {
       type: Number,

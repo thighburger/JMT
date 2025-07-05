@@ -1,12 +1,28 @@
 // controllers/storeController.js
 const Store = require('../models/Store');
 const Like = require('../models/Like');
+const DEFAULT_IMAGE_URL = 'https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png';
+
+const formatImageUrl = (el) => {
+  const Obj = el.toObject ? el.toObject() : el; // Mongoose Document 또는 Plain Object 모두 처리
+  let finalImageUrl;
+  if (Obj.isAllowed && Obj.image) {
+    finalImageUrl = Obj.image;
+  } else {
+    finalImageUrl = DEFAULT_IMAGE_URL;
+  }
+  return {
+    ...Obj,
+    image: finalImageUrl
+  };
+};
 
 const getAllStores = async (req, res) => {
   try {
     const stores = await Store.find();
     //likeSum을 기준으로 내림차순 정렬
     stores.sort((a, b) => b.likeSum - a.likeSum);
+
     res.json(stores);
   
   } catch (err) {
@@ -20,7 +36,7 @@ const getMenusByStore = async (req, res) => {
   try {
     const userId = req.user._id;
     const store = await Store.findById(req.params.storeId).populate('menus');
-
+  
     if (!store) {
       return res.status(404).json({ error: '가게를 찾을 수 없습니다.' });
     }
