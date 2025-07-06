@@ -16,7 +16,7 @@ const updateNickname = async (req, res) => {
     user.nickname = nickname;
     await user.save();
     console.log('닉네임 업데이트:', user);
-    res.send('닉네임이 업데이트되었습니다.');
+    res.status(200).json({message: '닉네임이 성공적으로 변경되었습니다.'});
 };
 
 const deleteUser = async (req, res) => {
