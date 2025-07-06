@@ -1,8 +1,28 @@
 // routes/userRoutes.js
 const express = require('express');
 const router = express.Router();
-const { updateNickname, deleteUser } = require('../controllers/userController');
+// multer 추가
+const multer = require('multer');
+// path는 파일 확장자 추출 등 필요할 수 있어 임포트
+const path = require('path'); 
+
+const { updateNickname, deleteUser, updateProfileImg , getUserInfo} = require('../controllers/userController');
 const authenticateToken = require('../middleware/auth');
+
+// Multer 설정: S3로 바로 업로드할 것이므로 메모리에 저장하도록 설정
+const upload = multer({
+    storage: multer.memoryStorage(), // 파일을 메모리에 버퍼 형태로 저장
+    limits: { fileSize: 5 * 1024 * 1024 }, // 5MB로 파일 크기 제한 (선택 사항)
+    fileFilter: (req, file, cb) => {
+        // 이미지 파일만 허용 (선택 사항)
+        const allowedMimes = ['image/jpeg', 'image/png', 'image/gif'];
+        if (allowedMimes.includes(file.mimetype)) {
+            cb(null, true);
+        } else {
+            cb(new Error('이미지 파일(jpg, png, gif)만 업로드할 수 있습니다.'), false);
+        }
+    }
+});
 
 /**
  * @swagger
@@ -49,5 +69,52 @@ router.post('/nickname', authenticateToken ,updateNickname);
  *         description: 서버 오류
  */
 router.delete('/me',authenticateToken,deleteUser);
+
+/**
+ * @swagger
+ * /user/profileImg:
+ *   post:
+ *     summary: 사용자 프로필 이미지 업로드
+ *     description: 사용자의 프로필 이미지를 업로드합니다. 이미지 파일은 multipart/form-data 형식으로 전송해야 합니다.
+ *     tags: [Users]
+ *     security:
+ *       - bearerAuth: []  # JWT 토큰 인증
+ *     requestBody:
+ *       required: true
+ *       content:
+ *         multipart/form-data:
+ *           schema:
+ *             type: object
+ *             properties:
+ *               profileImage:
+ *                 type: string
+ *                 format: binary
+ *                 description: 업로드할 프로필 이미지 파일
+ *     responses:
+ *       200:
+ *         description: 프로필 이미지 업로드 성공
+ *       400:
+ *         description: 잘못된 요청 또는 이미지 업로드 실패
+ *       500:
+ *         description: 서버 오류
+ */
+router.post('/profileImg', authenticateToken ,upload.single('profileImage'), updateProfileImg);
+
+/**
+ * @swagger
+ * /user/userInfo:
+ *   get:
+ *     summary: 사용자 정보 반환
+ *     description: 사용자 정보를 반환합니다.
+ *     tags: [Users]
+ *     responses:
+ *       200:
+ *         description: 사용자 정보 반환 성공
+ *       404:
+ *         description: 사용자를 찾을 수 없음
+ *       500:
+ *         description: 서버 오류
+ */
+router.get('/userInfo',authenticateToken, getUserInfo);
 
 module.exports = router;
