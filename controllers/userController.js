@@ -6,7 +6,7 @@ const Menu = require('../models/Menu'); // Menu 모델 추가
 
 const updateNickname = async (req, res) => {
     const { nickname } = req.body;
-    const userId = req.session.user_id;
+    const userId = req.user._id;
 
     const user = await User.findById(userId);
     if (!user) {

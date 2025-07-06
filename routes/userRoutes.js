@@ -31,7 +31,7 @@ const authenticateToken = require('../middleware/auth');
  *       200:
  *         description: 닉네임 업데이트 성공
  */
-// router.post('/nickname', updateNickname);
+router.post('/nickname', authenticateToken ,updateNickname);
 
 /**
  * @swagger
