@@ -98,7 +98,7 @@ router.delete('/me',authenticateToken,deleteUser);
  *       500:
  *         description: 서버 오류
  */
-router.post('/profileImg', authenticateToken ,upload.single('profileImage'), updateProfileImg);
+router.post('/profileImg', authenticateToken ,upload.single('profileImg'), updateProfileImg);
 
 /**
  * @swagger
