@@ -90,6 +90,7 @@ const updateProfileImg = async (req, res) => {
         const userId = req.user._id;
 
         const file = req.file; 
+        console.log('업로드된 파일:', file); // 업로드된 파일 정보 확인
         if (!file) {
             return res.status(400).json({ error: '프로필 이미지 파일이 필요합니다.' });
         }
@@ -106,7 +107,7 @@ const updateProfileImg = async (req, res) => {
         const fileExtension = path.extname(file.originalname);
         const s3Key = `profile-images/${userId}/profile${fileExtension}`; 
         // 예시: profile-images/60d5ec49f8c12a0015b6d7e8/profile.jpg
-
+        
         const params = {
             Bucket: S3_BUCKET_NAME,
             Key: s3Key, // 고유한 사용자별 Key 사용
@@ -119,7 +120,7 @@ const updateProfileImg = async (req, res) => {
 
         // 사용자 프로필 이미지 URL 업데이트
         // 이 URL은 S3 Key가 고정되었으므로 항상 동일하게 유지됩니다.
-        user.profileImage = s3UploadResult.Location; // 스키마 필드명에 맞게 profileImage로 변경
+        user.profileImg = s3UploadResult.Location; // 스키마 필드명에 맞게 profileImage로 변경
         await user.save();
 
         console.log('프로필 이미지 S3 업로드 성공:', s3UploadResult.Location);
