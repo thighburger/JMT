@@ -90,6 +90,26 @@ const unlikeMenu = async (req, res) => {
   }
 };
 
+const getTop3Menus = async (req, res) => {
+  try {
+    const dailyMenus = await Menu.find()
+      .sort({ dailylike: -1 })
+      .limit(3)
+      .select('name image dailylike');
+    
+    const weeklyMenus = await Menu.find()
+      .sort({ weeklylike: -1 })
+      .limit(3)
+      .select('name image weeklylike');
 
+    res.status(200).json({
+      daily: dailyMenus,
+      weekly: weeklyMenus
+    });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ error: '메뉴 TOP3 조회 중 오류가 발생했습니다.' });
+  }
+}
 
-module.exports = {likeMenu, unlikeMenu };
+module.exports = {likeMenu, unlikeMenu,getTop3Menus};
