@@ -1,10 +1,10 @@
 require('dotenv').config(); // dotenv 패키지로 환경 변수 로드
 
-const Store = require('./models/Store');
-const Menu = require('./models/Menu');
+const Store = require('../../models/Store');
+const Menu = require('../../models/Menu');
 const mongoose = require('mongoose'); // connectDB를 위해 mongoose 추가
 const storeUpdates=require('./storesData');
-const connectDB=require('./config/db');
+const connectDB=require('../../config/db');
 
 // DB 연결
 connectDB(process.env.DB_URL);
@@ -18,7 +18,10 @@ connectDB(process.env.DB_URL);
             // Mongoose 모델을 사용하여 업데이트 (Store.updateOne)
             const result = await Store.updateOne(
                 { name: store.name },
-                { $set: { foodCategory: store.foodCategory } }
+                { $set: {
+                    foodCategory: store.foodCategory,
+                    locationCategory: store.locationCategory
+                } }
             );
 
             if (result.matchedCount > 0) {

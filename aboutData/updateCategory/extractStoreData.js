@@ -1,8 +1,8 @@
 require('dotenv').config(); // .env 파일에서 환경 변수 로드
 
-const Store = require('./models/Store'); // Store Mongoose 모델 임포트
+const Store = require('../../models/Store'); // Store Mongoose 모델 임포트
 const mongoose = require('mongoose');     // Mongoose 라이브러리 임포트
-const connectDB = require('./config/db'); // DB 연결 함수 임포트
+const connectDB = require('../../config/db'); // DB 연결 함수 임포트
 const fs = require('fs');                 // Node.js 파일 시스템 모듈 임포트
 
 async function exportStoresToJsFile() {
@@ -13,12 +13,13 @@ async function exportStoresToJsFile() {
 
         // 2. 모든 가게 문서를 쿼리하고, name과 foodCategory 필드만 선택합니다.
         // _id 필드는 기본적으로 제외되며, .lean()으로 순수 JavaScript 객체를 반환합니다.
-        const allStores = await Store.find({}, 'name foodCategory -_id').lean();
+        const allStores = await Store.find({}, 'name foodCategory locationCategory -_id').lean();
 
         // 3. 추출된 데이터를 원하는 JavaScript 배열 형태로 변환합니다.
         const storeUpdatesArray = allStores.map(store => ({
             name: store.name,
-            foodCategory: store.foodCategory
+            foodCategory: store.foodCategory,
+            locationCategory: store.locationCategory
         }));
 
         // 4. JavaScript 파일에 저장할 문자열을 구성합니다.

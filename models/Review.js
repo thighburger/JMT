@@ -10,10 +10,10 @@ const reviewSchema = new mongoose.Schema({
         required: true
     },
     menuId: {
-    type: mongoose.Schema.Types.ObjectId,
-    ref: 'Menu',
-    required: true
-}
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'Menu',
+        required: true
+    }
     //닉네임변경하면 author의 nickname도 변경되야함
 });
 

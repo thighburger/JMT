@@ -1,10 +1,10 @@
 require('dotenv').config();
 
-const Store = require('./models/Store');
-const Menu = require('./models/Menu');
+const Store = require('../../models/Store');
+const Menu = require('../../models/Menu');
 const mongoose = require('mongoose');
-const storeUpdates = require('./storesData');
-const connectDB = require('./config/db');
+const storeUpdates = require('../../storesData');
+const connectDB = require('../../config/db');
 const isAllowedStore = require('./allowedStoreData');
 
 // DB 연결
