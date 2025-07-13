@@ -90,6 +90,7 @@ const updateProfileImg = async (req, res) => {
         const userId = req.user._id;
 
         const file = req.file; 
+        console.log()
         if (!file) {
             return res.status(400).json({ error: '프로필 이미지 파일이 필요합니다.' });
         }

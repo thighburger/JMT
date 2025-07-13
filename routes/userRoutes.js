@@ -15,10 +15,13 @@ const upload = multer({
     limits: { fileSize: 5 * 1024 * 1024 }, // 5MB로 파일 크기 제한 (선택 사항)
     fileFilter: (req, file, cb) => {
         // 이미지 파일만 허용 (선택 사항)
-        const allowedMimes = ['image/jpeg', 'image/png', 'image/gif'];
+        const allowedMimes = ['image/jpeg', 'image/png', 'image/gif', 'image/jpg'];
         if (allowedMimes.includes(file.mimetype)) {
             cb(null, true);
         } else {
+            // 파일 형식이 잘못된 경우 에러 콜백 호출
+            // 에러 메시지는 필요에 따라 수정 가능
+            console.error('파일 형식이 잘못되었습니다:', file.mimetype);
             cb(new Error('이미지 파일(jpg, png, gif)만 업로드할 수 있습니다.'), false);
         }
     }
@@ -86,7 +89,7 @@ router.delete('/me',authenticateToken,deleteUser);
  *           schema:
  *             type: object
  *             properties:
- *               profileImage:
+ *               profileImg:
  *                 type: string
  *                 format: binary
  *                 description: 업로드할 프로필 이미지 파일
@@ -98,7 +101,7 @@ router.delete('/me',authenticateToken,deleteUser);
  *       500:
  *         description: 서버 오류
  */
-router.post('/profileImg', authenticateToken ,upload.single('profileImage'), updateProfileImg);
+router.post('/profileImg', authenticateToken ,upload.single('profileImg'), updateProfileImg);
 
 /**
  * @swagger
