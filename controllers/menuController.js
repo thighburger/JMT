@@ -100,7 +100,7 @@ const getTop3Menus = async (req, res) => {
     const weeklyMenus = await Menu.find()
       .sort({ weeklylike: -1 })
       .limit(3)
-      .select('name image weeklylike');
+      .select('name displayedimage weeklylike');
 
     res.status(200).json({
       daily: dailyMenus,
