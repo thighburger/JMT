@@ -7,12 +7,48 @@ const DEFAULT_IMAGE_URL = 'https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com
 const getAllStores = async (req, res) => {
   try {
     const stores = await Store.find();
-    //likeSum을 기준으로 내림차순 정렬
-    stores.sort((a, b) => b.likeSum - a.likeSum);
+    const { sortBy = 'likeSum' } = req.query;
+    
+    let storesWithDistance = stores;
+    
+    // 위치 정보가 제공되고 거리 계산 미들웨어가 실행된 경우
+    if (req.userLocation && req.addDistanceToStores) {
+      // 거리 정보를 추가
+      storesWithDistance = req.addDistanceToStores(stores);
+    } else {
+      // 위치 정보가 없으면 distance를 null로 설정
+      storesWithDistance = stores.map(store => ({
+        ...store.toObject(),
+        distance: null
+      }));
+    }
+    
+    // 정렬 기준에 따라 정렬
+    switch (sortBy) {
+      case 'distance':
+        // 거리순 정렬 (거리 정보가 없는 경우는 뒤로)
+        storesWithDistance.sort((a, b) => {
+          if (a.distance === null && b.distance === null) return 0;
+          if (a.distance === null) return 1;
+          if (b.distance === null) return -1;
+          return a.distance - b.distance;
+        });
+        break;
+      case 'likeSum':
+      default:
+        // 좋아요 수 기준으로 내림차순 정렬
+        storesWithDistance.sort((a, b) => b.likeSum - a.likeSum);
+        break;
+    }
 
-    res.json(stores);
+    res.json({
+      stores: storesWithDistance,
+      userLocation: req.userLocation || null,
+      sortBy: sortBy
+    });
   
   } catch (err) {
+    console.error('가게 데이터 조회 오류:', err);
     res.status(500).json({ error: '가게 데이터를 가져오는 데 실패했습니다.' });
   }
 };
