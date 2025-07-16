@@ -7,34 +7,40 @@ const likeMenu = async (req, res) => {
   try {
     const menuId = req.params.menuId;
     const userId = req.user._id;
-    
+
     // 이미 좋아요 했는지 확인
-    const alreadyLiked = await Like.exists({ userId:userId, menuId:menuId });
+    const alreadyLiked = await Like.exists({ userId: userId, menuId: menuId });
     if (alreadyLiked) {
       return res.status(400).json({ message: '이미 좋아요를 누르셨습니다.' });
     }
-   
-    const menu= await Menu.findById(menuId);
-    
+
+    const menu = await Menu.findById(menuId);
+
     // 좋아요 추가
     await Like.create({ userId: userId, menuId: menuId });
-    
+
+    // User의 likedMenus에 메뉴 id 추가
+    await require('../models/User').findByIdAndUpdate(
+      userId,
+      { $addToSet: { likedMenus: menuId } }
+    );
+
     // 메뉴의 likeCount 증가
     await Menu.findByIdAndUpdate(
       menuId,
       { $inc: { likeCount: 1 } },
       { new: true }
     );
-    
-    const store=await Store.findByIdAndUpdate(
+
+    const store = await Store.findByIdAndUpdate(
       menu.storeId,
       { $inc: { likeSum: 1 } },
       { new: true }
     );
 
-    menu.heart=true;
+    menu.heart = true;
     await menu.save();
-    
+
     res.status(200).json({
       message: '메뉴에 좋아요를 추가했습니다.',
     });
@@ -49,6 +55,11 @@ const likeMenu = async (req, res) => {
 const unlikeMenu = async (req, res) => {
   try {
     const menuId = req.params.menuId;
+    // User의 likedMenus에서 menuId 삭제
+    await require('../models/User').findByIdAndUpdate(
+      userId,
+      { $pull: { likedMenus: menuId } }
+    );
     const userId = req.user._id;
     const menu = await Menu.findById(menuId);
     // 좋아요 기록이 있는지 확인
@@ -68,16 +79,16 @@ const unlikeMenu = async (req, res) => {
     await Menu.findByIdAndUpdate(
       menuId,
       { $inc: { likeCount: -1 } },
-      { new: true}
+      { new: true }
     );
 
-    const store= await Store.findByIdAndUpdate(
+    const store = await Store.findByIdAndUpdate(
       menu.storeId,
       { $inc: { likeSum: -1 } },
       { new: true }
     );
-    
-    menu.heart=false;
+
+    menu.heart = false;
     await menu.save();
 
     console.log(store);
@@ -95,8 +106,8 @@ const getTop3Menus = async (req, res) => {
     const dailyMenus = await Menu.find()
       .sort({ dailylike: -1 })
       .limit(3)
-      .select('name image dailylike');
-    
+      .select('name displayedimage dailylike');
+
     const weeklyMenus = await Menu.find()
       .sort({ weeklylike: -1 })
       .limit(3)
@@ -112,4 +123,4 @@ const getTop3Menus = async (req, res) => {
   }
 }
 
-module.exports = {likeMenu, unlikeMenu,getTop3Menus};
+module.exports = { likeMenu, unlikeMenu, getTop3Menus };

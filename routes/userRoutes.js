@@ -120,4 +120,6 @@ router.post('/profileImg', authenticateToken ,upload.single('profileImg'), updat
  */
 router.get('/userInfo',authenticateToken, getUserInfo);
 
+
+
 module.exports = router;

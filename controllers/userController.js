@@ -138,4 +138,52 @@ const updateProfileImg = async (req, res) => {
     }
 };
 
-module.exports = { updateNickname , deleteUser , getUserInfo , updateProfileImg};
+
+
+// 유저의 similarUsers 필드 업데이트
+const updateSimilarUsers = async (req, res) => {
+    try {
+        const userId = req.user._id;
+        const targetUser = await User.findById(userId);
+        if (!targetUser) {
+            return res.status(404).json({ error: '사용자를 찾을 수 없습니다.' });
+        }
+        const targetLikedMenus = new Set(targetUser.likedMenus.map(String));
+        const allUsers = await User.find({ _id: { $ne: userId } });
+        const similarities = allUsers.map(user => {
+            const otherLikedMenus = new Set(user.likedMenus.map(String));
+            const intersection = new Set([...targetLikedMenus].filter(x => otherLikedMenus.has(x)));
+            const union = new Set([...targetLikedMenus, ...otherLikedMenus]);
+            const jaccard = union.size === 0 ? 0 : intersection.size / union.size;
+            return { userId: user._id, similarity: jaccard };
+        });
+        const top5 = similarities.sort((a, b) => b.similarity - a.similarity).slice(0, 5);
+        const top5Ids = top5.map(u => u.userId);
+        targetUser.similarUsers = top5Ids;
+
+        // top5Ids 유저들의 likedMenus를 중복 없이 모아서 nextRecommendedMenu에만 저장
+        const top5Users = await User.find({ _id: { $in: top5Ids } });
+        const recommendedMenuSet = new Set();
+        top5Users.forEach(u => {
+            u.likedMenus.forEach(menuId => {
+                recommendedMenuSet.add(String(menuId));
+            });
+        });
+
+        // nextRecommendedMenu 필드에 similarUsers들이 좋아요한 메뉴들을 중복 없이 배열로 저장
+        const recommendedMenusArr = Array.from(recommendedMenuSet);
+        targetUser.nextRecommendedMenu = recommendedMenusArr;
+
+        await targetUser.save();
+        res.status(200).json({
+            message: 'similarUsers가 성공적으로 업데이트되었습니다.',
+            similarUsers: top5Ids
+        });
+    } catch (err) {
+        console.error('similarUsers 업데이트 실패:', err);
+        res.status(500).json({ error: 'similarUsers 업데이트에 실패했습니다.' });
+    }
+};
+
+
+module.exports = { updateNickname, deleteUser, getUserInfo, updateProfileImg, updateSimilarUsers };
