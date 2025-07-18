@@ -92,19 +92,25 @@ const unlikeMenu = async (req, res) => {
 
 const getTop3Menus = async (req, res) => {
   try {
-    const dailyMenus = await Menu.find()
-      .sort({ dailylike: -1 })
-      .limit(3)
-      .select('name image dailylike');
     
     const weeklyMenus = await Menu.find()
       .sort({ weeklylike: -1 })
       .limit(3)
-      .select('name displayedimage weeklylike');
-
+      .select('name displayedImg likeCount storeId')
+      .populate('storeId', 'name locationCategory');
+    
+    // storeId 정보를 평면화하여 storeName과 locationCategory로 변환
+    const transformedMenus = weeklyMenus.map(menu => ({
+      _id: menu._id,
+      name: menu.name,
+      displayedImg: menu.displayedImg,
+      likeCount: menu.likeCount,
+      storeName: menu.storeId.name,
+      locationCategory: menu.storeId.locationCategory
+    }));
+    
     res.status(200).json({
-      daily: dailyMenus,
-      weekly: weeklyMenus
+      weeklyMenus: transformedMenus
     });
   } catch (err) {
     console.error(err);
