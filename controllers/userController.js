@@ -172,7 +172,7 @@ const updateSimilarUsers = async (req, res) => {
 
         // nextRecommendedMenu 필드에 similarUsers들이 좋아요한 메뉴들을 중복 없이 배열로 저장
         const recommendedMenusArr = Array.from(recommendedMenuSet);
-        targetUser.nextRecommendedMenu = recommendedMenusArr;
+        targetUser.recommendMenus = recommendedMenusArr;
 
         await targetUser.save();
         res.status(200).json({

@@ -1,5 +1,6 @@
 const Store = require('../models/Store');
-const Menu = require('../models/Menu'); // Menu 모델을 상단에 추가
+const Menu = require('../models/Menu');
+const User = require('../models/User'); // User 모델 추가
 
 const getRecommendStore = async (req, res) => {
     try {
@@ -36,4 +37,44 @@ const getRecommendStore = async (req, res) => {
     }
 }
 
-module.exports = { getRecommendStore };
+const getSimilarUserRecommendMenus = async (req, res) => {
+    try {
+        const userId = req.user._id; // 인증된 사용자 ID
+
+        // 1. 사용자의 recommendMenus 조회
+        const user = await User.findById(userId).select('recommendMenus');
+        
+        if (!user) {
+            return res.status(404).json({ message: '사용자를 찾을 수 없습니다.' });
+        }
+
+        if (!user.recommendMenus || user.recommendMenus.length === 0) {
+            return res.status(200).json([]); // 빈 배열로 반환
+        }
+
+        // 2. recommendMenus에 있는 메뉴들의 상세 정보 조회 (가게 정보 포함)
+        const recommendedMenus = await Menu.find({
+            _id: { $in: user.recommendMenus }
+        })
+        .select('name displayedImg likeCount storeId')
+        .populate('storeId', 'name locationCategory');
+
+        // 3. storeId 정보를 평면화하여 storeName과 locationCategory로 변환
+        const transformedMenus = recommendedMenus.map(menu => ({
+            _id: menu._id,
+            name: menu.name,
+            displayedImg: menu.displayedImg,
+            likeCount: menu.likeCount,
+            storeName: menu.storeId.name,
+            locationCategory: menu.storeId.locationCategory
+        }));
+
+        res.status(200).json(transformedMenus);
+
+    } catch (err) {
+        console.error('유사 사용자 메뉴 추천 조회 중 오류 발생:', err);
+        res.status(500).json({ error: '메뉴 추천에 실패했습니다.' });
+    }
+};
+
+module.exports = { getRecommendStore, getSimilarUserRecommendMenus };
