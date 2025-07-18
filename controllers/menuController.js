@@ -105,11 +105,6 @@ const unlikeMenu = async (req, res) => {
 
 const getTop3Menus = async (req, res) => {
   try {
-    const dailyMenus = await Menu.find()
-      .sort({ dailylike: -1 })
-      .limit(3)
-      .select('name displayedimage dailylike');
-
     const weeklyMenus = await Menu.find()
       .sort({ weeklylike: -1 })
       .limit(3)
@@ -127,7 +122,6 @@ const getTop3Menus = async (req, res) => {
     }));
     
     res.status(200).json({
-      dailyMenus,
       weeklyMenus: transformedMenus
     });
   } catch (err) {
