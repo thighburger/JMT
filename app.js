@@ -53,5 +53,5 @@ app.get('/jwttest', authenticateToken, (req, res) => {
 
 
 // 서버 실행
-const PORT = 80;
+const PORT = 3000;
 app.listen(PORT,  () => console.log(`Server running on port ${PORT}`));
