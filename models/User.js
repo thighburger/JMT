@@ -23,7 +23,7 @@ const userSchema = new Schema({
         ],
         default: []
     },
-    nextRecommendedMenu: {
+    recommendMenus: {
         type: [{ type: Schema.Types.ObjectId, ref: 'Menu' }],
         default: []
     }

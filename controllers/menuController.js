@@ -55,13 +55,9 @@ const likeMenu = async (req, res) => {
 const unlikeMenu = async (req, res) => {
   try {
     const menuId = req.params.menuId;
-    // User의 likedMenus에서 menuId 삭제
-    await require('../models/User').findByIdAndUpdate(
-      userId,
-      { $pull: { likedMenus: menuId } }
-    );
     const userId = req.user._id;
     const menu = await Menu.findById(menuId);
+    
     // 좋아요 기록이 있는지 확인
     const like = await Like.findOneAndDelete({ userId: userId, menuId: menuId });
 
@@ -74,6 +70,12 @@ const unlikeMenu = async (req, res) => {
         message: '좋아요를 누르지 않았습니다.',
       });
     }
+
+    // User의 likedMenus에서 menuId 삭제
+    await require('../models/User').findByIdAndUpdate(
+      userId,
+      { $pull: { likedMenus: menuId } }
+    );
 
     // 메뉴의 likeCount 감소
     await Menu.findByIdAndUpdate(
@@ -103,19 +105,24 @@ const unlikeMenu = async (req, res) => {
 
 const getTop3Menus = async (req, res) => {
   try {
-    const dailyMenus = await Menu.find()
-      .sort({ dailylike: -1 })
-      .limit(3)
-      .select('name displayedimage dailylike');
-
     const weeklyMenus = await Menu.find()
       .sort({ weeklylike: -1 })
       .limit(3)
-      .select('name displayedimage weeklylike');
-
+      .select('name displayedImg likeCount storeId')
+      .populate('storeId', 'name locationCategory');
+    
+    // storeId 정보를 평면화하여 storeName과 locationCategory로 변환
+    const transformedMenus = weeklyMenus.map(menu => ({
+      _id: menu._id,
+      name: menu.name,
+      displayedImg: menu.displayedImg,
+      likeCount: menu.likeCount,
+      storeName: menu.storeId.name,
+      locationCategory: menu.storeId.locationCategory
+    }));
+    
     res.status(200).json({
-      daily: dailyMenus,
-      weekly: weeklyMenus
+      weeklyMenus: transformedMenus
     });
   } catch (err) {
     console.error(err);
