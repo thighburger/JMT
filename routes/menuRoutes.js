@@ -90,13 +90,8 @@ router.delete('/:menuId/unlike',authenticateToken, unlikeMenu); // 메뉴 좋아
  *                         description: 가게명
  *                       locationCategory:
  *                         type: string
- *                         description: 위치 카테고리 (예: 후문, 정문 등)
+ *                         description: "위치 카테고리 (후문, 정문 등)"
  *             example:
- *               dailyMenus:
- *                 - _id: "60d5ec49f8c12a0015b6d7e8"
- *                   name: "치킨마요덮밥"
- *                   displayedimage: "https://example.com/image1.jpg"
- *                   dailylike: 15
  *               weeklyMenus:
  *                 - _id: "60d5ec49f8c12a0015b6d7e9"
  *                   name: "김치찌개"
