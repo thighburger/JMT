@@ -122,7 +122,9 @@ const calculateStoreDistances = async (req, res, next) => {
             });
         };
 
-        console.log(`사용자 위치: 위도 ${userLat}, 경도 ${userLng}`);
+        // 사용자 정보 출력 (JWT 토큰에서 사용자 정보 가져오기)
+        const userId = req.user ? req.user._id : 'Anonymous';
+        console.log(`사용자 위치: 위도 ${userLat}, 경도 ${userLng}, User: ${userId}`);
         next();
     } catch (error) {
         console.error('거리 계산 미들웨어 오류:', error);

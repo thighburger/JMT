@@ -67,7 +67,7 @@ const authenticateToken = require('../middleware/auth');
  *                 sortBy:
  *                   type: string
  */
-router.get('/', (req, res, next) => {
+router.get('/', authenticateToken,(req, res, next) => {
     // 위도/경도가 제공된 경우에만 거리 계산 미들웨어 실행
     if (req.query.latitude && req.query.longitude) {
         calculateStoreDistances(req, res, next);
