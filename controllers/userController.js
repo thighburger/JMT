@@ -34,6 +34,8 @@ const updateNickname = async (req, res) => {
 
 const deleteUser = async (req, res) => {
     try {
+        //헤더확인
+        console.log('헤더:', req.headers);
         const userId = req.user._id;
         console.log('사용자 삭제 요청, userId:', userId);
         // 사용자 존재 여부 확인
