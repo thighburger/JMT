@@ -66,7 +66,8 @@ const getSimilarUserRecommendMenus = async (req, res) => {
             displayedImg: menu.displayedImg,
             likeCount: menu.likeCount,
             storeName: menu.storeId.name,
-            locationCategory: menu.storeId.locationCategory
+            locationCategory: menu.storeId.locationCategory,
+            storeId: menu.storeId._id.toString()
         }));
 
         res.status(200).json(transformedMenus);
