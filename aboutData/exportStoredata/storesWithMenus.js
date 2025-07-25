@@ -12,11 +12,13 @@ module.exports = [
         "reviews": [
           "686d06313bd3716bfc25928c"
         ],
-        "likeCount": 0,
+        "likeCount": 1,
         "storeId": "686a400be74533f75001be8c",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "heart": true,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/노릇노릇 식당 전남대/고등어구이 정식.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001be8f",
@@ -27,8 +29,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400be74533f75001be8c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/노릇노릇 식당 전남대/생물 삼치구이정식.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001be90",
@@ -48,31 +52,35 @@ module.exports = [
         "likeCount": 1,
         "storeId": "686a400be74533f75001be8c",
         "heart": true,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/노릇노릇 식당 전남대/버섯소불고기.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001be91",
         "name": "수육정식",
         "price": 12000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400be74533f75001be8c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/노릇노릇 식당 전남대/대표사진.jpg",
-    "isAllowed": false,
-    "likeSum": 1,
+    "isAllowed": true,
+    "likeSum": 2,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/노릇노릇 식당 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1731884646253,
-    "lng": 126.91479099578
+    "lat": 35.17317,
+    "lng": 126.9147939
   },
   {
     "_id": "686a400ce74533f75001be95",
@@ -89,7 +97,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/소코아카레.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001be98",
@@ -97,11 +107,13 @@ module.exports = [
         "price": 13000,
         "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/반반카레.jpg",
         "reviews": [],
-        "likeCount": 0,
+        "likeCount": 1,
         "storeId": "686a400ce74533f75001be95",
-        "heart": false,
+        "heart": true,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/반반카레.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001be99",
@@ -113,7 +125,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/에비카레.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001be9a",
@@ -125,7 +139,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/토리카레.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001be9b",
@@ -137,7 +153,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/키마카레.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001be9c",
@@ -149,7 +167,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/함바그 카레.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001be9d",
@@ -161,7 +181,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/치즈키마카레.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001be9e",
@@ -173,7 +195,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/비프카레.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001be9f",
@@ -185,7 +209,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/에비후라이카레.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bea0",
@@ -197,7 +223,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/소시지 토리카레.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bea1",
@@ -209,7 +237,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/아보카도연어 우동.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bea2",
@@ -221,7 +251,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/아보카도새우 우동.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bea3",
@@ -233,7 +265,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/베이컨크림우동.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bea4",
@@ -245,7 +279,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/마제카레우동.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bea5",
@@ -257,18 +293,20 @@ module.exports = [
         "storeId": "686a400ce74533f75001be95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/온우동.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/대표사진.jpg",
     "isAllowed": true,
-    "likeSum": 0,
+    "likeSum": 1,
     "locationCategory": "후문",
     "foodCategory": "일식",
     "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소코아 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1737097291327,
-    "lng": 126.913532532441
+    "lat": 35.1737257,
+    "lng": 126.9135404
   },
   {
     "_id": "686a400ce74533f75001bea9",
@@ -298,11 +336,13 @@ module.exports = [
           "686d05ee3bd3716bfc25924b",
           "686d05fe3bd3716bfc259258"
         ],
-        "likeCount": 0,
+        "likeCount": 1,
         "storeId": "686a400ce74533f75001bea9",
-        "heart": false,
+        "heart": true,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/알촌 전남대/기본메뉴.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001beac",
@@ -314,7 +354,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bea9",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/알촌 전남대/치즈메뉴.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bead",
@@ -326,7 +368,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bea9",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/알촌 전남대/갈릭메뉴.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001beae",
@@ -338,66 +382,34 @@ module.exports = [
         "storeId": "686a400ce74533f75001bea9",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/알촌 전남대/스페셜메뉴.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001beaf",
         "name": "마라알밥",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bea9",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001beb0",
-        "name": "콜라(245ml)",
-        "price": 1200,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bea9",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001beb1",
-        "name": "사이다(245ml)",
-        "price": 1200,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/알촌 전남대/사이다(245ml).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bea9",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/알촌 전남대/사이다(245ml).jpg",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001beb2",
-        "name": "제로콜라",
-        "price": 1200,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bea9",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/알촌 전남대/대표사진.jpg",
     "isAllowed": true,
-    "likeSum": 0,
+    "likeSum": 1,
     "locationCategory": "상대",
     "foodCategory": "한식",
     "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/알촌 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1776520123929,
-    "lng": 126.904211795986
+    "lat": 35.177713,
+    "lng": 126.9042366
   },
   {
     "_id": "686a400ce74533f75001beb6",
@@ -408,120 +420,138 @@ module.exports = [
         "_id": "686a400ce74533f75001beb8",
         "name": "비빔밥",
         "price": 3000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001beb6",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001beb9",
         "name": "돌판비빔밥",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001beb6",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001beba",
         "name": "참치비빔밥",
         "price": 3500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001beb6",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bebb",
         "name": "김치찌개",
         "price": 3500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001beb6",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bebc",
         "name": "순두부찌개",
         "price": 3500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001beb6",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bebd",
         "name": "삼겹살",
         "price": 7900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001beb6",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bebe",
         "name": "만두국+공기",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001beb6",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bebf",
         "name": "육개장",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001beb6",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bec0",
         "name": "갈비탕",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001beb6",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/천지연삼겹살 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/천지연삼겹살 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1776652686233,
-    "lng": 126.902636972244
+    "lat": 35.1776497,
+    "lng": 126.9026156
   },
   {
     "_id": "686a400ce74533f75001bec4",
@@ -538,7 +568,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bec4",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/[월간키노리7월]토마토바질츠케멘.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bec7",
@@ -550,7 +582,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bec4",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/[여름한정] 히야시츄카.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bec8",
@@ -562,7 +596,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bec4",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/토리파이탄 라멘.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bec9",
@@ -574,7 +610,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bec4",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/카라파이탄 라멘.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001beca",
@@ -586,7 +624,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bec4",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/마제소바.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001becb",
@@ -598,7 +638,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bec4",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/토리파이탄+1.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001becc",
@@ -610,7 +652,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bec4",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/카라파이탄+2.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001becd",
@@ -622,43 +666,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bec4",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/미니차슈덮밥.jpg",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bece",
-        "name": "우롱차",
-        "price": 3000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/우롱차.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bec4",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/우롱차.jpg",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001becf",
-        "name": "콜라",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/콜라.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bec4",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/콜라.jpg",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bed0",
-        "name": "사이다",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/사이다.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bec4",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/사이다.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bed1",
@@ -670,7 +680,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bec4",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/산토리 하이볼.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bed2",
@@ -682,19 +694,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bec4",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/기린이치방.jpg",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bed3",
-        "name": "카스",
-        "price": 3000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/카스.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bec4",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/카스.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/대표사진.jpg",
@@ -704,8 +706,8 @@ module.exports = [
     "foodCategory": "일식",
     "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/키노리 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.174940392962,
-    "lng": 126.913589850495
+    "lat": 35.1750632,
+    "lng": 126.9134702
   },
   {
     "_id": "686a400ce74533f75001bed7",
@@ -718,11 +720,13 @@ module.exports = [
         "price": 8000,
         "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동흥루 전남대/짬뽕.jpg",
         "reviews": [],
-        "likeCount": 0,
+        "likeCount": 1,
         "storeId": "686a400ce74533f75001bed7",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "heart": true,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동흥루 전남대/짬뽕.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001beda",
@@ -733,8 +737,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동흥루 전남대/볶음밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bedb",
@@ -745,8 +751,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동흥루 전남대/삼선쟁반짜장(2인분).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bedc",
@@ -757,8 +765,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동흥루 전남대/탕수육(大).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bedd",
@@ -769,128 +779,150 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동흥루 전남대/탕수육(中).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bede",
         "name": "0. 미니탕수육+군만두+짜장면1+콜라500ml",
         "price": 18000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bedf",
         "name": "미니탕수육+군만두+짬뽕1+콜라500ml",
         "price": 19000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bee0",
         "name": "미니탕수육+ 군만두+국밥1+콜라500ml",
         "price": 19000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bee1",
         "name": "미니탕수육+군만두+볶음밥1+콜라500ml",
         "price": 19000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bee2",
         "name": "1. 미니탕수육+군만두+짜장면2+콜라500ml",
         "price": 23000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bee3",
         "name": "사천탕수육+군만두+짜장1+콜라500ml",
         "price": 19000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bee4",
         "name": "사천탕수육+군만두+짬뽕1+콜라500ml",
         "price": 20000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bee5",
         "name": "사천탕수육+군만두+국밥1+콜라500ml",
         "price": 20000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bee6",
         "name": "사천탕수육+군만두+볶음밥1+콜라500ml",
         "price": 20000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bee7",
         "name": "5. 사천탕수육+군만두+삼선쟁반짜장+콜라500ml",
         "price": 28000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bee8",
@@ -901,92 +933,108 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동흥루 전남대/짜장.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bee9",
         "name": "우동",
         "price": 9000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001beea",
         "name": "삼선우동",
         "price": 12000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001beeb",
         "name": "삼선짬뽕",
         "price": 12000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001beec",
         "name": "국밥",
         "price": 8000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001beed",
         "name": "짜장밥",
         "price": 7500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001beee",
         "name": "곰탕",
         "price": 8500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001beef",
         "name": "갈비탕",
         "price": 8500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bef0",
@@ -997,8 +1045,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동흥루 전남대/탕수육(小).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bef1",
@@ -1009,8 +1059,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동흥루 전남대/탕수육(미니).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bef2",
@@ -1021,8 +1073,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동흥루 전남대/사천탕수육(대).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bef3",
@@ -1033,175 +1087,161 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동흥루 전남대/손군만두.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bef4",
         "name": "물만두",
         "price": 6000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bef5",
         "name": "만두국",
         "price": 8000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bef6",
         "name": "짬짜면",
         "price": 9000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bef7",
         "name": "볶짜면",
         "price": 9500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bef8",
         "name": "볶짬면",
         "price": 9500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bef9",
         "name": "탕짜면",
         "price": 11000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001befa",
         "name": "탕짬면",
         "price": 11000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001befb",
         "name": "요리세트(2인분)",
         "price": 60000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001befc",
         "name": "서리태콩물국수",
         "price": 10000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001befd",
         "name": "중국식냉면",
         "price": 11000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bed7",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001befe",
-        "name": "콜라(500ml)",
-        "price": 2000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bed7",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001beff",
-        "name": "콜라(1.25L)",
-        "price": 4000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bed7",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf00",
-        "name": "공기밥",
-        "price": 1000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bed7",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동흥루 전남대/대표사진.jpg",
-    "isAllowed": false,
-    "likeSum": 0,
-    "locationCategory": "후문",
+    "isAllowed": true,
+    "likeSum": 1,
+    "locationCategory": "상대",
     "foodCategory": "중식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동흥루 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1783443481388,
-    "lng": 126.90398889503
+    "lat": 35.1783474,
+    "lng": 126.9039853
   },
   {
     "_id": "686a400ce74533f75001bf04",
@@ -1217,8 +1257,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf04",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/머리국밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf07",
@@ -1229,8 +1271,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf04",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/모듬국밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf08",
@@ -1243,8 +1287,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf04",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/내장국밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf09",
@@ -1255,8 +1301,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf04",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/철판돼지구이(1인).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf0a",
@@ -1267,8 +1315,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf04",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/철판돼지구이(2인).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf0b",
@@ -1279,8 +1329,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf04",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/철판돼지구이(3인).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf0c",
@@ -1291,44 +1343,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf04",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf0d",
-        "name": "콜라(500ml)",
-        "price": 2000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf04",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf0e",
-        "name": "스프라이트(500ml)",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/스프라이트(500ml).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf04",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf0f",
-        "name": "환타(파인애플맛)(500ml)",
-        "price": 2000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf04",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/철판돼지구이(4인).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf10",
@@ -1339,20 +1357,24 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf04",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/순대한접시.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf11",
         "name": "모듬순대(찰순대+머리고기수육)",
         "price": 16000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf04",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf12",
@@ -1363,20 +1385,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf04",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf13",
-        "name": "공기밥",
-        "price": 1000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/공기밥.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf04",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/머리고기 수육.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf14",
@@ -1387,19 +1399,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf04",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/갈비만두(8개).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/가마솥옛날국밥 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1778753775447,
-    "lng": 126.904223170773
+    "lat": 35.1778811,
+    "lng": 126.9042107
   },
   {
     "_id": "686a400ce74533f75001bf18",
@@ -1416,7 +1430,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/바베큐 로스트.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf1b",
@@ -1428,7 +1444,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/통마늘간장 바베큐 로스트.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf1c",
@@ -1440,7 +1458,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/골든갈릭 바베큐 로스트.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf1d",
@@ -1452,7 +1472,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/고추마요 현미베이크.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf1e",
@@ -1464,7 +1486,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/레드마요 현미베이크.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf1f",
@@ -1476,7 +1500,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/더 매운 바베큐 로스트.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf20",
@@ -1488,7 +1514,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/두마리 치킨 SET.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf21",
@@ -1500,7 +1528,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/피치SET (치킨+피자).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf22",
@@ -1512,7 +1542,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/치떡 SET (치킨+마루떡볶이).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf23",
@@ -1524,7 +1556,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/치즈오븐스파게티 SET (치킨+치즈오븐스파게티).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf24",
@@ -1536,7 +1570,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/패밀리 SET (치킨2+피자+감자튀김).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf25",
@@ -1548,7 +1584,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/바삭 오리지널 현미베이크.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf26",
@@ -1560,7 +1598,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/시그니처 레드 현미베이크.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf27",
@@ -1572,7 +1612,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/시그니처 블랙 현미베이크.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf28",
@@ -1584,7 +1626,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/까르보 현미베이크 (순살전용).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf29",
@@ -1596,7 +1640,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/담백 오리지널 로스트.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf2a",
@@ -1608,7 +1654,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/시그니처 레드 로스트.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf2b",
@@ -1620,7 +1668,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/시그니처 블랙 로스트.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf2c",
@@ -1632,7 +1682,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/딥간장갈릭 로스트.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf2d",
@@ -1644,31 +1696,37 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/치즈칠리 로스트.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf2e",
         "name": "담백 로스트 반반",
         "price": 22400,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf2f",
         "name": "바삭 현미베이크 반반",
         "price": 22900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf30",
@@ -1680,7 +1738,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/윙봉 브라운.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf31",
@@ -1692,7 +1752,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/윙봉 골드.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf32",
@@ -1704,7 +1766,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/윙봉 레드.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf33",
@@ -1716,7 +1780,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/윙봉 블랙.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf34",
@@ -1728,7 +1794,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/고구마치즈스틱 & 모둠감자.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf35",
@@ -1740,7 +1808,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/구운모둠소세지.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf36",
@@ -1752,7 +1822,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/마라 바지락볶음.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf37",
@@ -1764,7 +1836,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/먹태.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf38",
@@ -1776,7 +1850,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/마루떡볶이.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf39",
@@ -1788,7 +1864,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/치즈오븐스파게티.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf3a",
@@ -1800,7 +1878,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/미트볼 스파게티.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf3b",
@@ -1812,7 +1892,9 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/크림 스파게티.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf3c",
@@ -1824,138 +1906,20 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf18",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/통오징어 튀김.jpg",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf3d",
-        "name": "칠리소스",
-        "price": 500,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf18",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf3e",
-        "name": "양념소스",
-        "price": 500,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf18",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf3f",
-        "name": "달콤갈릭소스",
-        "price": 500,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf18",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf40",
-        "name": "매운양념소스",
-        "price": 500,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf18",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf41",
-        "name": "까르보소스",
-        "price": 500,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf18",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf42",
-        "name": "콜라 500ml",
-        "price": 2000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf18",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf43",
-        "name": "사이다 500ml",
-        "price": 2000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf18",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf44",
-        "name": "콜라 1.25L",
-        "price": 3000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf18",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf45",
-        "name": "사이다 1.25L",
-        "price": 3000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf18",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf46",
-        "name": "제로콜라 500ml",
-        "price": 2000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf18",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/대표사진.jpg",
     "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "기타",
     "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오븐마루치킨 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1786829088411,
-    "lng": 126.904344850445
+    "lat": 35.1791197,
+    "lng": 126.9045759
   },
   {
     "_id": "686a400ce74533f75001bf4a",
@@ -1966,61 +1930,71 @@ module.exports = [
         "_id": "686a400ce74533f75001bf4c",
         "name": "세트7",
         "price": 23000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf4d",
         "name": "혼밥1",
         "price": 10000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf4e",
         "name": "혼밥2",
         "price": 10000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf4f",
         "name": "더블치즈돈까스",
         "price": 9500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf50",
         "name": "치즈돈까스",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf51",
@@ -2032,114 +2006,132 @@ module.exports = [
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/생돈까스 전남대/세트 1.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf52",
         "name": "세트 2",
         "price": 16000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf53",
         "name": "세트 3",
         "price": 16000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf54",
         "name": "치즈오븐 스파게티",
         "price": 7500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf55",
         "name": "왕돈까스",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf56",
         "name": "돈까스모밀",
         "price": 7500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf57",
         "name": "모밀",
         "price": 6500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf58",
         "name": "김치볶음밥",
         "price": 6500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf59",
         "name": "순두부찌개",
         "price": 7500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf4a",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/생돈까스 전남대/대표사진.jpg",
     "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "일식",
     "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/생돈까스 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1777308275267,
-    "lng": 126.903237176964
+    "lat": 35.1777254,
+    "lng": 126.9032227
   },
   {
     "_id": "686a400ce74533f75001bf5d",
@@ -2150,72 +2142,82 @@ module.exports = [
         "_id": "686a400ce74533f75001bf5f",
         "name": "섞어서부리또",
         "price": 6000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf5d",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf60",
         "name": "소고기부리또",
         "price": 6500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf5d",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf61",
         "name": "닭고기 부리또",
         "price": 5500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf5d",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf62",
         "name": "닭고기부리또+음료수",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf5d",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf63",
         "name": "소고기부리또+소다+음료수",
         "price": 8000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf5d",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도스마스 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "양식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도스마스 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1777065073635,
-    "lng": 126.902807413023
+    "lat": 35.1776939,
+    "lng": 126.902783
   },
   {
     "_id": "686a400ce74533f75001bf67",
@@ -2226,96 +2228,110 @@ module.exports = [
         "_id": "686a400ce74533f75001bf69",
         "name": "쭈꾸미철판",
         "price": 13000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf67",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf6a",
         "name": "쭈꾸미철판삼겹",
         "price": 13000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf67",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf6b",
         "name": "쭈꾸미철판새우",
         "price": 13000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf67",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf6c",
         "name": "쭈꾸미비빔밥",
         "price": 9000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf67",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf6d",
         "name": "제육볶음",
         "price": 8000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf67",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf6e",
         "name": "우렁된장찌개",
         "price": 8000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf67",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf6f",
         "name": "산채비빔밥",
         "price": 8000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf67",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/통큰 쭈꾸미 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/통큰 쭈꾸미 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1778775594759,
-    "lng": 126.902775811979
+    "lat": 35.1778791,
+    "lng": 126.9027018
   },
   {
     "_id": "686a400ce74533f75001bf73",
@@ -2331,8 +2347,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/카츠앤맘 전남대/돈가스도시락.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf76",
@@ -2343,8 +2361,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/카츠앤맘 전남대/치즈돈가스도시락.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf77",
@@ -2355,8 +2375,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/카츠앤맘 전남대/치돈정식.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf78",
@@ -2367,8 +2389,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/카츠앤맘 전남대/옛날돈가스.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf79",
@@ -2379,32 +2403,38 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/카츠앤맘 전남대/[신메뉴] 밥도둑 돈가스 김치찌개.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf7a",
         "name": "고구마무스 품은 돈가스",
         "price": 10900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf7b",
         "name": "고구마무스 품은 치즈 돈가스",
         "price": 12900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf7c",
@@ -2415,8 +2445,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/카츠앤맘 전남대/온메밀.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf7d",
@@ -2427,8 +2459,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/카츠앤맘 전남대/냉메밀.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf7e",
@@ -2439,56 +2473,66 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/카츠앤맘 전남대/비빔메밀.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf7f",
         "name": "가쯔오우동",
         "price": 6000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf80",
         "name": "새우튀김우동",
         "price": 7900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf81",
         "name": "김치우동+공기밥",
         "price": 8000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf82",
         "name": "냉우동",
         "price": 6900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf83",
@@ -2499,104 +2543,94 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/카츠앤맘 전남대/[신메뉴]국물까지맛있는 마라우동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf84",
         "name": "온메밀+돈가스",
         "price": 12900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf85",
         "name": "온메밀+치즈돈가스",
         "price": 14900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf86",
         "name": "냉메밀+돈가스",
         "price": 12900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf87",
         "name": "냉메밀+치즈돈가스",
         "price": 14900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf88",
-        "name": "튀김추가",
-        "price": 2000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf73",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf89",
-        "name": "공기밥",
-        "price": 1000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf73",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf8a",
         "name": "해쉬브라운 ( 2P)",
         "price": 2500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf8b",
         "name": "왕새우튀김 (2P)",
         "price": 3000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf8c",
@@ -2607,79 +2641,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf73",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf8d",
-        "name": "콜라(500ml)",
-        "price": 2000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf73",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf8e",
-        "name": "사이다(500ml)",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/카츠앤맘 전남대/사이다(500ml).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf73",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf8f",
-        "name": "환타파인(500ml)",
-        "price": 2000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf73",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf90",
-        "name": "팹시콜라(245ml)",
-        "price": 1000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf73",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bf91",
-        "name": "제로팹시라임(355ml)",
-        "price": 1500,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bf73",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/카츠앤맘 전남대/국물떡볶이(1~2인분).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/카츠앤맘 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "일식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/카츠앤맘 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1778775594759,
-    "lng": 126.902775811979
+    "lat": 35.1778791,
+    "lng": 126.9027018
   },
   {
     "_id": "686a400ce74533f75001bf95",
@@ -2690,120 +2666,138 @@ module.exports = [
         "_id": "686a400ce74533f75001bf97",
         "name": "참치비빔밥",
         "price": 5000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf98",
         "name": "김치찌개 백반",
         "price": 5000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf99",
         "name": "오징어볶음 백반",
         "price": 13000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf9a",
         "name": "참치김치찌개백반",
         "price": 5000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf9b",
         "name": "제육볶음 백반",
         "price": 6000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf9c",
         "name": "순두부 백반",
         "price": 5000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf9d",
         "name": "된장찌개",
         "price": 5000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf9e",
         "name": "해물국밥",
         "price": 5000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bf9f",
         "name": "만둣국(공기포함)",
         "price": 5000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bf95",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
-    "image": null,
-    "isAllowed": false,
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "한식",
     "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
     "__v": 1,
-    "lat": 35.1776652686233,
-    "lng": 126.902636972244
+    "lat": 35.1776497,
+    "lng": 126.9026156
   },
   {
     "_id": "686a400ce74533f75001bfa3",
@@ -2819,8 +2813,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfa3",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마라미녀마라탕 전남대/마라탕.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfa6",
@@ -2831,8 +2827,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfa3",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마라미녀마라탕 전남대/마라샹궈.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfa7",
@@ -2843,8 +2841,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfa3",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마라미녀마라탕 전남대/궈바로우.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfa8",
@@ -2855,8 +2855,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfa3",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마라미녀마라탕 전남대/볶음밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfa9",
@@ -2867,19 +2869,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfa3",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마라미녀마라탕 전남대/멘보샤.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마라미녀마라탕 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "중식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마라미녀마라탕 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1777073959369,
-    "lng": 126.902343257736
+    "lat": 35.1776932,
+    "lng": 126.9023594
   },
   {
     "_id": "686a400ce74533f75001bfad",
@@ -2895,8 +2899,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/콘래식 핫도그.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfb0",
@@ -2907,8 +2913,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/갈릭 핫도그.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfb1",
@@ -2919,8 +2927,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/타코야끼 8알.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfb2",
@@ -2931,20 +2941,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bfb3",
-        "name": "아메리카노",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/아메리카노.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bfad",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/타코야끼 14알.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfb4",
@@ -2955,8 +2955,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/베이컨 칠리 핫도그.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfb5",
@@ -2967,8 +2969,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/에그 핫도그.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfb6",
@@ -2979,8 +2983,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/어니언 핫도그.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfb7",
@@ -2991,8 +2997,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/타코야끼 22알.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfb8",
@@ -3003,8 +3011,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/타코야끼 28알.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfb9",
@@ -3015,8 +3025,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/바베큐치킨 핫도그 & 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfba",
@@ -3027,8 +3039,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/폴드포크핫도그 & 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfbb",
@@ -3039,8 +3053,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/치킨텐더 & 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfbc",
@@ -3051,20 +3067,24 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/돈까스 & 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfbd",
         "name": "아메리칸 핫도그+콜팝+음료",
         "price": 8300,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfbe",
@@ -3075,32 +3095,38 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/감자튀김.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfbf",
         "name": "불닭볶음면(큰컵)",
         "price": 2000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfc0",
         "name": "까르보불닭볶음면(큰컵)",
         "price": 2000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfc1",
@@ -3111,67 +3137,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfad",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bfc2",
-        "name": "레몬 아이스티",
-        "price": 3000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/레몬 아이스티.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bfad",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bfc3",
-        "name": "복숭아 아이스티",
-        "price": 3000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/복숭아 아이스티.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bfad",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bfc4",
-        "name": "펩시콜라(뚱캔 355ml)",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/펩시콜라(뚱캔 355ml).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bfad",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ce74533f75001bfc5",
-        "name": "사이다(뚱캔 355ml)",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/사이다(뚱캔 355ml).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ce74533f75001bfad",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/콜팝치킨.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "기타",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/테이스티 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1772375034083,
-    "lng": 126.90221252234
+    "lat": 35.177257,
+    "lng": 126.902226
   },
   {
     "_id": "686a400ce74533f75001bfc9",
@@ -3187,43 +3167,49 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfc9",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대맛칼국수 전남대/바지락칼국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfcc",
         "name": "팥죽",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfc9",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfcd",
         "name": "동지죽",
         "price": 8000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfc9",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대맛칼국수 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대맛칼국수 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1775923400423,
-    "lng": 126.902066967076
+    "lat": 35.1775941,
+    "lng": 126.9020647
   },
   {
     "_id": "686a400ce74533f75001bfd1",
@@ -3234,120 +3220,138 @@ module.exports = [
         "_id": "686a400ce74533f75001bfd3",
         "name": "부대찌게 소",
         "price": 20000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfd1",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfd4",
         "name": "김치찌게",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfd1",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfd5",
         "name": "순두부찌게",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfd1",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfd6",
         "name": "곰탕",
         "price": 8000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfd1",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfd7",
         "name": "뼈해장국",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfd1",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfd8",
         "name": "소고기비빔밥",
         "price": 8000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfd1",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfd9",
         "name": "삼겹살",
         "price": 9000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfd1",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfda",
         "name": "목살",
         "price": 9000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfd1",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfdb",
         "name": "생오리구이",
         "price": 10000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfd1",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/무등골금호식당 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/무등골금호식당 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1773724383875,
-    "lng": 126.901658188346
+    "lat": 35.1773643,
+    "lng": 126.9016542
   },
   {
     "_id": "686a400ce74533f75001bfdf",
@@ -3365,8 +3369,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/잇샌드전용원두아메리카노.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfe2",
@@ -3377,8 +3383,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[떡볶이데신] 햄치즈에그 샌드위치.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfe3",
@@ -3389,8 +3397,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[동대문] 케이준 치킨 잇츠랩.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfe4",
@@ -3401,8 +3411,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[꾸준한 인기 제품] 훈제 오리 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfe5",
@@ -3413,8 +3425,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[칼로리 다운] 곤약참치마요 주먹밥 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfe6",
@@ -3425,8 +3439,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[절대 조합, 햄+김치] 햄김치 주먹밥 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfe7",
@@ -3437,8 +3453,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[무섭다는 아는 그 맛] 소고기 고추장 주먹밥 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfe8",
@@ -3449,8 +3467,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[직원들 베스트] 김치 치즈 주먹밥 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfe9",
@@ -3461,8 +3481,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[샐러드에 비빔밥을] 전주식 비빔밥 주먹밥 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfea",
@@ -3473,8 +3495,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[중독성 강한] 그래놀라 그릭요거트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfeb",
@@ -3485,8 +3509,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[중독성+달달] 달콤초코 그릭요거트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfec",
@@ -3497,8 +3523,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[빙수데신]새콤과일그릭요거트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfed",
@@ -3509,8 +3537,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/내맘대로 그릭요거트(그릭요거트 100g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfee",
@@ -3521,8 +3551,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/내맘대로 그릭요거트(그릭요거트 200g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfef",
@@ -3533,8 +3565,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[계란과 쪽파의 만남] 파파에그 샌드위치(2pcs).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bff0",
@@ -3545,8 +3579,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[달콤하고 부드러운] 단호박 듬뿍 샌드위치.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bff1",
@@ -3557,8 +3593,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[다이어터를 위한 추천] 게살 크래미 샌드위치.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bff2",
@@ -3569,8 +3607,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[피자치킨족발] 케이준 치킨 샌드위치.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bff3",
@@ -3581,8 +3621,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[여성 인기 제품] 단호박 크림치즈 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bff4",
@@ -3593,8 +3635,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[촉촉한 고단백 메뉴] 게살 크래미 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bff5",
@@ -3605,8 +3649,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[매콤 통통 새우 듬뿍] 레드 쉬림프 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bff6",
@@ -3617,8 +3663,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[샐러드] 케이준치킨 셀러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bff7",
@@ -3629,8 +3677,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[식단 관리 한다면] 그릴 닭가슴살 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bff8",
@@ -3641,8 +3691,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/달콤 단호박 스프.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bff9",
@@ -3653,8 +3705,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/단백 양송이 스프.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bffa",
@@ -3665,8 +3719,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/바스크 크림치즈케이크.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bffb",
@@ -3677,8 +3733,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/휘낭시에(솔트초코 휘낭시에).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bffc",
@@ -3689,8 +3747,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/휘낭시에(말차화이트초코 휘낭시에).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bffd",
@@ -3701,8 +3761,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/휘낭시에(플레인 휘낭시에).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bffe",
@@ -3713,8 +3775,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/마들렌(플레인 마들렌).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001bfff",
@@ -3725,8 +3789,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/동그라미 그릭빵.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c000",
@@ -3737,8 +3803,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/플레인 베이글.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c001",
@@ -3749,8 +3817,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/쪽파 크림치즈 베이글.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c002",
@@ -3761,8 +3831,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[사과_비트_당근] MORNING A.B.C.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c003",
@@ -3773,8 +3845,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[백포도_사과_케일] CALM GREEN.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c004",
@@ -3785,8 +3859,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[달걀과 햄의 실패 없는] 노랑 에그 햄 잇츠랩.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c005",
@@ -3797,8 +3873,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[달콤하고 부드러운] 단호박 듬뿍 잇츠랩.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c006",
@@ -3809,8 +3887,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[칼로리가 걱정된다면] 게살 크래미 잇츠랩.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c007",
@@ -3821,8 +3901,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/[약간 매콤함을 더한] 레드 쉬림프 잇츠랩.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c008",
@@ -3833,8 +3915,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/밀크티(펄미포함).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c009",
@@ -3845,8 +3929,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/초코밀크티.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c00a",
@@ -3857,8 +3943,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/흑당버블티(펄포함).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c00b",
@@ -3869,8 +3957,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/리얼장꾸르트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c00c",
@@ -3881,8 +3971,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/딸기장꾸르트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c00d",
@@ -3893,8 +3985,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/블루베리장꾸르트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c00e",
@@ -3905,8 +3999,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/망고장꾸르트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c00f",
@@ -3917,8 +4013,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/파인애플장꾸르트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c010",
@@ -3929,8 +4027,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/꿀메리카노.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c011",
@@ -3941,8 +4041,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/헤이즐넛아메리카노.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c012",
@@ -3953,8 +4055,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/달달다방커피.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c013",
@@ -3965,8 +4069,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/카푸치노(시나몬).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c014",
@@ -3977,8 +4083,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/콜드브루아메리카노.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c015",
@@ -3989,8 +4097,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/콜드브루 라떼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c016",
@@ -4001,8 +4111,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/콜드브루 바닐라.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c017",
@@ -4013,8 +4125,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/콜드브루 돌체라떼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c018",
@@ -4025,8 +4139,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/콜드브루크림바닐라라떼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c019",
@@ -4037,8 +4153,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/카페라떼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c01a",
@@ -4049,8 +4167,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/꿀라떼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c01b",
@@ -4061,8 +4181,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/헤이즐넛라떼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c01c",
@@ -4073,8 +4195,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/바닐라라떼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c01d",
@@ -4085,8 +4209,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/크림바닐라라떼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c01e",
@@ -4097,8 +4223,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/리얼토마토쥬스.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c01f",
@@ -4109,8 +4237,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/리얼키위쥬스.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c020",
@@ -4121,8 +4251,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/리얼바나나쥬스.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c021",
@@ -4133,8 +4265,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/딸기 바나나.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c022",
@@ -4145,8 +4279,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/리얼파인애플쥬스.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c023",
@@ -4157,8 +4293,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/레몬에이드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c024",
@@ -4169,8 +4307,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/자몽에이드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c025",
@@ -4181,8 +4321,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/청포도에이드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c026",
@@ -4193,8 +4335,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/석류에이드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c027",
@@ -4205,8 +4349,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/패션후르츠에이드(수제).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c028",
@@ -4217,8 +4363,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/고구마라떼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c029",
@@ -4229,8 +4377,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/오곡라떼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c02a",
@@ -4241,8 +4391,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/토피넛라떼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c02b",
@@ -4253,8 +4405,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/초코라떼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c02c",
@@ -4265,8 +4419,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/녹차라떼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c02d",
@@ -4277,8 +4433,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/플레인요거트스무디.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c02e",
@@ -4289,8 +4447,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/딸기요거트스무디.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c02f",
@@ -4301,8 +4461,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/애플망고요거트스무디.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c030",
@@ -4313,8 +4475,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/블루베리요거트스무디.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c031",
@@ -4325,8 +4489,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/키위요거트스무디.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c032",
@@ -4337,8 +4503,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/자바칩프라페.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c033",
@@ -4349,8 +4517,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/쿠앤크프라페.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c034",
@@ -4361,8 +4531,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/녹차프라페.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c035",
@@ -4373,8 +4545,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/달콤커피 프라페.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c036",
@@ -4385,8 +4559,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/유자차.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c037",
@@ -4397,8 +4573,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/레몬차.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c038",
@@ -4409,8 +4587,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/자몽차.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c039",
@@ -4421,8 +4601,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/매실차.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c03a",
@@ -4433,8 +4615,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/사과유자차.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c03b",
@@ -4445,8 +4629,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/캐모마일.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c03c",
@@ -4457,8 +4643,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/루이보스.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c03d",
@@ -4469,8 +4657,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/얼그레이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c03e",
@@ -4481,8 +4671,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/히비스커스.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c03f",
@@ -4493,8 +4685,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/잇츠 클래식 초코쿠키.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c040",
@@ -4505,8 +4699,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/잇츠 더블 초코쿠키.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c041",
@@ -4517,8 +4713,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/잇츠 허니 시나몬케이크.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c042",
@@ -4529,8 +4727,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/잇츠 허니 월넛 케이크.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ce74533f75001c043",
@@ -4541,19 +4741,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ce74533f75001bfdf",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/잇츠 허니 코코아케이크.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "양식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/잇샌드 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1773393238906,
-    "lng": 126.901504535468
+    "lat": 35.1773531,
+    "lng": 126.9015103
   },
   {
     "_id": "686a400de74533f75001c047",
@@ -4570,7 +4772,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c047",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/[주문량1위] [돼지국밥].jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c04a",
@@ -4582,7 +4786,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c047",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/[주문량2위][돼지순대국밥].jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c04b",
@@ -4594,7 +4800,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c047",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/[순대듬뿍][순대만국밥].jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c04c",
@@ -4606,7 +4814,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c047",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/[고르기힘들면][모듬국밥].jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c04d",
@@ -4618,7 +4828,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c047",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/[No.1 인기] [맛보기순대](1~2인분).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c04e",
@@ -4630,7 +4842,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c047",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/찐사부대찌개(1인분).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c04f",
@@ -4642,7 +4856,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c047",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/[No.1 대표] [맛보기수육](1~2인분).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c050",
@@ -4654,7 +4870,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c047",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/미니순대 [1인분](1인분).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c051",
@@ -4666,7 +4884,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c047",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/미니수육 [1인분](1인분).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c052",
@@ -4678,78 +4898,20 @@ module.exports = [
         "storeId": "686a400de74533f75001c047",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/辛곱창볶음(중).jpg",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c053",
-        "name": "콜라",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/콜라.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c047",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/콜라.jpg",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c054",
-        "name": "스프라이트",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/스프라이트.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c047",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/스프라이트.jpg",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c055",
-        "name": "환타",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/환타.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c047",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/환타.jpg",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c056",
-        "name": "광동 헛개차",
-        "price": 2500,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c047",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c057",
-        "name": "코카콜라(제로)",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/코카콜라(제로).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c047",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/코카콜라(제로).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/대표사진.jpg",
     "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "한식",
     "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/찐한사골국밥 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1780083855369,
-    "lng": 126.901707592554
+    "lat": 35.1780118,
+    "lng": 126.9017107
   },
   {
     "_id": "686a400de74533f75001c05b",
@@ -4762,15 +4924,15 @@ module.exports = [
         "price": 22000,
         "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/금룡황제쟁반짜장 전남대/찹쌀탕수육(小).jpg",
         "reviews": [
-          "686d16393bd3716bfc259551",
-          "686d1cab3bd3716bfc25956e",
-          "687075c3f38580436f18f078"
+          "686d16393bd3716bfc259551"
         ],
-        "likeCount": 2,
+        "likeCount": 4,
         "storeId": "686a400de74533f75001c05b",
         "heart": true,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/금룡황제쟁반짜장 전남대/찹쌀탕수육(小).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c05e",
@@ -4782,7 +4944,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c05b",
         "heart": true,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/금룡황제쟁반짜장 전남대/찹쌀탕수육(中).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c05f",
@@ -4794,7 +4958,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c05b",
         "heart": true,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/금룡황제쟁반짜장 전남대/찹쌀탕수육(大).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c060",
@@ -4806,7 +4972,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/금룡황제쟁반짜장 전남대/1. 황제쟁반짜장.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c061",
@@ -4818,199 +4986,233 @@ module.exports = [
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/금룡황제쟁반짜장 전남대/4. 황제쟁반볶음짬뽕(국물없음).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c062",
         "name": "찹쌀탕수육 세트 자유선택(2인분)",
         "price": 15000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c063",
         "name": "1. 찹쌀탕수육+짜장2+군만두+콜라",
         "price": 23000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c064",
         "name": "2. 찹쌀탕수육+짬뽕2+군만두+콜라",
         "price": 25000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c065",
         "name": "3. 찹쌀탕수육+간짜장2+군만두+콜라",
         "price": 28000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c066",
         "name": "4. 찹쌀탕수육+볶음밥2+군만두+콜라",
         "price": 26000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c067",
         "name": "2. 황제쟁반볶음밥+짜장",
         "price": 10500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c068",
         "name": "3. 황제사천짬뽕",
         "price": 11000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c069",
         "name": "8. 황제쟁반사천탕수육(中)",
         "price": 32000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c06a",
         "name": "1. 찹쌀탕수육+황제쟁반짜장(1인분)+군만두",
         "price": 23000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c06b",
         "name": "2. 찹쌀탕수육+황제쟁반짜장(2인분)+군만두",
         "price": 28000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c06c",
         "name": "3. 찹쌀탕수육+황제사천짬뽕(2인분)+군만두",
         "price": 31000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c06d",
         "name": "4. 찹쌀탕수육+(황제쟁반볶음밥+짜장)2인분+군만두",
         "price": 30000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c06e",
         "name": "5. 찹쌀탕수육+황제쟁반볶음짬뽕(2인분)+군만두",
         "price": 31000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c06f",
         "name": "짜장",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c070",
         "name": "우동",
         "price": 8500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c071",
         "name": "짬뽕",
         "price": 8500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c072",
@@ -5022,246 +5224,230 @@ module.exports = [
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/금룡황제쟁반짜장 전남대/간짜장.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c073",
         "name": "사천짬뽕",
         "price": 11000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c074",
         "name": "육개장",
         "price": 9000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c075",
         "name": "국밥 (짬뽕밥)",
         "price": 9000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c076",
         "name": "볶음밥",
         "price": 9000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c077",
         "name": "짜장밥",
         "price": 8500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c078",
         "name": "오므라이스",
         "price": 10000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c079",
         "name": "잡채밥",
         "price": 10000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c07a",
         "name": "오징어탕수육",
         "price": 36000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c07b",
         "name": "칠리새우탕수육",
         "price": 36000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c07c",
         "name": "짬짜면",
         "price": 9000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c07d",
         "name": "볶짜면",
         "price": 9500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c07e",
         "name": "볶짬면",
         "price": 10000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c07f",
         "name": "탕짜면",
         "price": 10500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c080",
         "name": "탕짬면",
         "price": 11000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c081",
         "name": "군만두",
         "price": 6000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c05b",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c082",
-        "name": "공기밥",
-        "price": 1000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c05b",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c083",
-        "name": "펩시 제로 1.25L(1.25L)",
-        "price": 3500,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c05b",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c084",
-        "name": "사이다 1.25L(1.25L)",
-        "price": 3500,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c05b",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c085",
-        "name": "펩시제로 500ml(500ml)",
-        "price": 2000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c05b",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/금룡황제쟁반짜장 전남대/대표사진.jpg",
     "isAllowed": true,
-    "likeSum": 4,
-    "locationCategory": "후문",
+    "likeSum": 6,
+    "locationCategory": "상대",
     "foodCategory": "중식",
     "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/금룡황제쟁반짜장 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1781669901653,
-    "lng": 126.902222277594
+    "lat": 35.1781584,
+    "lng": 126.9022159
   },
   {
     "_id": "686a400de74533f75001c089",
@@ -5277,8 +5463,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만계치킨 전남대/후라이드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c08c",
@@ -5289,8 +5477,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만계치킨 전남대/양념치킨.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c08d",
@@ -5301,8 +5491,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만계치킨 전남대/간장치킨.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c08e",
@@ -5313,8 +5505,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만계치킨 전남대/땡초치킨.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c08f",
@@ -5325,163 +5519,161 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만계치킨 전남대/후라이드_양념치킨.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c090",
         "name": "청량치킨",
         "price": 22000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c091",
         "name": "후라이드/간장치킨",
         "price": 21000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c092",
         "name": "후라이드/땡초치킨",
         "price": 21000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c093",
         "name": "후라이드/청량치킨",
         "price": 21000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c094",
         "name": "양념치킨/간장치킨",
         "price": 22000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c095",
         "name": "반마리치킨(후라이드)",
         "price": 10000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c096",
         "name": "반마리치킨(양념)",
         "price": 11000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c097",
         "name": "반마리치킨(간장)",
         "price": 11000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c098",
         "name": "반마리치킨(땡초)",
         "price": 11000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c099",
         "name": "반마리치킨(청량)",
         "price": 11000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c089",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c09a",
-        "name": "치킨무",
-        "price": 500,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c089",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c09b",
-        "name": "양념소스",
-        "price": 500,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c089",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만계치킨 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "기타",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만계치킨 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1780564845316,
-    "lng": 126.902558670677
+    "lat": 35.1780947,
+    "lng": 126.9025189
   },
   {
     "_id": "686a400de74533f75001c09f",
@@ -5492,96 +5684,110 @@ module.exports = [
         "_id": "686a400de74533f75001c0a1",
         "name": "닭볶음탕 중",
         "price": 20000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c09f",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0a2",
         "name": "제육볶음 중",
         "price": 14000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c09f",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0a3",
         "name": "닭갈비볶음 중",
         "price": 14000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c09f",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0a4",
         "name": "김치찌개",
         "price": 6500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c09f",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0a5",
         "name": "참치찌개",
         "price": 6500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c09f",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0a6",
         "name": "된장찌개",
         "price": 6500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c09f",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0a7",
         "name": "소고기미역국",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c09f",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/엄니손맛 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/엄니손맛 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1771388519326,
-    "lng": 126.901381164694
+    "lat": 35.1771306,
+    "lng": 126.9013861
   },
   {
     "_id": "686a400de74533f75001c0ab",
@@ -5597,8 +5803,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0ab",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/깐풍기中(中).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0ae",
@@ -5609,8 +5817,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0ab",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/세트메뉴1(특大).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0af",
@@ -5621,8 +5831,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0ab",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/세트메뉴3.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0b0",
@@ -5633,8 +5845,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0ab",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/세트메뉴 2.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0b1",
@@ -5645,8 +5859,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0ab",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/소이간장 스페셜.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0b2",
@@ -5657,8 +5873,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0ab",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/깐풍기大(大).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0b3",
@@ -5669,8 +5887,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0ab",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/통오징어튀김2p.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0b4",
@@ -5681,8 +5901,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0ab",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/고추튀김2p.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0b5",
@@ -5693,8 +5915,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0ab",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/야채튀김2p.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0b6",
@@ -5705,8 +5929,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0ab",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/고구마튀김2p.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0b7",
@@ -5717,56 +5943,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0ab",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0b8",
-        "name": "코카콜라(500ml)",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/코카콜라(500ml).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0ab",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0b9",
-        "name": "코카콜라(1.25L)",
-        "price": 3000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/코카콜라(1.25L).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0ab",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0ba",
-        "name": "코카콜라제로355",
-        "price": 1500,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/코카콜라제로355.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0ab",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0bb",
-        "name": "스프라이트(500ml)",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/스프라이트(500ml).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0ab",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/김말이튀김5p.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0bc",
@@ -5777,19 +5957,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0ab",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/북경깐풍기 전남대/스프라이트(1.5L).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
-    "image": null,
-    "isAllowed": false,
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "중식",
     "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
     "__v": 1,
-    "lat": 35.1772543500592,
-    "lng": 126.901091643997
+    "lat": 35.1772619,
+    "lng": 126.9010935
   },
   {
     "_id": "686a400de74533f75001c0c0",
@@ -5805,8 +5987,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/이스켄데르 케밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0c3",
@@ -5817,8 +6001,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/믹스 라이스 플레이트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0c4",
@@ -5829,8 +6015,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/양고기 라이스 플레이트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0c5",
@@ -5841,8 +6029,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/치킨 라이스 플레이트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0c6",
@@ -5853,8 +6043,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/소문 믹스.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0c7",
@@ -5865,8 +6057,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/소문 양고기.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0c8",
@@ -5877,8 +6071,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/소문 치킨.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0c9",
@@ -5889,8 +6085,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/믹스 박스.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0ca",
@@ -5901,8 +6099,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/양고기 박스.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0cb",
@@ -5913,8 +6113,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/치킨 박스.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0cc",
@@ -5925,8 +6127,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/믹스 치즈 또띠아.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0cd",
@@ -5937,8 +6141,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/양고기 치즈 또띠아.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0ce",
@@ -5949,8 +6155,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/치킨 치즈 또띠아.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0cf",
@@ -5961,8 +6169,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/믹스 라이스 또띠아.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0d0",
@@ -5973,19 +6183,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0c0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/양고기 라이스 또띠아.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "기타",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/안탈야케밥 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1774195593752,
-    "lng": 126.900859696931
+    "lat": 35.1774066,
+    "lng": 126.9008301
   },
   {
     "_id": "686a400de74533f75001c0d4",
@@ -6001,8 +6213,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0d4",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/안동찜닭(1인메뉴).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0d7",
@@ -6013,8 +6227,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0d4",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/안동찜닭(小).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0d8",
@@ -6025,8 +6241,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0d4",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/안동찜닭(中).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0d9",
@@ -6037,8 +6255,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0d4",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/안동찜닭(大).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0da",
@@ -6049,20 +6269,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0d4",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0db",
-        "name": "공기밥(1개)",
-        "price": 1500,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/공기밥(1개).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0d4",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/안동해물찜닭(小).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0dc",
@@ -6073,20 +6283,24 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0d4",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/계란찜.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0dd",
         "name": "쉑쉑치즈감자",
         "price": 5000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0d4",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0de",
@@ -6097,8 +6311,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0d4",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/치즈스틱.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0df",
@@ -6109,79 +6325,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0d4",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0e0",
-        "name": "코카콜라(355ml)",
-        "price": 1500,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/코카콜라(355ml).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0d4",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0e1",
-        "name": "코카콜라(1.25L)",
-        "price": 3000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/코카콜라(1.25L).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0d4",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0e2",
-        "name": "코카콜라제로500",
-        "price": 1500,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/코카콜라제로500.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0d4",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0e3",
-        "name": "스프라이트제로355",
-        "price": 1500,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/스프라이트제로355.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0d4",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0e4",
-        "name": "생수500",
-        "price": 1000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/생수500.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0d4",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/원조 안동찜닭 전남대/고구마 치즈스틱.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
-    "image": null,
-    "isAllowed": false,
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "한식",
     "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
     "__v": 1,
-    "lat": 35.1772543500592,
-    "lng": 126.901091643997
+    "lat": 35.1772619,
+    "lng": 126.9010935
   },
   {
     "_id": "686a400de74533f75001c0e8",
@@ -6198,7 +6356,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/(가성비최고)벤또모듬스시 (10ps).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0eb",
@@ -6210,7 +6370,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/(가성비甲)벤또 모듬(초밥형도시락)(10ps).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0ec",
@@ -6222,7 +6384,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/B모듬벤또(초밥형도시락).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0ed",
@@ -6234,7 +6398,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/(육수따로)시원한살얼음동동연어물회.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0ee",
@@ -6246,127 +6412,79 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/(가성비甲)연어비빔밥.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0ef",
         "name": "(여름특선)살얼음동동 냉모밀+초밥(스시)6p(냉모밀+초밥(스시)6p계란)",
         "price": 12900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0f0",
         "name": "(여름특선)살얼음동동 냉모밀+초밥(스시)6p(냉모밀+초밥(스시)6p유부)",
         "price": 12900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0f1",
         "name": "(여름특선)살얼음동동 냉모밀+초밥(스시)6p(냉모밀+초밥(스시)6p초새우)",
         "price": 14900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0f2",
         "name": "(여름특선)살얼음동동 냉모밀+초밥(스시)6p(냉모밀+초밥(스시)6p뿔소라)",
         "price": 15900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0f3",
         "name": "(여름특선)살얼음동동 냉모밀+초밥(스시)6p(냉모밀+초밥(스시)6p연어)",
         "price": 18900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0f4",
-        "name": "서비스(어묵우동(랜덤제공))",
-        "price": 2000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0e8",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0f5",
-        "name": "서비스(음료수(랜덤제공))",
-        "price": 2000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0e8",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0f6",
-        "name": "서비스(회양25g 또는 스시(초밥)주문시2p)",
-        "price": 2500,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0e8",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0f7",
-        "name": "서비스(사장님맘대로(랜덤))",
-        "price": 3000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0e8",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0f8",
-        "name": "서비스(수제두바이초콜렛4개)",
-        "price": 3000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0e8",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0f9",
@@ -6378,19 +6496,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/유부초밥4p(4ps).jpg",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c0fa",
-        "name": "두바이초콜 릿(1개)",
-        "price": 1200,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c0e8",
-        "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0fb",
@@ -6402,7 +6510,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/국물끝내주는얼큰시원한새우탕(공깃밥+계란후라이포함.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0fc",
@@ -6414,31 +6524,37 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/(국물이끝내줘요)1인매운탕+공깃밥1+계란후라이1.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0fd",
         "name": "얼큰시원한매운탕(1.5인분)+공깃밥1+계란후라이1",
         "price": 14900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0fe",
         "name": "얼큰시원한매운탕+공깃밥2+계란후라이2",
         "price": 19000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c0ff",
@@ -6450,7 +6566,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/(비법육수)살얼음냉모밀+왕돈까스세트.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c100",
@@ -6462,67 +6580,79 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/(비법육수)살얼음냉모밀+치즈돈까스세트.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c101",
         "name": "실속알찬세트(우동+돈까스)(돈까스+반어묵우동)",
         "price": 12000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c102",
         "name": "실속알찬세트(우동+돈까스)(돈까스+어묵우동)",
         "price": 13500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c103",
         "name": "실속알찬세트(우동+돈까스)(치즈돈까스+반어묵우동)",
         "price": 13500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c104",
         "name": "오늘의 회덮밥(비빔밥)(도미가들어간)",
         "price": 15900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c105",
         "name": "(가성비甲)육회비빔밥",
         "price": 11900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c106",
@@ -6534,7 +6664,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/(가성비甲)익힌연어비빔밥.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c107",
@@ -6546,55 +6678,65 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/(가성비甲)익힌소고기비빔밥.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c108",
         "name": "(여름특선) 살얼음 동동 냉모밀 + 모듬 스시 10ps(냉모밀+모듬초밥(스시)10p)",
         "price": 19900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c109",
         "name": "(여름특선) 살얼음 동동 냉모밀 + 모듬 스시 10ps(냉모밀+특선초밥(스시)10p)",
         "price": 21900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c10a",
         "name": "(여름특선) 살얼음 동동 냉모밀 + 모듬 스시 10ps(냉모밀+추천초밥(스시)10p)",
         "price": 25900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c10b",
         "name": "벤또연어모듬스시",
         "price": 17900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c10c",
@@ -6606,7 +6748,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/A모듬벤또(초밥형도시락).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c10d",
@@ -6618,7 +6762,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/C모듬벤또(초밥형도시락).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c10e",
@@ -6630,19 +6776,23 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/D모듬벤또(초밥형도시락).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c10f",
         "name": "모듬회(광어+연어+육회)+물회(메밀면or공기밥포함)",
         "price": 65000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c110",
@@ -6654,7 +6804,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/1인연어회.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c111",
@@ -6666,19 +6818,23 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/1인광어회(숙성회).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c112",
         "name": "광연이사시미(광어+연어)숙성회)",
         "price": 38000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c113",
@@ -6690,31 +6846,37 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/메밀비빔국수.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c114",
         "name": "연어메밀비빔국수",
         "price": 14900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c115",
         "name": "광어메밀비빔국수",
         "price": 14900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c116",
@@ -6726,7 +6888,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/모듬회메밀비빔국수.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c117",
@@ -6738,19 +6902,23 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/광어고노와다.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c118",
         "name": "(육수따로)시원한살얼음동동광어물회",
         "price": 22900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c119",
@@ -6762,7 +6930,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/(육수따로)시원한살얼음육회물회(공깃밥or메밀면).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c11a",
@@ -6774,7 +6944,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/(육수따로)시원한살얼음동동다섞어모듬물회.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c11b",
@@ -6786,7 +6958,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/연어냉모밀(살얼음비법육수따로).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c11c",
@@ -6798,19 +6972,23 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/(비법육수)살얼음냉모밀.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c11d",
         "name": "어묵꼬지우동",
         "price": 6000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c11e",
@@ -6822,7 +7000,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/양념장어(술안주)(2미).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c11f",
@@ -6834,7 +7014,9 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/순살치킨가라아케+쥐포튀김+샐러드.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c120",
@@ -6846,19 +7028,23 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/타코와사비+쥐포튀김(안주로최고).jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c121",
         "name": "닭강정+샐러드",
         "price": 15000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c122",
@@ -6870,30 +7056,34 @@ module.exports = [
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/연어샐러드.jpg",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c123",
         "name": "(비조리)연어머리+연어뼈",
         "price": 8000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c0e8",
         "heart": false,
-        "displayedImg": null,
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/대표사진.jpg",
     "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "일식",
     "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/벤또스시 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1770781350488,
-    "lng": 126.898584807265
+    "lat": 35.17708289999999,
+    "lng": 126.8985814
   },
   {
     "_id": "686a400de74533f75001c127",
@@ -6909,79 +7099,91 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c127",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고을나주곰탕 전남대/곰탕.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c12a",
         "name": "수육(소)",
         "price": 40000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c127",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c12b",
         "name": "특곰탕",
         "price": 13000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c127",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c12c",
         "name": "수육(대)",
         "price": 60000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c127",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c12d",
         "name": "한우육회",
         "price": 40000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c127",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c12e",
         "name": "촌닭백숙(예약주문)",
         "price": 60000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c127",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고을나주곰탕 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고을나주곰탕 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1771954616037,
-    "lng": 126.898656567675
+    "lat": 35.1771985,
+    "lng": 126.8986366
   },
   {
     "_id": "686a400de74533f75001c132",
@@ -6997,8 +7199,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/내맘대로 반반피자(가격).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c135",
@@ -7009,8 +7213,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/브라더스 스파게티세트(가격).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c136",
@@ -7021,8 +7227,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/푸짐하게 내맘대로L 1+1_콜라1.25L+얼음컵2개세트(L).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c137",
@@ -7033,8 +7241,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/더블 페페로니 2X(R).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c138",
@@ -7045,8 +7255,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/더블 페페로니 2X(L).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c139",
@@ -7057,8 +7269,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/내맘대로 한판 치즈크러스트피자(가격).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c13a",
@@ -7069,8 +7283,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/푸짐하게 내맘대로R 1+1_콜라1.25L+얼음컵2개세트(R).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c13b",
@@ -7081,8 +7297,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/커플세트(가격).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c13c",
@@ -7093,8 +7311,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/뉴욕치즈(R).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c13d",
@@ -7105,8 +7325,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/뉴욕치즈(L).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c13e",
@@ -7117,8 +7339,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/고르곤졸라피자(R).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c13f",
@@ -7129,8 +7353,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/고르곤졸라피자(L).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c140",
@@ -7141,8 +7367,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/슈퍼어셈블(슈퍼 수프림)(R).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c141",
@@ -7153,8 +7381,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/1타4피(R).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c142",
@@ -7165,8 +7395,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/1타4피(L).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c143",
@@ -7177,8 +7409,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/네고랜드(R).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c144",
@@ -7189,8 +7423,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/네고랜드(L).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c145",
@@ -7201,8 +7437,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/리얼스테이크(R).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c146",
@@ -7213,8 +7451,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/[치즈폭탄]뉴욕치즈피자.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c147",
@@ -7225,8 +7465,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/[치즈폭탄]수원불고기피자.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c148",
@@ -7237,8 +7479,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/[치즈폭탄]매운불고기피자.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c149",
@@ -7249,8 +7493,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/[불고기폭탄]수원불고기피자.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c14a",
@@ -7261,8 +7507,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/[치즈폭탄]치즈크러스트 뉴욕치즈피자.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c14b",
@@ -7273,8 +7521,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/매운 무뼈닭발세트(가격).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c14c",
@@ -7285,8 +7535,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/바사삭치킨세트(가격).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c14d",
@@ -7297,8 +7549,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/훈제치킨세트(가격).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c14e",
@@ -7309,8 +7563,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/[1인피자]브라더스 세트(1인).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c14f",
@@ -7321,8 +7577,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/바사삭치킨(크리스피 베이크)(반마리(4ea)).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c150",
@@ -7333,8 +7591,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/바사삭치킨(크리스피 베이크)(한마리(8ea)).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c151",
@@ -7345,8 +7605,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/훈제치킨.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c152",
@@ -7357,8 +7619,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/매운 무뼈닭발.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c153",
@@ -7369,8 +7633,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/버팔로윙+봉(5조각).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c154",
@@ -7381,8 +7647,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/수제치즈오븐스파게티.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c155",
@@ -7393,8 +7661,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/로제 쉬림프 스파게티.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c156",
@@ -7405,8 +7675,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/까르보나라.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c157",
@@ -7417,8 +7689,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/베이컨 치즈 스파게티.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c158",
@@ -7429,8 +7703,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/감자튀김.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c159",
@@ -7441,8 +7717,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/부어스트소세지(2조각).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c15a",
@@ -7453,8 +7731,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/갈릭 브레드(2조각).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c15b",
@@ -7465,8 +7745,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/콘치즈 (콘소메맛).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c15c",
@@ -7477,68 +7759,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c15d",
-        "name": "코카콜라(0.5L+얼음컵1개)",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/코카콜라(0.5L+얼음컵1개).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c132",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c15e",
-        "name": "코카콜라(1.25L+얼음컵2개)",
-        "price": 3000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/코카콜라(1.25L+얼음컵2개).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c132",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c15f",
-        "name": "코카 콜라 제로(355ml+얼음컵1개)",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/코카 콜라 제로(355ml+얼음컵1개).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c132",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c160",
-        "name": "코카 콜라 제로(1.25+얼음컵2개)",
-        "price": 3500,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/코카 콜라 제로(1.25+얼음컵2개).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c132",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c161",
-        "name": "스프라이트(0.5L+얼음컵1개)",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/스프라이트(0.5L+얼음컵1개).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c132",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/갈릭 수제 디핑.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c162",
@@ -7549,19 +7773,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c132",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/1인 미니피자(1인분).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
-    "locationCategory": "후문",
+    "locationCategory": "상대",
     "foodCategory": "양식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/피자브라더스 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1777463386069,
-    "lng": 126.899374840311
+    "lat": 35.1777481,
+    "lng": 126.8993551
   },
   {
     "_id": "686a400de74533f75001c166",
@@ -7577,8 +7803,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c166",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/샤브향 전남대/월남쌈 목심버섯샤브.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c169",
@@ -7589,67 +7817,77 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c166",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/샤브향 전남대/점심) 쇠고기샤브.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c16a",
         "name": "점심) 월남쌈 목심쇠고기샤브",
         "price": 13900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c166",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c16b",
         "name": "월남쌈 목심쇠고기샤브",
         "price": 16000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c166",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c16c",
         "name": "목심쇠고기샤브",
         "price": 15000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c166",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c16d",
         "name": "소고기 쌀국수",
         "price": 8000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c166",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/샤브향 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/샤브향 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1775386671183,
-    "lng": 126.912741569125
+    "lat": 35.1775478,
+    "lng": 126.9127387
   },
   {
     "_id": "686a400de74533f75001c171",
@@ -7660,192 +7898,222 @@ module.exports = [
         "_id": "686a400de74533f75001c173",
         "name": "매운쟁반짜장",
         "price": 5000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c174",
         "name": "탕수육+짜장면",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c175",
         "name": "탕수육+짬뽕",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c176",
         "name": "짜장",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c177",
         "name": "우동",
         "price": 5000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c178",
         "name": "짬뽕",
         "price": 5000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c179",
         "name": "간짜장",
         "price": 5000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c17a",
         "name": "울면",
         "price": 5000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c17b",
         "name": "삼선짜장",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c17c",
         "name": "삼선우동",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c17d",
         "name": "국밥(짬뽕밥)",
         "price": 6000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c17e",
         "name": "볶음밥",
         "price": 6000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c17f",
         "name": "짜장밥",
         "price": 6000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c180",
         "name": "잡채밥",
         "price": 6000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c181",
         "name": "해물덮밥",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c171",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/스피드반점 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "중식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/스피드반점 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1787076534508,
-    "lng": 126.91226595017
+    "lat": 35.1787265,
+    "lng": 126.9122853
   },
   {
     "_id": "686a400de74533f75001c185",
@@ -7861,8 +8129,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c185",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/애상마라탕&훠궈무한리필 전남대/훠궈무한리필.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c188",
@@ -7873,8 +8143,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c185",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/애상마라탕&훠궈무한리필 전남대/마라탕100g.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c189",
@@ -7885,8 +8157,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c185",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/애상마라탕&훠궈무한리필 전남대/마라샹궈100g.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c18a",
@@ -7897,8 +8171,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c185",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/애상마라탕&훠궈무한리필 전남대/꿔바로우(중).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c18b",
@@ -7909,8 +8185,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c185",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/애상마라탕&훠궈무한리필 전남대/크림새우(중).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c18c",
@@ -7921,19 +8199,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c185",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/애상마라탕&훠궈무한리필 전남대/볶음밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/애상마라탕&훠궈무한리필 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "중식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/애상마라탕&훠궈무한리필 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1772672586694,
-    "lng": 126.913355531911
+    "lat": 35.1772436,
+    "lng": 126.9133606
   },
   {
     "_id": "686a400de74533f75001c190",
@@ -7949,8 +8229,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c190",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/하루연어 전남대/연어모듬 (320g이상).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c193",
@@ -7961,8 +8243,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c190",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/하루연어 전남대/투움바 파스타.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c194",
@@ -7973,8 +8257,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c190",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/하루연어 전남대/연어덮밥 정식.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c195",
@@ -7985,8 +8271,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c190",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/하루연어 전남대/생연어 (200g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c196",
@@ -7997,8 +8285,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c190",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/하루연어 전남대/생연어초밥 (10p).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c197",
@@ -8009,8 +8299,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c190",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/하루연어 전남대/매콤 크림 파스타.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c198",
@@ -8018,22 +8310,24 @@ module.exports = [
         "price": 9900,
         "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/하루연어 전남대/새우장 덮밥 정식.jpg",
         "reviews": [],
-        "likeCount": 0,
+        "likeCount": 1,
         "storeId": "686a400de74533f75001c190",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "heart": true,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/하루연어 전남대/새우장 덮밥 정식.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/하루연어 전남대/대표사진.jpg",
-    "isAllowed": false,
-    "likeSum": 0,
+    "isAllowed": true,
+    "likeSum": 1,
     "locationCategory": "후문",
     "foodCategory": "일식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/하루연어 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.177612935225,
-    "lng": 126.914250977444
+    "lat": 35.1775797,
+    "lng": 126.9142802
   },
   {
     "_id": "686a400de74533f75001c19c",
@@ -8049,8 +8343,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/모소리살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c19f",
@@ -8061,8 +8357,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/오돌뼈.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1a0",
@@ -8073,8 +8371,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/숯불쭈꾸미.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1a1",
@@ -8085,8 +8385,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/막창.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1a2",
@@ -8097,8 +8399,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/삼겹살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1a3",
@@ -8109,8 +8413,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/숯불갈비.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1a4",
@@ -8121,8 +8427,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/매운닭발.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1a5",
@@ -8133,8 +8441,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/껍데기.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1a6",
@@ -8145,8 +8455,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/씨앗젓갈 비빔밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1a7",
@@ -8157,8 +8469,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/오뎅탕.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1a8",
@@ -8169,8 +8483,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/잔치국수, 물냉면, 비빔냉면.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1a9",
@@ -8181,8 +8497,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/김치찌개.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1aa",
@@ -8193,8 +8511,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/차돌된장찌개.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1ab",
@@ -8205,8 +8525,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/날치알 주먹밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1ac",
@@ -8217,19 +8539,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c19c",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/해장라면.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/삼일집 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1773607478119,
-    "lng": 126.914523278561
+    "lat": 35.1773703,
+    "lng": 126.9145181
   },
   {
     "_id": "686a400de74533f75001c1b0",
@@ -8245,109 +8569,97 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1b0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/김삼철 전남대/김치삼겹살철판구이(김삼철)(1인분).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1b3",
         "name": "김 삼철 세트 2인 정식",
         "price": 30900,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1b0",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1b4",
         "name": "삼겹살 추가(300g)",
         "price": 12000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1b0",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1b5",
         "name": "삼겹살 추가(600g)",
         "price": 20000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1b0",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1b6",
         "name": "냉면 (물)",
         "price": 6000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1b0",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1b7",
         "name": "냉면 (비빔)",
         "price": 6000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1b0",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400de74533f75001c1b8",
-        "name": "공기밥",
-        "price": 1000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c1b0",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/김삼철 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/김삼철 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1770770277195,
-    "lng": 126.914561559504
+    "lat": 35.1770857,
+    "lng": 126.9157144
   },
   {
     "_id": "686a400de74533f75001c1bc",
     "name": "깁미타코",
     "location": "광주 북구 우치로 100 1층 깁미타코",
     "menus": [
-      {
-        "_id": "686a400de74533f75001c1be",
-        "name": "TAKE OUT MENU",
-        "price": 0,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/TAKE OUT MENU.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400de74533f75001c1bc",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
       {
         "_id": "686a400de74533f75001c1bf",
         "name": "SET A",
@@ -8357,8 +8669,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/SET A.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1c0",
@@ -8369,8 +8683,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/SET B.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1c1",
@@ -8381,8 +8697,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/FRESH SET.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1c2",
@@ -8393,8 +8711,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/프레쉬 바베큐 보울.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1c3",
@@ -8405,8 +8725,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/깁미 파히타.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1c4",
@@ -8417,8 +8739,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/비리아 타코.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1c5",
@@ -8429,20 +8753,24 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/TACO SET.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1c6",
         "name": "BIRIA SET",
         "price": 15000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1c7",
@@ -8453,8 +8781,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/QUESADILLA SET.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1c8",
@@ -8465,8 +8795,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/프레쉬 쉬림프 보울.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1c9",
@@ -8477,8 +8809,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/쉬림프 파히타.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1ca",
@@ -8489,8 +8823,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/코코넛 쉬림프 타코.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1cb",
@@ -8501,8 +8837,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/치폴레 포크 타코.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1cc",
@@ -8513,19 +8851,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1bc",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/비프앤치즈 타코.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "양식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깁미타코 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.176330840164,
-    "lng": 126.912604208663
+    "lat": 35.1763182,
+    "lng": 126.9126149
   },
   {
     "_id": "686a400de74533f75001c1d0",
@@ -8541,8 +8881,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1d0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/효자동솥뚜껑 전남대/듀록흑돼지삼겹살(600g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1d3",
@@ -8553,8 +8895,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1d0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/효자동솥뚜껑 전남대/듀록흑돼지삼겹살+꽃목살(600g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1d4",
@@ -8565,8 +8909,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1d0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/효자동솥뚜껑 전남대/갑오징어미나리숙회.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1d5",
@@ -8577,8 +8923,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1d0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/효자동솥뚜껑 전남대/김치말이국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1d6",
@@ -8589,8 +8937,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1d0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/효자동솥뚜껑 전남대/신선한 미나리.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1d7",
@@ -8601,8 +8951,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1d0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/효자동솥뚜껑 전남대/소세지구이(4ea).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1d8",
@@ -8613,8 +8965,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1d0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/효자동솥뚜껑 전남대/듀록흑돼지삼겹살(200g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400de74533f75001c1d9",
@@ -8625,19 +8979,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400de74533f75001c1d0",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/효자동솥뚜껑 전남대/꽃목살(200g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/효자동솥뚜껑 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/효자동솥뚜껑 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1764666843729,
-    "lng": 126.914640251244
+    "lat": 35.1764588,
+    "lng": 126.9146691
   },
   {
     "_id": "686a400ee74533f75001c1dd",
@@ -8653,8 +9009,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1dd",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마장동고기집 전남대/프리미엄 돼지 550g.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1e0",
@@ -8665,8 +9023,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1dd",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마장동고기집 전남대/양념돼지갈비 세트 600g.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1e1",
@@ -8677,8 +9037,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1dd",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마장동고기집 전남대/작은한돈 세트 500g.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1e2",
@@ -8689,8 +9051,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1dd",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마장동고기집 전남대/큰한돈 세트 700g.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1e3",
@@ -8701,8 +9065,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1dd",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마장동고기집 전남대/프리미엄 작은소 450g.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1e4",
@@ -8713,8 +9079,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1dd",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마장동고기집 전남대/프리미엄 큰소 600g.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1e5",
@@ -8725,8 +9093,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1dd",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마장동고기집 전남대/작은한우 세트 500g.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1e6",
@@ -8737,19 +9107,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1dd",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마장동고기집 전남대/큰한우 육회 세트 700g.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마장동고기집 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마장동고기집 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1763600677815,
-    "lng": 126.914660013176
+    "lat": 35.1763706,
+    "lng": 126.9146664
   },
   {
     "_id": "686a400ee74533f75001c1ea",
@@ -8760,192 +9132,222 @@ module.exports = [
         "_id": "686a400ee74533f75001c1ec",
         "name": "누텔라와플",
         "price": 3500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1ed",
         "name": "누텔라생크림와플",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1ee",
         "name": "누텔라 아이스크림 와플",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1ef",
         "name": "누텔라 바나나",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1f0",
         "name": "누텔라 딸기 생크림 와플",
         "price": 4500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1f1",
         "name": "누텔라 바나나 생크림와플",
         "price": 4500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1f2",
         "name": "누텔라 딸기 아이스크림 와플",
         "price": 4500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1f3",
         "name": "누텔라 바나나 아이스크림 와플",
         "price": 4500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1f4",
         "name": "고구마 생크림 와플",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1f5",
         "name": "고구마 아이스크림 와플",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1f6",
         "name": "고구마 딸기 생크림 와플",
         "price": 4500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1f7",
         "name": "고구마 바나나 생크림 와플",
         "price": 4500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1f8",
         "name": "고구마 딸기 아이스크림 와플",
         "price": 4500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1f9",
         "name": "고구마 바나나 아이스크림",
         "price": 4500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c1fa",
         "name": "로투스 와플",
         "price": 3500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1ea",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마로와플 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "기타",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/마로와플 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1760776166074,
-    "lng": 126.912934694478
+    "lat": 35.1760764,
+    "lng": 126.9129357
   },
   {
     "_id": "686a400ee74533f75001c1fe",
@@ -8961,8 +9363,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라즈인도요리 전남대/빈달루 커리 Vindaloo Curry(치킨 빈달루 CV).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c201",
@@ -8973,8 +9377,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라즈인도요리 전남대/빈달루 커리 Vindaloo Curry(양고기 빈달루 LV).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c202",
@@ -8985,8 +9391,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라즈인도요리 전남대/빈달루 커리 Vindaloo Curry(새우 빈달루 PRV).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c203",
@@ -8997,8 +9405,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라즈인도요리 전남대/빈달루 커리 Vindaloo Curry(혼합야채 빈달루 MVV).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c204",
@@ -9009,68 +9419,80 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라즈인도요리 전남대/빈달루 커리 Vindaloo Curry(삶은계란 빈달루 Egg V).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c205",
         "name": "뼈치킨 마살라 커리 Bone Chicken Masala(1)",
         "price": 13000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c206",
         "name": "뼈치킨 빈달루커리Bone Chicken Vindaloo(1)",
         "price": 13000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c207",
         "name": "뼈치킨 카다이 커리 Bone Chicken Kadai(1)",
         "price": 15000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c208",
         "name": "뼈 버터 치킨 커리 Bone Butter Chicken(1)",
         "price": 13000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c209",
         "name": "뼈치킨 시금치 커리 Bone Chicken Palak(1)",
         "price": 13000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c20a",
@@ -9081,8 +9503,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라즈인도요리 전남대/플레인난 Plain Naan.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c20b",
@@ -9093,44 +9517,52 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라즈인도요리 전남대/버터난 Butter Naan.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c20c",
         "name": "갈릭난 Garlic Naan",
         "price": 3000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c20d",
         "name": "갈릭버터난 Garlic Butter Naan",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c20e",
         "name": "허니버터난 Honey Butter Naan",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c20f",
@@ -9141,8 +9573,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라즈인도요리 전남대/볶음밥 Biryani(야채 볶음밥 Veg. Biryani).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c210",
@@ -9153,8 +9587,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라즈인도요리 전남대/볶음밥 Biryani(치킨 Chicken Biryani).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c211",
@@ -9165,8 +9601,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라즈인도요리 전남대/볶음밥 Biryani(양고기 Lamb Biryani).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c212",
@@ -9177,91 +9615,105 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라즈인도요리 전남대/볶음밥 Biryani(새우 Prawn Biryani).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c213",
         "name": "치킨 볶음밥 Chicken Biryani",
         "price": 14000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c214",
         "name": "순살 탄두리치킨 Chicken Tikka",
         "price": 12000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c215",
         "name": "Chilli chicken 칠리 치킨(1인분)",
         "price": 18000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c216",
         "name": "Sweet Lassi 350ml",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c217",
         "name": "Plain Lassi 350ml (플레인 라씨 )",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c218",
         "name": "굴랍자문 디저트 Gulab Jamun 2 pieces",
         "price": 3000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c1fe",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라즈인도요리 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "기타",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라즈인도요리 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.174940392962,
-    "lng": 126.913589850495
+    "lat": 35.1749719,
+    "lng": 126.9132282
   },
   {
     "_id": "686a400ee74533f75001c21c",
@@ -9272,194 +9724,224 @@ module.exports = [
         "_id": "686a400ee74533f75001c21e",
         "name": "양꼬치",
         "price": 11000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [
           "686d069d3bd3716bfc25934d"
         ],
         "likeCount": 1,
         "storeId": "686a400ee74533f75001c21c",
-        "heart": true,
+        "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c21f",
         "name": "모듬꼬치",
         "price": 15000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c220",
         "name": "고급양갈비",
         "price": 20000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c221",
         "name": "마라갈비꼬치",
         "price": 15000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c222",
         "name": "어깨살꼬치",
         "price": 12000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c223",
         "name": "삼겹양꼬치",
         "price": 12000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c224",
         "name": "소갈비살",
         "price": 15000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c225",
         "name": "양갈비살",
         "price": 16000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c226",
         "name": "닭똥집",
         "price": 12000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c227",
         "name": "양깃머리",
         "price": 15000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c228",
         "name": "새우",
         "price": 15000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c229",
         "name": "향라대하",
         "price": 20000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c22a",
         "name": "마라대하",
         "price": 32000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c22b",
         "name": "어향육슬",
         "price": 18000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c22c",
         "name": "경장육슬",
         "price": 18000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c21c",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/일미양꼬치 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 1,
     "locationCategory": "후문",
     "foodCategory": "중식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/일미양꼬치 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1754247948571,
-    "lng": 126.913734025309
+    "lat": 35.1754119,
+    "lng": 126.9137431
   },
   {
     "_id": "686a400ee74533f75001c230",
@@ -9475,8 +9957,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c230",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/신당명가 전남대/모듬떡볶이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c233",
@@ -9487,8 +9971,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c230",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/신당명가 전남대/모듬치즈떡볶이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c234",
@@ -9499,43 +9985,49 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c230",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/신당명가 전남대/탕수육.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c235",
         "name": "오징어탕수육",
         "price": 16000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c230",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c236",
         "name": "부대찌개",
         "price": 13000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c230",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/신당명가 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
-    "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "foodCategory": "기타",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/신당명가 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1754671851459,
-    "lng": 126.913644730984
+    "lat": 35.1754539,
+    "lng": 126.9136477
   },
   {
     "_id": "686a400ee74533f75001c23a",
@@ -9546,24 +10038,26 @@ module.exports = [
         "_id": "686a400ee74533f75001c23c",
         "name": "화이트갈릭라면",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c23a",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라스타 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
-    "foodCategory": "양식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/라스타 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1756190276798,
-    "lng": 126.913720536958
+    "lat": 35.1756247,
+    "lng": 126.9137189
   },
   {
     "_id": "686a400ee74533f75001c240",
@@ -9576,11 +10070,13 @@ module.exports = [
         "price": 15000,
         "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/별식사케동.jpg",
         "reviews": [],
-        "likeCount": 0,
+        "likeCount": 2,
         "storeId": "686a400ee74533f75001c240",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "heart": true,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/별식사케동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c243",
@@ -9588,11 +10084,13 @@ module.exports = [
         "price": 14000,
         "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/반반사케동.jpg",
         "reviews": [],
-        "likeCount": 0,
+        "likeCount": 1,
         "storeId": "686a400ee74533f75001c240",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "heart": true,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/반반사케동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c244",
@@ -9603,8 +10101,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/사케동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c245",
@@ -9615,8 +10115,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/믹스가츠동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c246",
@@ -9624,11 +10126,13 @@ module.exports = [
         "price": 10000,
         "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/규동.jpg",
         "reviews": [],
-        "likeCount": 0,
+        "likeCount": 1,
         "storeId": "686a400ee74533f75001c240",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "heart": true,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/규동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c247",
@@ -9639,8 +10143,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/데리야끼연어덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c248",
@@ -9651,8 +10157,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/새우장덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c249",
@@ -9663,8 +10171,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/연어사시미.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c24a",
@@ -9675,8 +10185,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/연어샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c24b",
@@ -9687,8 +10199,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/연어냉우동샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c24c",
@@ -9699,8 +10213,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/냉우동샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c24d",
@@ -9711,8 +10227,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/연어초밥 8p(8P).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c24e",
@@ -9723,8 +10241,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/연어불초밥 8p(8P).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c24f",
@@ -9735,8 +10255,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/치킨가라아게.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c250",
@@ -9747,8 +10269,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/에비후라이 3P.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c251",
@@ -9756,82 +10280,52 @@ module.exports = [
         "price": 6000,
         "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/감자고로케 4P.jpg",
         "reviews": [],
-        "likeCount": 0,
+        "likeCount": 1,
         "storeId": "686a400ee74533f75001c240",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c252",
-        "name": "코카콜라 355ml",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/코카콜라 355ml.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c240",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c253",
-        "name": "제로콜라 355ml",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/제로콜라 355ml.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c240",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c254",
-        "name": "스프라이트 355ml",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/스프라이트 355ml.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c240",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "heart": true,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/감자고로케 4P.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 1
       },
       {
         "_id": "686a400ee74533f75001c255",
         "name": "산가리아 라무네 500ML",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c256",
         "name": "산가리아 멜론소다 500ML",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c240",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/대표사진.jpg",
-    "isAllowed": false,
-    "likeSum": 0,
+    "isAllowed": true,
+    "likeSum": 6,
     "locationCategory": "후문",
-    "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "foodCategory": "일식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대별식 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1756155989149,
-    "lng": 126.913589026252
+    "lat": 35.1756009,
+    "lng": 126.913627
   },
   {
     "_id": "686a400ee74533f75001c25a",
@@ -9844,46 +10338,52 @@ module.exports = [
         "price": 11000,
         "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동산회관 전남대/한방양념삼겹살.jpg",
         "reviews": [],
-        "likeCount": 1,
+        "likeCount": 2,
         "storeId": "686a400ee74533f75001c25a",
         "heart": true,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동산회관 전남대/한방양념삼겹살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c25d",
         "name": "별미비빔밥",
         "price": 2000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
-        "likeCount": 0,
+        "likeCount": 1,
         "storeId": "686a400ee74533f75001c25a",
-        "heart": false,
+        "heart": true,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c25e",
         "name": "버섯사리",
         "price": 2500,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c25a",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동산회관 전남대/대표사진.jpg",
-    "isAllowed": false,
-    "likeSum": 1,
+    "isAllowed": true,
+    "likeSum": 3,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/동산회관 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1753365450988,
-    "lng": 126.913345504902
+    "lat": 35.1753442,
+    "lng": 126.9133398
   },
   {
     "_id": "686a400ee74533f75001c262",
@@ -9899,8 +10399,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/🧡목살 스테이크 샐러드S.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c265",
@@ -9911,8 +10413,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/🧡시금치피자.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c266",
@@ -9923,8 +10427,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/갈릭삼겹살스테이크 S.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c267",
@@ -9935,8 +10441,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/함박스테이크 S (1피스).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c268",
@@ -9947,8 +10455,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/알리오올리오 S.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c269",
@@ -9959,8 +10469,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/봉골레S.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c26a",
@@ -9971,8 +10483,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/바질파스타 S.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c26b",
@@ -9983,8 +10497,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/상하이파스타 S.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c26c",
@@ -9995,8 +10511,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/오이스터크림파스타 S(치킨_베이컨).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c26d",
@@ -10007,8 +10525,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/치킨크림파스타 S.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c26e",
@@ -10019,8 +10539,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/베이컨까르보나라 S.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c26f",
@@ -10031,8 +10553,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/해산물토마토파스타 S.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c270",
@@ -10043,8 +10567,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/로제쉬림프파스타 S.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c271",
@@ -10055,8 +10581,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/눈꽃치즈볼로네제 S.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c272",
@@ -10067,19 +10595,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c262",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/해산물야끼필라프 S.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "양식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/로니로티 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1757588224015,
-    "lng": 126.914220100671
+    "lat": 35.1757591,
+    "lng": 126.9142902
   },
   {
     "_id": "686a400ee74533f75001c276",
@@ -10095,8 +10625,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c276",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭈군 전남대/쭈새.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c279",
@@ -10107,8 +10639,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c276",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭈군 전남대/쭈꾸미.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c27a",
@@ -10119,8 +10653,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c276",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭈군 전남대/쭈삼겹.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c27b",
@@ -10131,8 +10667,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c276",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭈군 전남대/치즈사리 추가.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c27c",
@@ -10143,8 +10681,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c276",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭈군 전남대/볶음밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c27d",
@@ -10155,8 +10695,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c276",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭈군 전남대/계란찜.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c27e",
@@ -10167,79 +10709,63 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c276",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c27f",
-        "name": "새우 추가",
-        "price": 6000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c276",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c280",
-        "name": "삼겹 추가",
-        "price": 7000,
-        "image": null,
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c276",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭈군 전남대/날치알볶음밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c281",
         "name": "삶은계란",
         "price": 1000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c276",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c282",
         "name": "주먹밥",
         "price": 3000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c276",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c283",
         "name": "당면사리",
         "price": 1000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c276",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭈군 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭈군 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1759811917037,
-    "lng": 126.914353906913
+    "lat": 35.17596930000001,
+    "lng": 126.914348
   },
   {
     "_id": "686a400ee74533f75001c287",
@@ -10250,49 +10776,57 @@ module.exports = [
         "_id": "686a400ee74533f75001c289",
         "name": "4인세트 (점심한정)",
         "price": 64000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c287",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c28a",
         "name": "3인세트 (점심한정)",
         "price": 46000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c287",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c28b",
         "name": "2인세트 (점심한정)",
         "price": 29000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c287",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c28c",
         "name": "쭈꾸미",
         "price": 13000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c287",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c28d",
@@ -10303,44 +10837,24 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c287",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭉심 전남대/쭈꾸미 삼겹.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c28e",
         "name": "쭈꾸미 새우",
         "price": 14000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c287",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c28f",
-        "name": "삼겹살 추가",
-        "price": 8000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭉심 전남대/삼겹살 추가.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c287",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c290",
-        "name": "새우추가",
-        "price": 7000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭉심 전남대/새우추가.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c287",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c291",
@@ -10351,8 +10865,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c287",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭉심 전남대/날치알볶음밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c292",
@@ -10363,19 +10879,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c287",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭉심 전남대/계란찜.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭉심 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/쭉심 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1753670490356,
-    "lng": 126.914413282201
+    "lat": 35.1753696,
+    "lng": 126.9144217
   },
   {
     "_id": "686a400ee74533f75001c296",
@@ -10391,8 +10909,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c296",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대주먹구이 전남대/국내산 생삼겹살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c299",
@@ -10403,8 +10923,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c296",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대주먹구이 전남대/주먹구이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c29a",
@@ -10415,8 +10937,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c296",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대주먹구이 전남대/삼겹살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c29b",
@@ -10427,8 +10951,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c296",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대주먹구이 전남대/국내산 오겹살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c29c",
@@ -10439,8 +10965,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c296",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대주먹구이 전남대/모소리살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c29d",
@@ -10451,8 +10979,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c296",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대주먹구이 전남대/국내산 낙엽살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c29e",
@@ -10463,19 +10993,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c296",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대주먹구이 전남대/국내산 오돌뼈.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대주먹구이 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/전대주먹구이 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1749382797123,
-    "lng": 126.914677636268
+    "lat": 35.1749272,
+    "lng": 126.9146771
   },
   {
     "_id": "686a400ee74533f75001c2a2",
@@ -10491,8 +11023,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돼지똥꼬 전남대/소금막창구이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2a5",
@@ -10503,80 +11037,94 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돼지똥꼬 전남대/양념막창구이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2a6",
         "name": "불막창구이",
         "price": 14000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2a7",
         "name": "마늘간장막창",
         "price": 14000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2a8",
         "name": "닭목살구이",
         "price": 14000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2a9",
         "name": "양념껍데기",
         "price": 8000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2aa",
         "name": "연탄갈매기살",
         "price": 15000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2ab",
         "name": "연탄오돌뼈",
         "price": 14000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2ac",
@@ -10587,8 +11135,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돼지똥꼬 전남대/수제얼그레이하이볼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2ad",
@@ -10599,8 +11149,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돼지똥꼬 전남대/피치하이볼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2ae",
@@ -10611,67 +11163,77 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돼지똥꼬 전남대/짐빔하이볼.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2af",
         "name": "연탄불고기",
         "price": 13000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2b0",
         "name": "날치알볶음밥",
         "price": 4000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2b1",
         "name": "차돌짬뽕라면",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2b2",
         "name": "차돌된장찌개",
         "price": 7000,
-        "image": null,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
         "reviews": [],
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2a2",
         "heart": false,
         "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돼지똥꼬 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돼지똥꼬 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1747335158637,
-    "lng": 126.914201856906
+    "lat": 35.1747039,
+    "lng": 126.9142834
   },
   {
     "_id": "686a400ee74533f75001c2b6",
@@ -10687,8 +11249,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2b6",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/평이담백뼈칼국수 전남대/뼈칼국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2b9",
@@ -10699,8 +11263,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2b6",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/평이담백뼈칼국수 전남대/얼큰 뼈칼국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2ba",
@@ -10711,8 +11277,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2b6",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/평이담백뼈칼국수 전남대/비빔칼국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2bb",
@@ -10723,8 +11291,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2b6",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/평이담백뼈칼국수 전남대/들기름칼국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2bc",
@@ -10735,8 +11305,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2b6",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/평이담백뼈칼국수 전남대/뼈탕밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2bd",
@@ -10747,8 +11319,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2b6",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/평이담백뼈칼국수 전남대/얼큰 뼈탕밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2be",
@@ -10759,8 +11333,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2b6",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/평이담백뼈칼국수 전남대/뼈구이(1인) _2인 이상 주문 가능.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2bf",
@@ -10771,8 +11347,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2b6",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/평이담백뼈칼국수 전남대/고사리뼈탕 _2인 이상 주문 가능.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2c0",
@@ -10783,8 +11361,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2b6",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/평이담백뼈칼국수 전남대/우거지감자탕 _2인 이상 주문 가능.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2c1",
@@ -10795,19 +11375,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2b6",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/평이담백뼈칼국수 전남대/고기부추만두 5개.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/평이담백뼈칼국수 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/평이담백뼈칼국수 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.175025382513,
-    "lng": 126.913704477994
+    "lat": 35.1750567,
+    "lng": 126.9136737
   },
   {
     "_id": "686a400ee74533f75001c2c5",
@@ -10823,8 +11405,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2c5",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/실속세트 1인.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2c8",
@@ -10835,8 +11419,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2c5",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/찐~한 국내산 牛사골 '설렁탕'.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2c9",
@@ -10847,8 +11433,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2c5",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/맛과 양이 UP '특설렁탕'.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2ca",
@@ -10859,8 +11447,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2c5",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/쫀득한 콜라겐 듬뿍 '도가니탕'.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2cb",
@@ -10871,8 +11461,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2c5",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/꼬리, 양지, 도가니 모듬 '수육'.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2cc",
@@ -10883,8 +11475,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2c5",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/실속세트 2인.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2cd",
@@ -10895,8 +11489,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2c5",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/한우 소불고기 1인.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2ce",
@@ -10907,8 +11503,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2c5",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/한우 소불고기 2인.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2cf",
@@ -10919,8 +11517,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2c5",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/수육 세트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2d0",
@@ -10931,8 +11531,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2c5",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/[신메뉴] 매콤 해장 한 그릇 '얼큰설렁탕'.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2d1",
@@ -10943,8 +11545,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2c5",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/부드럽고 연한 프리미엄 '갈비탕'.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2d2",
@@ -10955,127 +11559,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2c5",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c2d3",
-        "name": "공기밥 (210g)",
-        "price": 1500,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/공기밥 (210g).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c2c5",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c2d4",
-        "name": "국수사리 (2개)",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/국수사리 (2개).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c2c5",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c2d5",
-        "name": "깍두기 (사이즈업) 230g",
-        "price": 3000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/깍두기 (사이즈업) 230g.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c2c5",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c2d6",
-        "name": "겉절이(상추)",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/겉절이(상추).jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c2c5",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c2d7",
-        "name": "펩시콜라 355ml",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/펩시콜라 355ml.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c2c5",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c2d8",
-        "name": "펩시콜라(제로) 355ml",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/펩시콜라(제로) 355ml.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c2c5",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c2d9",
-        "name": "칠성사이다 355ml",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/칠성사이다 355ml.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c2c5",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c2da",
-        "name": "칠성사이다(제로) 355ml",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/칠성사이다(제로) 355ml.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c2c5",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c2db",
-        "name": "탐스 355ml",
-        "price": 2000,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/탐스 355ml.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c2c5",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/얇은 피에 꽉찬 소 '교자만두'.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/서울깍두기 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.174647854295,
-    "lng": 126.912893186268
+    "lat": 35.1746431,
+    "lng": 126.91291
   },
   {
     "_id": "686a400ee74533f75001c2df",
@@ -11091,8 +11589,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2df",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만선 전남대/알곤이탕(공기미포함)(2인분).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2e2",
@@ -11103,8 +11603,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2df",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만선 전남대/알곤이탕(공기미포함)(3인분).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2e3",
@@ -11115,8 +11617,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2df",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만선 전남대/복지리탕(공기미포함 비조리)(2인).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2e4",
@@ -11127,8 +11631,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2df",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만선 전남대/복지리탕(공기미포함 비조리)(3인).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2e5",
@@ -11139,8 +11645,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2df",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만선 전남대/갑오징어덮밥(공기포함)(2인).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2e6",
@@ -11151,8 +11659,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2df",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만선 전남대/오징어젓갈 (350g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2e7",
@@ -11163,8 +11673,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2df",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만선 전남대/꼴뚜기젓갈 (350g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2e8",
@@ -11175,19 +11687,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2df",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만선 전남대/고추무침 (350g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만선 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/만선 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1744355730428,
-    "lng": 126.913379723258
+    "lat": 35.1744114,
+    "lng": 126.9133884
   },
   {
     "_id": "686a400ee74533f75001c2ec",
@@ -11203,8 +11717,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2ec",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/연어 후토마키.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2ef",
@@ -11215,8 +11731,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2ec",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/지단 후토마키.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2f0",
@@ -11227,8 +11745,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2ec",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/소바 후토마키.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2f1",
@@ -11239,8 +11759,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2ec",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/우엉 후토마키.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2f2",
@@ -11251,8 +11773,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2ec",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/샐러드 후토마키.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2f3",
@@ -11263,8 +11787,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2ec",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/연어 그린 키토.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2f4",
@@ -11275,8 +11801,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2ec",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/샐러드 그린 키토.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2f5",
@@ -11287,8 +11815,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2ec",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/핫도그 그린 키토.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2f6",
@@ -11299,8 +11829,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2ec",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/텐더 그린 키토.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2f7",
@@ -11311,8 +11843,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2ec",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/참치 그린 키토.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2f8",
@@ -11323,8 +11857,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2ec",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/직접만든 치즈 돈가스.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c2f9",
@@ -11335,55 +11871,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c2ec",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c2fa",
-        "name": "사이다",
-        "price": 2500,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/사이다.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c2ec",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c2fb",
-        "name": "콜라",
-        "price": 2500,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/콜라.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c2ec",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
-      },
-      {
-        "_id": "686a400ee74533f75001c2fc",
-        "name": "제로콜라",
-        "price": 2500,
-        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/제로콜라.jpg",
-        "reviews": [],
-        "likeCount": 0,
-        "storeId": "686a400ee74533f75001c2ec",
-        "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/크림파스타.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "일식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/후토루 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1744355730428,
-    "lng": 126.913379723258
+    "lat": 35.1744882,
+    "lng": 126.913544
   },
   {
     "_id": "686a400ee74533f75001c300",
@@ -11399,8 +11901,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c300",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/월미당 전남대/차돌양지 쌀국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c303",
@@ -11411,8 +11915,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c300",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/월미당 전남대/분짜.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c304",
@@ -11423,8 +11929,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c300",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/월미당 전남대/차돌양지힘줄 쌀국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c305",
@@ -11435,8 +11943,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c300",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/월미당 전남대/냉쌀국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c306",
@@ -11447,8 +11957,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c300",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/월미당 전남대/직화불고기덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c307",
@@ -11459,8 +11971,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c300",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/월미당 전남대/차돌 쌀국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c308",
@@ -11471,8 +11985,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c300",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/월미당 전남대/양지 쌀국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c309",
@@ -11483,8 +11999,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c300",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/월미당 전남대/불고기 쌀국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c30a",
@@ -11495,8 +12013,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c300",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/월미당 전남대/차돌힘줄 쌀국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c30b",
@@ -11507,8 +12027,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c300",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/월미당 전남대/양지힘줄 쌀국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c30c",
@@ -11519,24 +12041,26 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c300",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/월미당 전남대/얼큰불고기 쌀국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/월미당 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
-    "foodCategory": "한식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "foodCategory": "기타",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/월미당 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1729145757254,
-    "lng": 126.912561429954
+    "lat": 35.1729154,
+    "lng": 126.912567
   },
   {
     "_id": "686a400ee74533f75001c310",
     "name": "페퍼콘",
-    "location": "광주 북구 호동로 43 1F",
+    "location": "광주 북구 호동로 43 1층",
     "menus": [
       {
         "_id": "686a400ee74533f75001c312",
@@ -11547,8 +12071,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/쉬림프 로제 리조또.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c313",
@@ -11559,8 +12085,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/머쉬룸 크림 파스타.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c314",
@@ -11571,8 +12099,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/라자냐.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c315",
@@ -11583,8 +12113,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/클래식 까르보나라.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c316",
@@ -11595,8 +12127,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/바질 크림 파스타.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c317",
@@ -11607,8 +12141,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/머쉬룸 스프.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c318",
@@ -11619,8 +12155,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/브레드 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c319",
@@ -11631,8 +12169,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/잠봉 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c31a",
@@ -11643,8 +12183,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/부라타 샐러드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c31b",
@@ -11655,8 +12197,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/미트로프.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c31c",
@@ -11667,8 +12211,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/엔초비 파스타.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c31d",
@@ -11679,8 +12225,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/페퍼콘 라구 파스타.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c31e",
@@ -11691,8 +12239,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/프리타타.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400ee74533f75001c31f",
@@ -11703,19 +12253,21 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400ee74533f75001c310",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/잠봉뵈르.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "양식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/페퍼콘 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1757671744223,
-    "lng": 126.916629070049
+    "lat": 35.1757444,
+    "lng": 126.9166137
   },
   {
     "_id": "686a400fe74533f75001c323",
@@ -11731,8 +12283,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/라멘+오니기리 세트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c326",
@@ -11743,8 +12297,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/히야시츄카(냉라멘).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c327",
@@ -11755,8 +12311,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/참깨마요 히야시츄카(냉라멘).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c328",
@@ -11767,8 +12325,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/우동+오니기리 세트.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c329",
@@ -11779,8 +12339,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/산카쿠 라멘.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c32a",
@@ -11791,8 +12353,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/들깨 해장 라멘.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c32b",
@@ -11803,8 +12367,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/나만의 오니기리.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c32c",
@@ -11815,8 +12381,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/니꾸우동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c32d",
@@ -11827,8 +12395,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/참깨마요 냉우동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c32e",
@@ -11839,8 +12409,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/카라이 산카쿠라멘.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c32f",
@@ -11851,8 +12423,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/미소돈코츠 라멘.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c330",
@@ -11863,8 +12437,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/카라이 미소돈코츠 라멘.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c331",
@@ -11875,8 +12451,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/알탕라멘.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c332",
@@ -11887,8 +12465,10 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/카케우동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       },
       {
         "_id": "686a400fe74533f75001c333",
@@ -11899,33 +12479,4825 @@ module.exports = [
         "likeCount": 0,
         "storeId": "686a400fe74533f75001c323",
         "heart": false,
-        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
-        "__v": 0
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/김치 유부 우동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
       }
     ],
     "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/대표사진.jpg",
-    "isAllowed": false,
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "후문",
     "foodCategory": "일식",
-    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/산카쿠 전남대/대표사진.jpg",
     "__v": 1,
-    "lat": 35.1722290075691,
-    "lng": 126.911081426723
+    "lat": 35.1722187,
+    "lng": 126.9110835
   },
   {
     "_id": "686a6d08920c809df5cb0ce2",
     "name": "정문 테스트용가게",
     "location": "광주 북구 용봉동",
     "menus": [],
-    "image": null,
-    "isAllowed": false,
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "isAllowed": true,
     "likeSum": 0,
     "locationCategory": "정문",
     "foodCategory": "일식",
     "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
     "__v": 0,
-    "lat": 35.1804348657735,
-    "lng": 126.901189342065
+    "lat": 35.1792022,
+    "lng": 126.9004687
+  },
+  {
+    "_id": "6873d6af32f79762cb9f578b",
+    "name": "전대분식",
+    "location": "광주 북구 설죽로214번길 109",
+    "menus": [
+      {
+        "_id": "6873d6af32f79762cb9f578d",
+        "name": "치즈비빔밥",
+        "price": 3700,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d6af32f79762cb9f578b",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d6af32f79762cb9f578f",
+        "name": "비빔밥",
+        "price": 3300,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d6af32f79762cb9f578b",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d6af32f79762cb9f5791",
+        "name": "치즈돌솥밥",
+        "price": 3700,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d6af32f79762cb9f578b",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d6af32f79762cb9f5793",
+        "name": "참치돌솥밥",
+        "price": 3700,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d6af32f79762cb9f578b",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d6af32f79762cb9f5795",
+        "name": "돌솥비빔밥",
+        "price": 3300,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d6af32f79762cb9f578b",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EC%A0%84%EB%8C%80%EB%B6%84%EC%8B%9D/%EB%8C%80%ED%91%9C%EC%82%AC%EC%A7%84",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "상대",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EC%A0%84%EB%8C%80%EB%B6%84%EC%8B%9D/%EB%8C%80%ED%91%9C%EC%82%AC%EC%A7%84",
+    "lat": 35.1779657,
+    "lng": 126.9036437,
+    "__v": 1
+  },
+  {
+    "_id": "6873d73d77fab3fb1a0f9427",
+    "name": "까동",
+    "location": "광주 북구 설죽로214번길 129",
+    "menus": [
+      {
+        "_id": "6873d73d77fab3fb1a0f9429",
+        "name": "돈가스소바",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/까동/돈가스소바.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f9427",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/까동/돈가스소바.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/까동/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "상대",
+    "foodCategory": "일식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/까동/대표사진.jpg",
+    "lat": 35.1780073,
+    "lng": 126.9046386,
+    "__v": 1
+  },
+  {
+    "_id": "6873d73d77fab3fb1a0f942c",
+    "name": "Mr.홍",
+    "location": "광주 북구 설죽로214번길 74 1층",
+    "menus": [
+      {
+        "_id": "6873d73d77fab3fb1a0f942e",
+        "name": "특 전복죽",
+        "price": 15000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/특 전복죽.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/특 전복죽.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73d77fab3fb1a0f9430",
+        "name": "전복죽",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/전복죽.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/전복죽.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73d77fab3fb1a0f9432",
+        "name": "대게살죽",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/대게살죽.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/대게살죽.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73d77fab3fb1a0f9434",
+        "name": "새우카레죽",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/새우카레죽.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/새우카레죽.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73d77fab3fb1a0f9436",
+        "name": "낙지김치죽",
+        "price": 8000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/낙지김치죽.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/낙지김치죽.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73d77fab3fb1a0f9438",
+        "name": "새우김치죽",
+        "price": 8000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/새우김치죽.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/새우김치죽.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f943a",
+        "name": "해물죽",
+        "price": 8000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/해물죽.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/해물죽.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f943c",
+        "name": "새우죽",
+        "price": 8000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/새우죽.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/새우죽.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f943e",
+        "name": "참치야채죽",
+        "price": 8000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/참치야채죽.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/참치야채죽.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9440",
+        "name": "소고기버섯죽",
+        "price": 8000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/소고기버섯죽.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/소고기버섯죽.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9442",
+        "name": "소고기야채죽",
+        "price": 8000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/소고기야채죽.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/소고기야채죽.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9444",
+        "name": "순두부 돼지덮밥",
+        "price": 7000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/순두부 돼지덮밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/순두부 돼지덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9446",
+        "name": "카레 덮밥",
+        "price": 7000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/카레 덮밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/카레 덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9448",
+        "name": "스팸 김치볶음밥",
+        "price": 7000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/스팸 김치볶음밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/스팸 김치볶음밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f944a",
+        "name": "소고기 떡국(공)",
+        "price": 7000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/소고기 떡국(공).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73d77fab3fb1a0f942c",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/소고기 떡국(공).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "상대",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1107615213/대표사진.jpg",
+    "lat": 35.1778019,
+    "lng": 126.9016749,
+    "__v": 1
+  },
+  {
+    "_id": "6873d73e77fab3fb1a0f944d",
+    "name": "다원",
+    "location": "광주 북구 설죽로202번길 98",
+    "menus": [
+      {
+        "_id": "6873d73e77fab3fb1a0f944f",
+        "name": "뚝배기불고기",
+        "price": 5500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f944d",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9451",
+        "name": "된장찌개",
+        "price": 5500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f944d",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9453",
+        "name": "순두부찌개",
+        "price": 5500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f944d",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9455",
+        "name": "야채비빔밥",
+        "price": 5000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f944d",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9457",
+        "name": "참치비빔밥",
+        "price": 5500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f944d",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9459",
+        "name": "뼈해장국",
+        "price": 5500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f944d",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f945b",
+        "name": "콩나물해장국",
+        "price": 4000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f944d",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f945d",
+        "name": "애호박찌개",
+        "price": 5500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f944d",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f945f",
+        "name": "김치찌개",
+        "price": 5500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f944d",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9461",
+        "name": "참치찌개",
+        "price": 5500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f944d",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1725008967/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "상대",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1725008967/대표사진.jpg",
+    "lat": 35.1774819,
+    "lng": 126.9026904,
+    "__v": 1
+  },
+  {
+    "_id": "6873d73e77fab3fb1a0f9464",
+    "name": "한국",
+    "location": "광주 북구 반룡로28번길 27",
+    "menus": [
+      {
+        "_id": "6873d73e77fab3fb1a0f9466",
+        "name": "흑돼지오겹살 국내산",
+        "price": 14000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9464",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9468",
+        "name": "생삼겹살 국내산",
+        "price": 13000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9464",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f946a",
+        "name": "돼지양념갈비 국내산",
+        "price": 13000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9464",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f946c",
+        "name": "제육볶음",
+        "price": 25000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9464",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f946e",
+        "name": "소고기육회 한우",
+        "price": 50000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9464",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9470",
+        "name": "백반정식",
+        "price": 8000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9464",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_16180916/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "상대",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_16180916/대표사진.jpg",
+    "lat": 35.1778232,
+    "lng": 126.9009316,
+    "__v": 1
+  },
+  {
+    "_id": "6873d73e77fab3fb1a0f9473",
+    "name": "어루러기",
+    "location": "광주 북구 설죽로214번길 69",
+    "menus": [
+      {
+        "_id": "6873d73e77fab3fb1a0f9475",
+        "name": "생선국이백반",
+        "price": 5000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9473",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9477",
+        "name": "참치돌솥비빔밥",
+        "price": 5000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9473",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9479",
+        "name": "된장찌개",
+        "price": 5000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9473",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f947b",
+        "name": "참치김치찌개",
+        "price": 5000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9473",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f947d",
+        "name": "라면",
+        "price": 3000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9473",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_37500689/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "상대",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_37500689/대표사진.jpg",
+    "lat": 35.1780504,
+    "lng": 126.9015378,
+    "__v": 1
+  },
+  {
+    "_id": "6873d73e77fab3fb1a0f9480",
+    "name": "명일삼계탕",
+    "location": "광주 북구 설죽로214번길 77",
+    "menus": [
+      {
+        "_id": "6873d73e77fab3fb1a0f9482",
+        "name": "전복삼계탕",
+        "price": 12900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9480",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9484",
+        "name": "삼계탕",
+        "price": 10900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9480",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9486",
+        "name": "반계탕",
+        "price": 7900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1249369391/반계탕.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9480",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1249369391/반계탕.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1249369391/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "상대",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1249369391/대표사진.jpg",
+    "lat": 35.1779686,
+    "lng": 126.9020099,
+    "__v": 1
+  },
+  {
+    "_id": "6873d73e77fab3fb1a0f9489",
+    "name": "바삭",
+    "location": "광주 북구 설죽로202번길 43",
+    "menus": [
+      {
+        "_id": "6873d73e77fab3fb1a0f948b",
+        "name": "일식모듬튀김 대",
+        "price": 15000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9489",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f948d",
+        "name": "일식모듬튀김 중",
+        "price": 12000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9489",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f948f",
+        "name": "일식 새우튀김",
+        "price": 16000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9489",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9491",
+        "name": "맛탕",
+        "price": 6000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9489",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f9493",
+        "name": "참치초밥",
+        "price": 13000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9489",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_21597496/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "상대",
+    "foodCategory": "일식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_21597496/대표사진.jpg",
+    "lat": 35.1772998,
+    "lng": 126.9000022,
+    "__v": 1
+  },
+  {
+    "_id": "6873d73e77fab3fb1a0f9496",
+    "name": "맛쓰리",
+    "location": "광주 북구 용주로30번길 55",
+    "menus": [
+      {
+        "_id": "6873d73e77fab3fb1a0f9498",
+        "name": "상추백반",
+        "price": 8500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9496",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f949a",
+        "name": "고등어구이",
+        "price": 7500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9496",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f949c",
+        "name": "참치찌개",
+        "price": 6000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9496",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f949e",
+        "name": "된장뚝배기",
+        "price": 6000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9496",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f94a0",
+        "name": "김치찌개",
+        "price": 5500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9496",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f94a2",
+        "name": "된장찌개",
+        "price": 5000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9496",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f94a4",
+        "name": "제육볶음",
+        "price": 7000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9496",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873d73e77fab3fb1a0f94a6",
+        "name": "삼치구이",
+        "price": 8000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873d73e77fab3fb1a0f9496",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1342086691/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "상대",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/place_1342086691/대표사진.jpg",
+    "lat": 35.1808212,
+    "lng": 126.9036626,
+    "__v": 1
+  },
+  {
+    "_id": "6873de533184c19de8dd01c5",
+    "name": "술돼지",
+    "location": "광주 북구 용봉로 88",
+    "menus": [
+      {
+        "_id": "6873de533184c19de8dd01c7",
+        "name": "이베리코꽃목살",
+        "price": 15000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코꽃목살.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코꽃목살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de533184c19de8dd01c9",
+        "name": "이베리코늑간살",
+        "price": 15000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코늑간살.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코늑간살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de533184c19de8dd01cb",
+        "name": "삼겹살",
+        "price": 14000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/삼겹살.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/삼겹살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de533184c19de8dd01cd",
+        "name": "이베리코갈매기살",
+        "price": 15000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코갈매기살.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코갈매기살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de533184c19de8dd01cf",
+        "name": "대야냉면(대)",
+        "price": 10000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/대야냉면(대).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/대야냉면(대).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01d1",
+        "name": "대야냉면(소)",
+        "price": 5000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/대야냉면(소).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/대야냉면(소).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01d3",
+        "name": "이베리코황금살",
+        "price": 16000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코황금살.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코황금살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01d5",
+        "name": "이베리코돌돌이살",
+        "price": 15000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코돌돌이살.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코돌돌이살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01d7",
+        "name": "악어살",
+        "price": 16000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/악어살.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/악어살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01d9",
+        "name": "끝판살",
+        "price": 18000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/끝판살.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/끝판살.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01db",
+        "name": "열무냉국수",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/열무냉국수.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/열무냉국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01dd",
+        "name": "무뼈치즈닭발",
+        "price": 15000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/무뼈치즈닭발.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/무뼈치즈닭발.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01df",
+        "name": "이베리코초벌막창",
+        "price": 15000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코초벌막창.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코초벌막창.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01e1",
+        "name": "이베리코 소세지",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코 소세지.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/이베리코 소세지.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01e3",
+        "name": "주전자오뎅탕",
+        "price": 12000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de533184c19de8dd01c5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/술돼지 전남대/대표사진.jpg",
+    "lat": 35.1723609,
+    "lng": 126.9062732,
+    "__v": 1
+  },
+  {
+    "_id": "6873de543184c19de8dd01e6",
+    "name": "돌곱1991",
+    "location": "광주 북구 서양로 31-3 1층 돌곱1991 신안직영점",
+    "menus": [
+      {
+        "_id": "6873de543184c19de8dd01e8",
+        "name": "한우곱창 모둠구이",
+        "price": 18900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/한우곱창 모둠구이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd01e6",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/한우곱창 모둠구이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01ea",
+        "name": "돌곱 한우곱창구이",
+        "price": 18900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/돌곱 한우곱창구이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd01e6",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/돌곱 한우곱창구이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01ec",
+        "name": "돌곱 한우대창구이",
+        "price": 18900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/돌곱 한우대창구이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd01e6",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/돌곱 한우대창구이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01ee",
+        "name": "돌곱 소막창구이",
+        "price": 18900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/돌곱 소막창구이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd01e6",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/돌곱 소막창구이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01f0",
+        "name": "돌곱 한우염통구이",
+        "price": 14000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/돌곱 한우염통구이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd01e6",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/돌곱 한우염통구이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01f2",
+        "name": "돌곱 한우곱창전골",
+        "price": 39000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/돌곱 한우곱창전골.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd01e6",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/돌곱 한우곱창전골.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/돌곱1991 전남대/대표사진.jpg",
+    "lat": 35.170882,
+    "lng": 126.9048248,
+    "__v": 1
+  },
+  {
+    "_id": "6873de543184c19de8dd01f5",
+    "name": "초가왕족발",
+    "location": "광주 북구 자미로 38",
+    "menus": [
+      {
+        "_id": "6873de543184c19de8dd01f7",
+        "name": "앞다리(국내산)",
+        "price": 41000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/초가왕족발 전남대/앞다리(국내산).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd01f5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/초가왕족발 전남대/앞다리(국내산).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01f9",
+        "name": "뒷다리(국내산)",
+        "price": 37000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/초가왕족발 전남대/뒷다리(국내산).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd01f5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/초가왕족발 전남대/뒷다리(국내산).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01fb",
+        "name": "미니족",
+        "price": 23000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd01f5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd01fd",
+        "name": "(양념추가시)기본양념셋트",
+        "price": 6000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd01f5",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/초가왕족발 전남대/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "기타",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/초가왕족발 전남대/대표사진.jpg",
+    "lat": 35.169319,
+    "lng": 126.9038297,
+    "__v": 1
+  },
+  {
+    "_id": "6873de543184c19de8dd0208",
+    "name": "고향보쌈칼국수",
+    "location": "광주 북구 설죽로 136 1층 고향보쌈칼국수 용봉점",
+    "menus": [
+      {
+        "_id": "6873de543184c19de8dd020a",
+        "name": "[해장]바지락짬뽕칼국수",
+        "price": 13900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/[해장]바지락짬뽕칼국수.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/[해장]바지락짬뽕칼국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd020c",
+        "name": "(New) 얼큰사골칼국수",
+        "price": 10900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/(New) 얼큰사골칼국수.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/(New) 얼큰사골칼국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd020e",
+        "name": "사골칼국수",
+        "price": 9900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/사골칼국수.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/사골칼국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0210",
+        "name": "낙지비빔칼국수",
+        "price": 14900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/낙지비빔칼국수.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/낙지비빔칼국수.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0212",
+        "name": "고향생배추보쌈",
+        "price": 31900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/고향생배추보쌈.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/고향생배추보쌈.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0214",
+        "name": "점심특선)칼국수2개+보쌈반접시",
+        "price": 34800,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/점심특선)칼국수2개+보쌈반접시.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/점심특선)칼국수2개+보쌈반접시.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0216",
+        "name": "진짜 왕해물 파전",
+        "price": 14900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/진짜 왕해물 파전.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/진짜 왕해물 파전.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0218",
+        "name": "낙지보리비빔밥",
+        "price": 14900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/낙지보리비빔밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/낙지보리비빔밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd021a",
+        "name": "보리밥 보쌈정식",
+        "price": 15900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/보리밥 보쌈정식.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/보리밥 보쌈정식.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd021c",
+        "name": "점심특선) 보쌈반접시",
+        "price": 15900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/점심특선) 보쌈반접시.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/점심특선) 보쌈반접시.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd021e",
+        "name": "점심특선)돌판낙지볶음+보쌈반접시",
+        "price": 42800,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/점심특선)돌판낙지볶음+보쌈반접시.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/점심특선)돌판낙지볶음+보쌈반접시.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0220",
+        "name": "고향 홍어보쌈",
+        "price": 44900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/고향 홍어보쌈.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/고향 홍어보쌈.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0222",
+        "name": "고향 와사비파채보쌈",
+        "price": 33900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/고향 와사비파채보쌈.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/고향 와사비파채보쌈.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0224",
+        "name": "고향 매콤낙지보쌈",
+        "price": 41900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/고향 매콤낙지보쌈.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/고향 매콤낙지보쌈.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0226",
+        "name": "한우사골왕만두전골",
+        "price": 22900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/한우사골왕만두전골.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0208",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/한우사골왕만두전골.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/고향보쌈칼국수 전남대/대표사진.jpg",
+    "lat": 35.1723963,
+    "lng": 126.8969928,
+    "__v": 1
+  },
+  {
+    "_id": "6873de543184c19de8dd0229",
+    "name": "인생건김치찌개",
+    "location": "광주 북구 용봉로 38 1층 101호",
+    "menus": [
+      {
+        "_id": "6873de543184c19de8dd022b",
+        "name": "2~3인분 人生 (돼지) 김치찌개",
+        "price": 20900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 (돼지) 김치찌개.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 (돼지) 김치찌개.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd022d",
+        "name": "2~3인분 人生 (참치) 김치찌개",
+        "price": 20900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 (참치) 김치찌개.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 (참치) 김치찌개.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd022f",
+        "name": "2~3인분 人生 (스팸) 김치찌개",
+        "price": 20900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 (스팸) 김치찌개.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 (스팸) 김치찌개.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0231",
+        "name": "2~3인분 人生 순두부찌개",
+        "price": 20900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 순두부찌개.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 순두부찌개.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0233",
+        "name": "대왕계란말이",
+        "price": 7500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/대왕계란말이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/대왕계란말이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0235",
+        "name": "1인분 人生 (돼지) 김치찌개",
+        "price": 13900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/1인분 人生 (돼지) 김치찌개.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/1인분 人生 (돼지) 김치찌개.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0237",
+        "name": "1인분 人生 (참치) 김치찌개",
+        "price": 13900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/1인분 人生 (참치) 김치찌개.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/1인분 人生 (참치) 김치찌개.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd0239",
+        "name": "1인분 人生 (스팸) 김치찌개",
+        "price": 13900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/1인분 人生 (스팸) 김치찌개.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/1인분 人生 (스팸) 김치찌개.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de543184c19de8dd023b",
+        "name": "1인분 人生 순두부찌개",
+        "price": 13900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/1인분 人生 순두부찌개.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/1인분 人生 순두부찌개.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de553184c19de8dd023d",
+        "name": "2~3인분 人生 (돼지) 김치찌개+조미김2",
+        "price": 16900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 (돼지) 김치찌개+조미김2.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 (돼지) 김치찌개+조미김2.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de553184c19de8dd023f",
+        "name": "2~3인분 人生 (참치) 김치찌개+조미김2",
+        "price": 16900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 (참치) 김치찌개+조미김2.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 (참치) 김치찌개+조미김2.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de553184c19de8dd0241",
+        "name": "2~3인분 人生 (스팸) 김치찌개+조미김2",
+        "price": 16900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 (스팸) 김치찌개+조미김2.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 (스팸) 김치찌개+조미김2.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de553184c19de8dd0243",
+        "name": "2~3인분 人生 순두부찌개+조미김2",
+        "price": 16900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 순두부찌개+조미김2.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/2~3인분 人生 순두부찌개+조미김2.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de553184c19de8dd0247",
+        "name": "스팸후라이밥",
+        "price": 3000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/스팸후라이밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/스팸후라이밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de553184c19de8dd0249",
+        "name": "후라이3알",
+        "price": 2500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/후라이3알.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/후라이3알.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de553184c19de8dd024b",
+        "name": "스팸4조각",
+        "price": 4500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/스팸4조각.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/스팸4조각.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873de553184c19de8dd024d",
+        "name": "미니계란찜",
+        "price": 2500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/미니계란찜.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873de543184c19de8dd0229",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/인생건김치찌개/미니계란찜.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+    "lat": 35.17144040000001,
+    "lng": 126.9010113,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e20f28b2e9899abf79",
+    "name": "골목",
+    "location": "광주 북구 용봉로 62-6 1층 골목(밥집술집)",
+    "menus": [
+      {
+        "_id": "6873e4e20f28b2e9899abf7b",
+        "name": "마늘새우크림카레",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/마늘새우크림카레.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/마늘새우크림카레.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf7d",
+        "name": "시금치카레",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/시금치카레.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/시금치카레.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf7f",
+        "name": "청양카레",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/청양카레.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/청양카레.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf81",
+        "name": "반반카레",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/반반카레.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/반반카레.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf83",
+        "name": "규동",
+        "price": 9500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/규동.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/규동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf85",
+        "name": "우동",
+        "price": 6500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/우동.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/우동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf87",
+        "name": "카츠동",
+        "price": 9500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/카츠동.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/카츠동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf89",
+        "name": "연어냉우동",
+        "price": 14500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/연어냉우동.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/연어냉우동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf8b",
+        "name": "새우냉우동",
+        "price": 13500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/새우냉우동.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/새우냉우동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf8d",
+        "name": "라멘",
+        "price": 13000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/라멘.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/라멘.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf8f",
+        "name": "라멘 정식",
+        "price": 14500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/라멘 정식.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/라멘 정식.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf91",
+        "name": "라멘 + 규동 SET",
+        "price": 22000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/라멘 + 규동 SET.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/라멘 + 규동 SET.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf93",
+        "name": "1인 SET",
+        "price": 14000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf95",
+        "name": "2인 SET",
+        "price": 26000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf97",
+        "name": "치킨 가라아게",
+        "price": 10000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/치킨 가라아게.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf79",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/치킨 가라아게.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "일식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/골목 신안동 카레/대표사진.jpg",
+    "lat": 35.1714523,
+    "lng": 126.9036809,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e20f28b2e9899abf9a",
+    "name": "맛드림김밥나라",
+    "location": "광주 북구 자미로 56",
+    "menus": [
+      {
+        "_id": "6873e4e20f28b2e9899abf9c",
+        "name": "제육김밥",
+        "price": 4500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf9a",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abf9e",
+        "name": "불고기김밥",
+        "price": 4500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf9a",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abfa0",
+        "name": "멸추김밥",
+        "price": 4500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf9a",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abfa2",
+        "name": "새우튀김김밥",
+        "price": 4500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf9a",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abfa4",
+        "name": "떡갈비김밥",
+        "price": 4500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abf9a",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/맛드림김밥나라 전대1호점/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/맛드림김밥나라 전대1호점/대표사진.jpg",
+    "lat": 35.1709205,
+    "lng": 126.9045153,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e20f28b2e9899abfa7",
+    "name": "K2",
+    "location": "광주 북구 용봉로 76",
+    "menus": [
+      {
+        "_id": "6873e4e20f28b2e9899abfa9",
+        "name": "돈까스",
+        "price": 8000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abfa7",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abfab",
+        "name": "샐러드",
+        "price": 6000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abfa7",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abfad",
+        "name": "포장 돈까스",
+        "price": 8300,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abfa7",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e20f28b2e9899abfaf",
+        "name": "포장 샐러드",
+        "price": 6300,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abfa7",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/K2 신안동 돈가스/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "일식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/K2 신안동 돈가스/대표사진.jpg",
+    "lat": 35.1722511,
+    "lng": 126.905187,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e20f28b2e9899abfb2",
+    "name": "족발은못참치",
+    "location": "광주 북구 자미로 68-6 1층",
+    "menus": [
+      {
+        "_id": "6873e4e30f28b2e9899abfb4",
+        "name": "족발한개를 아낌없이 전부 썰어드립니다",
+        "price": 29900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/족발은못참치 신안동/족발한개를 아낌없이 전부 썰어드립니다.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abfb2",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/족발은못참치 신안동/족발한개를 아낌없이 전부 썰어드립니다.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfb6",
+        "name": "매운불족 족발한개를 아낌없이썰어드려요",
+        "price": 32900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/족발은못참치 신안동/매운불족 족발한개를 아낌없이썰어드려요.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abfb2",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/족발은못참치 신안동/매운불족 족발한개를 아낌없이썰어드려요.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfb8",
+        "name": "반반족발 족발한개를 아낌없이썰어드려요",
+        "price": 32900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/족발은못참치 신안동/반반족발 족발한개를 아낌없이썰어드려요.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e20f28b2e9899abfb2",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/족발은못참치 신안동/반반족발 족발한개를 아낌없이썰어드려요.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/족발은못참치 신안동/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "기타",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/족발은못참치 신안동/대표사진.jpg",
+    "lat": 35.1718907,
+    "lng": 126.9050293,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e30f28b2e9899abfbb",
+    "name": "소중대",
+    "location": "광주 북구 자미로66번길 15 1층",
+    "menus": [
+      {
+        "_id": "6873e4e30f28b2e9899abfbd",
+        "name": "고추짬뽕",
+        "price": 11500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/고추짬뽕.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/고추짬뽕.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfbf",
+        "name": "고추짜장",
+        "price": 8500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/고추짜장.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/고추짜장.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfc1",
+        "name": "고급탕수육(소)",
+        "price": 25000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/고급탕수육(소).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/고급탕수육(소).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfc3",
+        "name": "고급탕수육(중)",
+        "price": 30000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/고급탕수육(중).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/고급탕수육(중).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfc5",
+        "name": "고급탕수육(대)",
+        "price": 35000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/고급탕수육(대).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/고급탕수육(대).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfc7",
+        "name": "탕수육+짜장1+군만두+콜라",
+        "price": 18000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfc9",
+        "name": "탕수육+짬뽕1+군만두+콜라",
+        "price": 20500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfcb",
+        "name": "탕수육+고추짬뽕1+군만두+콜라",
+        "price": 23000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfcd",
+        "name": "탕수육+고추국밥1+군만두+콜라",
+        "price": 23000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfcf",
+        "name": "탕수육+고추짜장1+군만두+콜라",
+        "price": 20000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfd1",
+        "name": "탕수육+짜장2+군만두+콜라",
+        "price": 24500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfd3",
+        "name": "탕수육+짬뽕2+군만두+콜라",
+        "price": 29500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfd5",
+        "name": "탕수육+고추짬뽕2+군만두+만두",
+        "price": 34500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfd7",
+        "name": "탕수육+고추짜장2+군만두+콜라",
+        "price": 28500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfd9",
+        "name": "탕수육+짬뽕1+짜장1+군만두+콜라",
+        "price": 27000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfdb",
+        "name": "짜장면",
+        "price": 6500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfdd",
+        "name": "직접갈아만든 검정콩국수",
+        "price": 9500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfdf",
+        "name": "삼선짬뽕",
+        "price": 11500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfe1",
+        "name": "차돌국밥",
+        "price": 11500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/차돌국밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/차돌국밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfe3",
+        "name": "고추국밥",
+        "price": 11500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfe5",
+        "name": "얼큰육계장",
+        "price": 10000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfe7",
+        "name": "볶음밥",
+        "price": 8500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfe9",
+        "name": "잡채밥",
+        "price": 10000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfeb",
+        "name": "고급군만두",
+        "price": 8000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfed",
+        "name": "양장피(짬뽕국물400ml)(중)",
+        "price": 33000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfef",
+        "name": "양장피(짬뽕국물400ml)(대)",
+        "price": 43000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abff1",
+        "name": "팔보채+(짬뽕국물400ml)(중)",
+        "price": 33000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abff3",
+        "name": "팔보채+(짬뽕국물400ml)(대)",
+        "price": 43000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899abfff",
+        "name": "탕수육+검정콩국수2+군만두+콜라",
+        "price": 30500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac001",
+        "name": "탕수육+검정콩국수1+군만두+콜라",
+        "price": 21000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899abfbb",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "중식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/소중대 신안동/대표사진.jpg",
+    "lat": 35.1716624,
+    "lng": 126.9054562,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e30f28b2e9899ac004",
+    "name": "1992덮밥&짜글이",
+    "location": "광주 북구 자미로66번길 21",
+    "menus": [
+      {
+        "_id": "6873e4e30f28b2e9899ac006",
+        "name": "듬뿍짜글이",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/듬뿍짜글이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/듬뿍짜글이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac008",
+        "name": "마약고추장돼지덮밥",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/마약고추장돼지덮밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/마약고추장돼지덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac00a",
+        "name": "1992 마약짜글이",
+        "price": 19900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/1992 마약짜글이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/1992 마약짜글이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac00c",
+        "name": "된장짜글이",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/된장짜글이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/된장짜글이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac00e",
+        "name": "전주식비빔밥",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/전주식비빔밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/전주식비빔밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac010",
+        "name": "매콤쭈꾸미덮밥",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/매콤쭈꾸미덮밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/매콤쭈꾸미덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac012",
+        "name": "마약육회덮밥",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/마약육회덮밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/마약육회덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac014",
+        "name": "된장삼겹덮밥",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/된장삼겹덮밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/된장삼겹덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac016",
+        "name": "마약소대창덮밥",
+        "price": 14000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/마약소대창덮밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/마약소대창덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac018",
+        "name": "돈가스덮밥",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/돈가스덮밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/돈가스덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac01a",
+        "name": "양념깐새우무침덮밥",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/양념깐새우무침덮밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/양념깐새우무침덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac01c",
+        "name": "김치고기덮밥",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/김치고기덮밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/김치고기덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac01e",
+        "name": "해물쌈장돼지덮밥",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/해물쌈장돼지덮밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/해물쌈장돼지덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac020",
+        "name": "마늘데리야끼우삼겹덮밥",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/마늘데리야끼우삼겹덮밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/마늘데리야끼우삼겹덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac022",
+        "name": "닭갈비덮밥",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/닭갈비덮밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac004",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/닭갈비덮밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/1992덮밥&짜글이 전남대점/대표사진.jpg",
+    "lat": 35.1715199,
+    "lng": 126.9059769,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e30f28b2e9899ac025",
+    "name": "모돈",
+    "location": "광주 북구 자미로66번길 10 . 1층",
+    "menus": [
+      {
+        "_id": "6873e4e30f28b2e9899ac027",
+        "name": "삼겹살.목살.양념갈비.무뼈닭발",
+        "price": 13000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/모돈 신안동 돼지/삼겹살.목살.양념갈비.무뼈닭발.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac025",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/모돈 신안동 돼지/삼겹살.목살.양념갈비.무뼈닭발.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac029",
+        "name": "생오겹살",
+        "price": 13000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac025",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac02b",
+        "name": "가브리살",
+        "price": 14000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac025",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac02d",
+        "name": "항정살",
+        "price": 14000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac025",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e30f28b2e9899ac02f",
+        "name": "등갈비소금구이",
+        "price": 14000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac025",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac031",
+        "name": "모듬스페셜",
+        "price": 40000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e30f28b2e9899ac025",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/모돈 신안동 돼지/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/모돈 신안동 돼지/대표사진.jpg",
+    "lat": 35.1715019,
+    "lng": 126.9053076,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e40f28b2e9899ac034",
+    "name": "진막창과오돌뼈",
+    "location": "광주 북구 신흥로27번길 50",
+    "menus": [
+      {
+        "_id": "6873e4e40f28b2e9899ac036",
+        "name": "오돌뼈 (170g)",
+        "price": 13000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/진막창과오돌뼈/오돌뼈 (170g).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac034",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/진막창과오돌뼈/오돌뼈 (170g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac038",
+        "name": "막창 (170g)",
+        "price": 13000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/진막창과오돌뼈/막창 (170g).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac034",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/진막창과오돌뼈/막창 (170g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac03a",
+        "name": "목살 (170g)",
+        "price": 15000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/진막창과오돌뼈/목살 (170g).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac034",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/진막창과오돌뼈/목살 (170g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac03c",
+        "name": "삼겹살 (170g)",
+        "price": 15000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/진막창과오돌뼈/삼겹살 (170g).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac034",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/진막창과오돌뼈/삼겹살 (170g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac03e",
+        "name": "갈매기살 (170g)",
+        "price": 15000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/진막창과오돌뼈/갈매기살 (170g).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac034",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/진막창과오돌뼈/갈매기살 (170g).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/진막창과오돌뼈/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/진막창과오돌뼈/대표사진.jpg",
+    "lat": 35.1711872,
+    "lng": 126.9051865,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e40f28b2e9899ac041",
+    "name": "깨순이김밥",
+    "location": "광주 북구 자미로 60",
+    "menus": [
+      {
+        "_id": "6873e4e40f28b2e9899ac043",
+        "name": "매운고추김밥",
+        "price": 4000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac045",
+        "name": "참치김치덮밥",
+        "price": 8000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac047",
+        "name": "소고기덮밥",
+        "price": 8000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac049",
+        "name": "깨순이김밥",
+        "price": 3000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깨순이김밥 전대정문점/깨순이김밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깨순이김밥 전대정문점/깨순이김밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac04b",
+        "name": "참치마요네즈김밥",
+        "price": 4000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac04d",
+        "name": "참치김치김밥",
+        "price": 4500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac04f",
+        "name": "김치치즈김밥",
+        "price": 4500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac051",
+        "name": "치즈김밥",
+        "price": 4000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac053",
+        "name": "참치매운고추김밥",
+        "price": 4500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac055",
+        "name": "새우튀김김밥",
+        "price": 4500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac057",
+        "name": "멸추김밥",
+        "price": 4500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac059",
+        "name": "소고기김밥",
+        "price": 4000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac05b",
+        "name": "김치김밥",
+        "price": 4000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac05d",
+        "name": "샐러드김밥",
+        "price": 4000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac041",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깨순이김밥 전대정문점/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/깨순이김밥 전대정문점/대표사진.jpg",
+    "lat": 35.17120370000001,
+    "lng": 126.9046452,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e40f28b2e9899ac060",
+    "name": "갓튀긴후라이드",
+    "location": "광주 북구 자미로 64 . 1층",
+    "menus": [
+      {
+        "_id": "6873e4e40f28b2e9899ac062",
+        "name": "[겉바속촉] 갓튀긴후라이드",
+        "price": 18000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[겉바속촉] 갓튀긴후라이드.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[겉바속촉] 갓튀긴후라이드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac064",
+        "name": "듬뿍 슈뿌림",
+        "price": 21000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/듬뿍 슈뿌림.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/듬뿍 슈뿌림.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac066",
+        "name": "반반 치킨",
+        "price": 18000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/반반 치킨.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/반반 치킨.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac068",
+        "name": "듬뿍 꼬추마요",
+        "price": 21000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/듬뿍 꼬추마요.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/듬뿍 꼬추마요.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac06a",
+        "name": "[NEW] 듬뿍 땡초마요",
+        "price": 21000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 듬뿍 땡초마요.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 듬뿍 땡초마요.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac06c",
+        "name": "[NEW] 듬뿍 까망 알리오",
+        "price": 21000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 듬뿍 까망 알리오.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 듬뿍 까망 알리오.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac06e",
+        "name": "[NEW] 듬뿍 뽀얀 어니언",
+        "price": 21000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 듬뿍 뽀얀 어니언.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 듬뿍 뽀얀 어니언.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac070",
+        "name": "[NEW] 갓 튀긴 콤보",
+        "price": 22000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 갓 튀긴 콤보.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 갓 튀긴 콤보.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac072",
+        "name": "갓 튀긴 윙 & 봉(윙봉)",
+        "price": 21000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 튀긴 윙 & 봉(윙봉).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 튀긴 윙 & 봉(윙봉).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac074",
+        "name": "양념치킨",
+        "price": 19000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/양념치킨.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/양념치킨.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac076",
+        "name": "매운 양념치킨",
+        "price": 19000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/매운 양념치킨.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/매운 양념치킨.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac078",
+        "name": "반반치킨 + 양념감자튀김",
+        "price": 23500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/반반치킨 + 양념감자튀김.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/반반치킨 + 양념감자튀김.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac07a",
+        "name": "반반치킨 + 똥집",
+        "price": 23500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/반반치킨 + 똥집.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/반반치킨 + 똥집.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac07c",
+        "name": "반반치킨 + 염통꼬치(8개)",
+        "price": 23500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/반반치킨 + 염통꼬치(8개).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/반반치킨 + 염통꼬치(8개).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac07e",
+        "name": "반반치킨 + 갓 만든 떡볶이",
+        "price": 23500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/반반치킨 + 갓 만든 떡볶이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/반반치킨 + 갓 만든 떡볶이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac080",
+        "name": "갓 튀긴 두마리",
+        "price": 32000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 튀긴 두마리.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 튀긴 두마리.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac082",
+        "name": "2마리 세가지맛",
+        "price": 32000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/2마리 세가지맛.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/2마리 세가지맛.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac084",
+        "name": "2마리 네가지맛",
+        "price": 32000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/2마리 네가지맛.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/2마리 네가지맛.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac086",
+        "name": "갓 튀긴 후라이드 (반마리)((콜라 미포함))",
+        "price": 12500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 튀긴 후라이드 (반마리)((콜라 미포함)).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 튀긴 후라이드 (반마리)((콜라 미포함)).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac088",
+        "name": "[NEW] 듬뿍 땡초마요 (반마리)((콜라 미포함))",
+        "price": 15500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 듬뿍 땡초마요 (반마리)((콜라 미포함)).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 듬뿍 땡초마요 (반마리)((콜라 미포함)).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac08a",
+        "name": "[NEW] 듬뿍 까망 알리오 (반마리)",
+        "price": 15500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 듬뿍 까망 알리오 (반마리).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 듬뿍 까망 알리오 (반마리).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac08c",
+        "name": "[NEW] 듬뿍 뽀얀 어니언 (반마리)",
+        "price": 15500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 듬뿍 뽀얀 어니언 (반마리).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 듬뿍 뽀얀 어니언 (반마리).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac08e",
+        "name": "듬뿍 꼬추마요 (반마리)((콜라 미포함))",
+        "price": 15500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/듬뿍 꼬추마요 (반마리)((콜라 미포함)).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/듬뿍 꼬추마요 (반마리)((콜라 미포함)).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac090",
+        "name": "[NEW] 갓 튀긴 튤립닭발",
+        "price": 13000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 갓 튀긴 튤립닭발.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/[NEW] 갓 튀긴 튤립닭발.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac092",
+        "name": "치즈볼(4개)",
+        "price": 4000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/치즈볼(4개).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/치즈볼(4개).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac094",
+        "name": "범벅 치즈볼(4개)",
+        "price": 4500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/범벅 치즈볼(4개).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/범벅 치즈볼(4개).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac096",
+        "name": "갓 만든 떡볶이",
+        "price": 5500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 만든 떡볶이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 만든 떡볶이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac098",
+        "name": "갓 만든 로제 떡볶이",
+        "price": 6500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 만든 로제 떡볶이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 만든 로제 떡볶이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac09a",
+        "name": "갓 내린 파채 (파채소스)",
+        "price": 1500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 내린 파채 (파채소스).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 내린 파채 (파채소스).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e40f28b2e9899ac09c",
+        "name": "갓 내린 파채 (파닭소스)",
+        "price": 1500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 내린 파채 (파닭소스).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e40f28b2e9899ac060",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/갓 내린 파채 (파닭소스).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "기타",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/갓튀긴후라이드 전남대점/대표사진.jpg",
+    "lat": 35.1715155,
+    "lng": 126.9047711,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e50f28b2e9899ac0af",
+    "name": "오향당",
+    "location": "광주 북구 서양로 33 오향당",
+    "menus": [
+      {
+        "_id": "6873e4e50f28b2e9899ac0b1",
+        "name": "오향닭구이",
+        "price": 11900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오향당 전대정문/오향닭구이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0af",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오향당 전대정문/오향닭구이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0b3",
+        "name": "숯불 무뼈닭발",
+        "price": 11900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오향당 전대정문/숯불 무뼈닭발.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0af",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오향당 전대정문/숯불 무뼈닭발.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0b5",
+        "name": "오향 돼지구이",
+        "price": 12900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오향당 전대정문/오향 돼지구이.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0af",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오향당 전대정문/오향 돼지구이.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0b7",
+        "name": "물냉면 비빔냉면",
+        "price": 5500,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오향당 전대정문/물냉면 비빔냉면.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0af",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오향당 전대정문/물냉면 비빔냉면.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0b9",
+        "name": "닭 특수부위 3종",
+        "price": 12900,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0af",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오향당 전대정문/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "기타",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오향당 전대정문/대표사진.jpg",
+    "lat": 35.1706319,
+    "lng": 126.9051928,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e50f28b2e9899ac0bc",
+    "name": "본가네국밥",
+    "location": "광주 북구 서양로 37 1층 원조 본가네국밥",
+    "menus": [
+      {
+        "_id": "6873e4e50f28b2e9899ac0be",
+        "name": "삼계탕(여름한정 메뉴)",
+        "price": 17000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0c0",
+        "name": "머리국밥",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/본가네국밥 신안동/머리국밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/본가네국밥 신안동/머리국밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0c2",
+        "name": "머리국밥(특)",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0c4",
+        "name": "모둠국밥",
+        "price": 10000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0c6",
+        "name": "순대국밥",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0c8",
+        "name": "내장국밥",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0ca",
+        "name": "살코기국밥",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0cc",
+        "name": "암뽕순대국밥",
+        "price": 10000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0ce",
+        "name": "머리고기수육(중)",
+        "price": 25000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0d0",
+        "name": "머리고기수육(대)",
+        "price": 30000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0d2",
+        "name": "모둠수육",
+        "price": 30000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0d4",
+        "name": "곱창전골(중)",
+        "price": 25000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0d6",
+        "name": "곱창전골(대)",
+        "price": 30000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0d8",
+        "name": "암뽕순대",
+        "price": 15000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0da",
+        "name": "찰순대",
+        "price": 10000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0bc",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/본가네국밥 신안동/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/본가네국밥 신안동/대표사진.jpg",
+    "lat": 35.1707466,
+    "lng": 126.9047998,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e50f28b2e9899ac0dd",
+    "name": "퓨전영수부영통닭",
+    "location": "광주 북구 자미로66번길 14 1층 퓨전부영통닭",
+    "menus": [
+      {
+        "_id": "6873e4e50f28b2e9899ac0df",
+        "name": "후라이드",
+        "price": 22000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/후라이드.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/후라이드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0e1",
+        "name": "양념",
+        "price": 23000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/양념.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/양념.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0e3",
+        "name": "간장",
+        "price": 23000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/간장.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/간장.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0e5",
+        "name": "순살후라이드",
+        "price": 22000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/순살후라이드.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/순살후라이드.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0e7",
+        "name": "순살 양념",
+        "price": 23000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/순살 양념.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/순살 양념.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0e9",
+        "name": "똥집",
+        "price": 22000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0eb",
+        "name": "매운양념치킨",
+        "price": 24000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0ed",
+        "name": "후라이드+양념",
+        "price": 23000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0ef",
+        "name": "후라이드+간장",
+        "price": 23000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0f1",
+        "name": "간장+양념",
+        "price": 24000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0f3",
+        "name": "간장+매운양념",
+        "price": 26000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0f5",
+        "name": "간장+매운간장",
+        "price": 26000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0f7",
+        "name": "후라이드+양념+간장",
+        "price": 25000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0f9",
+        "name": "후라이드+양념+매운간장",
+        "price": 27000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0fb",
+        "name": "후라이드+매운양념+간장",
+        "price": 27000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0fd",
+        "name": "순살후라이드 + 간장 + 겨자맛양념",
+        "price": 29000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac0ff",
+        "name": "순살 간장",
+        "price": 23000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/순살 간장.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/순살 간장.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac101",
+        "name": "순살겨자맛양념",
+        "price": 26000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac103",
+        "name": "순살 후라이드+순살 양념",
+        "price": 23000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac105",
+        "name": "순살 후라이드+순살 간장",
+        "price": 23000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac107",
+        "name": "순살 간장+순살 양념",
+        "price": 24000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac109",
+        "name": "순살 간장+순살 매운양념",
+        "price": 26000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac10b",
+        "name": "순살 간장+순살 매운간장",
+        "price": 26000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac10d",
+        "name": "순살 후라이드+순살 양념+순살 간장",
+        "price": 25000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac10f",
+        "name": "순살 후라이드+순살 양념+순살 매운간장",
+        "price": 27000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac111",
+        "name": "순살 후라이드+순살 매운양념+순살 간장",
+        "price": 27000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac113",
+        "name": "순살매운양념",
+        "price": 19000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac115",
+        "name": "순살 매운간장",
+        "price": 19000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac0dd",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "기타",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/퓨전영수부영통닭 전남대점/대표사진.jpg",
+    "lat": 35.1714681,
+    "lng": 126.9054641,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e50f28b2e9899ac120",
+    "name": "도향",
+    "location": "광주 북구 서양로41번길 20 1층",
+    "menus": [
+      {
+        "_id": "6873e4e50f28b2e9899ac122",
+        "name": "도향콩물(여름시즌메뉴)",
+        "price": 10000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/도향콩물(여름시즌메뉴).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/도향콩물(여름시즌메뉴).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac124",
+        "name": "도향짜장",
+        "price": 7000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/도향짜장.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/도향짜장.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac126",
+        "name": "도향짬뽕",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/도향짬뽕.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/도향짬뽕.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e50f28b2e9899ac128",
+        "name": "차돌비빔짬뽕",
+        "price": 12000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/차돌비빔짬뽕.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/차돌비빔짬뽕.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac12a",
+        "name": "찹쌀탕수육(소)",
+        "price": 20000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/찹쌀탕수육(소).jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/찹쌀탕수육(소).jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac12c",
+        "name": "간짜장",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/간짜장.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/간짜장.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac12e",
+        "name": "해물볶음간짜장",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/해물볶음간짜장.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/해물볶음간짜장.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac130",
+        "name": "통낙지매운해물짬뽕",
+        "price": 13000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/통낙지매운해물짬뽕.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/통낙지매운해물짬뽕.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac132",
+        "name": "우삼겹짬뽕",
+        "price": 12000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/우삼겹짬뽕.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/우삼겹짬뽕.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac134",
+        "name": "도향우동",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/도향우동.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/도향우동.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac136",
+        "name": "도향볶음밥",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/도향볶음밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/도향볶음밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac138",
+        "name": "게살볶음밥",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/게살볶음밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/게살볶음밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac13a",
+        "name": "홍콩식볶음밥",
+        "price": 12000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/홍콩식볶음밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/홍콩식볶음밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac13c",
+        "name": "잡채밥",
+        "price": 11000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/잡채밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/잡채밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac13e",
+        "name": "해물잡탕밥",
+        "price": 13000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/해물잡탕밥.jpg",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e50f28b2e9899ac120",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/해물잡탕밥.jpg",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "중식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/도향 전남대점/대표사진.jpg",
+    "lat": 35.1712316,
+    "lng": 126.9063343,
+    "__v": 1
+  },
+  {
+    "_id": "6873e4e60f28b2e9899ac141",
+    "name": "오리나라만세",
+    "location": "광주 북구 용봉로 100-1",
+    "menus": [
+      {
+        "_id": "6873e4e60f28b2e9899ac143",
+        "name": "오리탕",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e60f28b2e9899ac141",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac145",
+        "name": "오리주물럭",
+        "price": 10000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e60f28b2e9899ac141",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac147",
+        "name": "김치찌개",
+        "price": 9000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e60f28b2e9899ac141",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      },
+      {
+        "_id": "6873e4e60f28b2e9899ac149",
+        "name": "삼겹살",
+        "price": 13000,
+        "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "reviews": [],
+        "likeCount": 0,
+        "storeId": "6873e4e60f28b2e9899ac141",
+        "heart": false,
+        "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/%EA%B0%80%EA%B2%8C%EA%B8%B0%EB%B3%B8%EC%9D%B4%EB%AF%B8%EC%A7%80/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA+2025-07-04+%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE+9.55.05.png",
+        "__v": 0,
+        "dailylike": 0,
+        "weeklylike": 0
+      }
+    ],
+    "image": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오리나라만세/대표사진.jpg",
+    "isAllowed": true,
+    "likeSum": 0,
+    "locationCategory": "정문",
+    "foodCategory": "한식",
+    "displayedImg": "https://jmt-bucket-01.s3.ap-northeast-2.amazonaws.com/오리나라만세/대표사진.jpg",
+    "lat": 35.1723576,
+    "lng": 126.90765,
+    "__v": 1
   }
 ];

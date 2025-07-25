@@ -1,6 +1,7 @@
 // controllers/authController.js
 const User = require('../models/User');
 const jwt = require('jsonwebtoken');
+const { updateAllSimilarUsers } = require('../../aboutData/recommend/user_similarity_calculate');
 
 
 
@@ -31,6 +32,8 @@ const handleOAuthCallback = async (req, res) => {
             user = new User({ kakaoId: kakaoUserId });
             await user.save();
             console.log('새 사용자 생성 완료, userId:', user._id);
+            // 유사도 계산 함수 실행
+            await updateAllSimilarUsers();
         } else {
             console.log('기존 사용자 찾음, userId:', user._id);
         }
@@ -118,6 +121,8 @@ const handlePWAKakaoLogin = async (req, res) => {
             user = new User({ kakaoId: kakaoUserId });
             await user.save();
             console.log('새 사용자 생성 완료, userId:', user._id);
+            // 유사도 계산 함수 실행
+            await updateAllSimilarUsers();
         } else {
             console.log('기존 사용자 찾음, userId:', user._id);
         }

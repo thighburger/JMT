@@ -76,3 +76,5 @@ updateAllSimilarUsers().catch(err => {
     console.error('Error updating similarUsers:', err);
     mongoose.disconnect();
 });
+
+module.exports = { updateAllSimilarUsers };
