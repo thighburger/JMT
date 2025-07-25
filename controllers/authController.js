@@ -122,7 +122,6 @@ const handlePWAKakaoLogin = async (req, res) => {
             await user.save();
             console.log('새 사용자 생성 완료, userId:', user._id);
             // 유사도 계산 함수 실행
-            await updateAllSimilarUsers();
         } else {
             console.log('기존 사용자 찾음, userId:', user._id);
         }
