@@ -1,7 +1,7 @@
 // controllers/authController.js
 const User = require('../models/User');
 const jwt = require('jsonwebtoken');
-const { updateAllSimilarUsers } = require('../../aboutData/recommend/user_similarity_calculate');
+const { updateAllSimilarUsers } = require('../aboutData/recommend/user_similarity_calculate');
 
 
 
